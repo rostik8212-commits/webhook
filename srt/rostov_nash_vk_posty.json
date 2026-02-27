@@ -1,0 +1,43 @@
+{
+    "title": "Ростов. Наш ВК. посты",
+    "service": "ВКонтакте (Lead Forms)",
+    "source_id": "922",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "source_by_region_enabled": false,
+    "source_by_region": [],
+    "auto_utm_enabled": false,
+    "custom_response_enabled": false,
+    "vk_settings": {
+        "confirmation_token": "976ef5a1",
+        "secret": "98n9879798m",
+        "form_ids": "2"
+    },
+    "routes": [
+        {
+            "field": "first_name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone_number",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "email",
+            "bitrix": "EMAIL"
+        },
+        {
+            "field": "form_name",
+            "bitrix": "TITLE"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "answers",
+            "bitrix": "COMMENTS"
+        }
+    ]
+}

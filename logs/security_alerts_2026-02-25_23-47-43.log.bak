@@ -1,0 +1,80 @@
+25.02.2026 20:56:25
+Интеграция: Брянск. ЯД. TRAFFIX
+Hook: bryansk_yad_traffix
+Обнаружен метод: crm.status.list
+HTTP метод: POST
+IP: 217.18.61.95
+User-Agent: unknown
+Request URI: /webhook/srt/bryansk_yad_traffix.php/crm.status.list
+Query String: 
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+RAW: {"filter":{"ENTITY_ID":"SOURCE"},"order":null}
+==================================================
+
+25.02.2026 21:05:45
+Интеграция: Тула.ЯД.TRAFFIX
+Hook: tula_yad_traffix
+Обнаружен метод: crm.status.list
+HTTP метод: POST
+IP: 217.18.61.95
+User-Agent: unknown
+Request URI: /webhook/srt/tula_yad_traffix.php/crm.status.list
+Query String: 
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+RAW: {"filter":{"ENTITY_ID":"SOURCE"},"order":null}
+==================================================
+
+25.02.2026 21:05:56
+Интеграция: Брянск. ЯД. TRAFFIX
+Hook: bryansk_yad_traffix
+Обнаружен метод: crm.status.list
+HTTP метод: POST
+IP: 217.18.61.95
+User-Agent: unknown
+Request URI: /webhook/srt/bryansk_yad_traffix.php/crm.status.list
+Query String: 
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+RAW: {"filter":{"ENTITY_ID":"SOURCE"},"order":null}
+==================================================
+
+25.02.2026 21:07:16
+Интеграция: Орёл.ЯД.TRAFFIX
+Hook: orel_yad_traffix
+Обнаружен метод: crm.status.list
+HTTP метод: POST
+IP: 217.18.61.95
+User-Agent: unknown
+Request URI: /webhook/srt/orel_yad_traffix.php/crm.status.list
+Query String: 
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+RAW: {"filter":{"ENTITY_ID":"SOURCE"},"order":null}
+==================================================
+

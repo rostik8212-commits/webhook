@@ -1,0 +1,54 @@
+Время: 26.02.2026 16:36:22
+Сервис: ВКонтакте (Lead Forms)
+From: Заявка из ВКонтакте (Lead Forms)
+Клиент: Array
+(
+    [name] => Владимир тест23
+    [phone] => +77777774961
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"group_id":225079167,"type":"lead_forms_new","event_id":"c64f20466207b2c7de26c649d94135197fc90ed9","v":"5.199","object":{"lead_id":5097692,"group_id":225079167,"user_id":302761710,"form_id":3,"form_name":"Форма для постов Саранск","answers":[{"key":"first_name","question":"Имя","answer":"Владимир тест23"},{"key":"phone_number","question":"Номер телефона","answer":"+77777774961"}]},"secret":"yRpjsWniLxAgmtzhI"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+First_name: Владимир тест23
+Phone_number: +77777774961
+Form_name: Форма для постов Саранск
+Form_id: 3
+Group_id: 225079167
+Answers: {&quot;first_name&quot;:&quot;Владимир тест23&quot;,&quot;phone_number&quot;:&quot;+77777774961&quot;}
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Владимир тест23
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +77777774961
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [TITLE] => Заявка из ВКонтакте (Lead Forms)
+    [ASSIGNED_BY_ID] => 1
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 920
+    [COMMENTS] => <b>First_name:</b> Владимир тест23<br><b>Phone_number:</b> +77777774961<br><b>Form_name:</b> Форма для постов Саранск<br><b>Form_id:</b> 3<br><b>Group_id:</b> 225079167<br><b>Answers:</b> {&quot;first_name&quot;:&quot;Владимир тест23&quot;,&quot;phone_number&quot;:&quot;+77777774961&quot;}<br>
+)
+
+Bitrix Response: {"result":656151,"time":{"start":1772112982,"finish":1772112984.742744,"duration":2.742743968963623,"processing":2,"date_start":"2026-02-26T16:36:22+03:00","date_finish":"2026-02-26T16:36:24+03:00","operating_reset_at":1772113582,"operating":9.079673767089844}}
+Статус: Успешно (Lead ID: 656151)
+--------------------------------------------------
+

@@ -1,0 +1,55 @@
+{
+    "title": "Калуга. ЯД. ИП Якимец",
+    "service": "Tilda",
+    "source_id": "1005",
+    "city_field": "gorod",
+    "city_mapping": {
+        "калуга": "5",
+        "липецкая область": "982201",
+        "орловская область": "1126563",
+        "брянск": "264605",
+        "тула": "29407"
+    },
+    "field_labels": {
+        "summa": "сумма долга",
+        "gorod": "Город"
+    },
+    "routes": [
+        {
+            "field": "Name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "Phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "Email",
+            "bitrix": "EMAIL"
+        },
+        {
+            "field": "utm_source",
+            "bitrix": "UTM_SOURCE"
+        },
+        {
+            "field": "utm_medium",
+            "bitrix": "UTM_MEDIUM"
+        },
+        {
+            "field": "utm_campaign",
+            "bitrix": "UTM_CAMPAIGN"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        },
+        {
+            "field": "city",
+            "bitrix": "UF_CRM_GOROD"
+        }
+    ]
+}

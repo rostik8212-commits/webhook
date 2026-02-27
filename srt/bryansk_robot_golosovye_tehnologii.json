@@ -1,0 +1,30 @@
+{
+    "title": "Брянск.Робот.Голосовые технологии",
+    "service": "Робот",
+    "source_id": "282",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "routes": [
+        {
+            "field": "name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "Новая заявка - {phone}",
+            "bitrix": "TITLE"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        }
+    ]
+}

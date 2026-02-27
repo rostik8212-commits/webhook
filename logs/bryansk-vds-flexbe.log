@@ -1,0 +1,390 @@
+Время: 24.02.2026 21:08:24
+Сервис: Flexbe
+From: Заявка из Flexbe → https://цфр-32.рф/debts/
+Клиент: Array
+(
+    [name] => Ева
+    [phone] => +7 (863) 2097637
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: event=lead&data%5Bid%5D=68205545&data%5Bnum%5D=266399&data%5Btime%5D=1771956483&data%5Bstatus%5D%5Bcode%5D=0&data%5Bstatus%5D%5Bname%5D=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F&data%5Bclient%5D%5Bname%5D=%D0%95%D0%B2%D0%B0&data%5Bclient%5D%5Bphone%5D=%2B7+%28863%29+2097637&data%5Bclient%5D%5Bemail%5D=&data%5Bnote%5D=&data%5Bform_name%5D=%D0%91%D0%A4%D0%9B%3A+%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F&data%5Bform_data%5D%5Bname%5D%5Bid%5D=name&data%5Bform_data%5D%5Bname%5D%5Bname%5D=Name&data%5Bform_data%5D%5Bname%5D%5Bvalue%5D=%D0%95%D0%B2%D0%B0&data%5Bform_data%5D%5Bname%5D%5Btype%5D=name&data%5Bform_data%5D%5Bname%5D%5Borig_name%5D=%D0%98%D0%BC%D1%8F&data%5Bform_data%5D%5Bphone%5D%5Bid%5D=phone&data%5Bform_data%5D%5Bphone%5D%5Bname%5D=Phone&data%5Bform_data%5D%5Bphone%5D%5Bvalue%5D=%2B7+%28863%29+2097637&data%5Bform_data%5D%5Bphone%5D%5Btype%5D=phone&data%5Bform_data%5D%5Bphone%5D%5Borig_name%5D=%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD&data%5Bform_data%5D%5Bfld_
+POST: Array
+(
+    [event] => lead
+    [data] => Array
+        (
+            [id] => 68205545
+            [num] => 266399
+            [time] => 1771956483
+            [status] => Array
+                (
+                    [code] => 0
+                    [name] => Новая
+                )
+
+            [client] => Array
+                (
+                    [name] => Ева
+                    [phone] => +7 (863) 2097637
+                    [email] => 
+                )
+
+            [note] => 
+            [form_name] => БФЛ: Консультация
+            [form_data] => Array
+                (
+                    [name] => Array
+                        (
+                            [id] => name
+                            [name] => Name
+                            [value] => Ева
+                            [type] => name
+                            [orig_name] => Имя
+                        )
+
+                    [phone] => Array
+                        (
+                            [id] => phone
+                            [name] => Phone
+                            [value] => +7 (863) 2097637
+                            [type] => phone
+                            [orig_name] => Телефон
+                        )
+
+                    [fld_2] => Array
+                        (
+                            [type] => radio
+                            [name] => Общая сумма ваших кредитов, займов и долгов?
+                            [value] => Больше 1 000 000 ₽
+                            [id] => fld_2
+                        )
+
+                    [fld_3] => Array
+                        (
+                            [type] => radio
+                            [name] => У вас есть имущество в собственности, которое нужно сохранить?
+                            [value] => Нет, имущества нет
+                            [id] => fld_3
+                        )
+
+                    [fld_4] => Array
+                        (
+                            [type] => radio
+                            [name] => У вас были просрочки выплат по кредитам и долгам?
+                            [value] => Нет, оплачиваю долги вовремя
+                            [id] => fld_4
+                        )
+
+                    [fld_5] => Array
+                        (
+                            [type] => radio
+                            [name] => Как вам удобнее узнать условия процедуры?
+                            [value] => На БЕСПЛАТНОЙ консультации юриста по телефону
+                            [id] => fld_5
+                        )
+
+                    [fld_6] => Array
+                        (
+                            [type] => checkbox
+                            [name] => Согласие с политикой конфиденциальности
+                            [value] => Я согласен(-на) с <a class="style-link" href="/terms" target="_blank">Политикой обработки персональных данных</a>
+                            [id] => fld_6
+                        )
+
+                )
+
+            [page] => Array
+                (
+                    [url] => https://цфр-32.рф/debts/
+                    [name] => Узнайте, как в 2026 году  законно снизить долговую нагрузку по ФЗ №127 | ЦФР
+                )
+
+            [utm] => Array
+                (
+                    [ip] => 176.97.131.73
+                    [cookies] => Array
+                        (
+                            [roistat_visit] => 312137
+                            [_ym_uid] => 1771942209955156390
+                        )
+
+                    [ym_client_id] => 1771942209955156390
+                )
+
+            [custom] => Array
+                (
+                    [roistat_visit] => 312137
+                )
+
+        )
+
+    [site] => Array
+        (
+            [id] => 562768
+            [sub_id] => 659783
+            [domain] => цфр-32.рф
+        )
+
+)
+
+Quiz/Комментарии: Array
+(
+    [0] => Array
+        (
+            [question] => Общая сумма ваших кредитов, займов и долгов?
+            [answer] => Больше 1 000 000 ₽
+        )
+
+    [1] => Array
+        (
+            [question] => У вас есть имущество в собственности, которое нужно сохранить?
+            [answer] => Нет, имущества нет
+        )
+
+    [2] => Array
+        (
+            [question] => У вас были просрочки выплат по кредитам и долгам?
+            [answer] => Нет, оплачиваю долги вовремя
+        )
+
+    [3] => Array
+        (
+            [question] => Как вам удобнее узнать условия процедуры?
+            [answer] => На БЕСПЛАТНОЙ консультации юриста по телефону
+        )
+
+    [4] => Array
+        (
+            [question] => Согласие с политикой конфиденциальности
+            [answer] => Я согласен(-на) с <a class="style-link" href="/terms" target="_blank">Политикой обработки персональных данных</a>
+        )
+
+)
+
+Собранные комментарии (для лога): 
+Ответы на вопросы:
+Общая сумма ваших кредитов, займов и долгов?: Больше 1 000 000 ₽
+У вас есть имущество в собственности, которое нужно сохранить?: Нет, имущества нет
+У вас были просрочки выплат по кредитам и долгам?: Нет, оплачиваю долги вовремя
+Как вам удобнее узнать условия процедуры?: На БЕСПЛАТНОЙ консультации юриста по телефону
+Согласие с политикой конфиденциальности: Я согласен(-на) с &lt;a class=&quot;style-link&quot; href=&quot;/terms&quot; target=&quot;_blank&quot;&gt;Политикой обработки персональных данных&lt;/a&gt;
+
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Ева
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +78632097637
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (863) 2097637
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 367
+    [COMMENTS] => <b>Ответы на вопросы:</b><br><b>Общая сумма ваших кредитов, займов и долгов?:</b> Больше 1 000 000 ₽<br><b>У вас есть имущество в собственности, которое нужно сохранить?:</b> Нет, имущества нет<br><b>У вас были просрочки выплат по кредитам и долгам?:</b> Нет, оплачиваю долги вовремя<br><b>Как вам удобнее узнать условия процедуры?:</b> На БЕСПЛАТНОЙ консультации юриста по телефону<br><b>Согласие с политикой конфиденциальности:</b> Я согласен(-на) с &lt;a class=&quot;style-link&quot; href=&quot;/terms&quot; target=&quot;_blank&quot;&gt;Политикой обработки персональных данных&lt;/a&gt;<br><br>
+)
+
+Bitrix Response: {"result":654631,"time":{"start":1771956504,"finish":1771956506.246525,"duration":2.2465250492095947,"processing":2,"date_start":"2026-02-24T21:08:24+03:00","date_finish":"2026-02-24T21:08:26+03:00","operating_reset_at":1771957104,"operating":1.8462939262390137}}
+Статус: Успешно (Lead ID: 654631)
+--------------------------------------------------
+
+Время: 27.02.2026 00:57:20
+Сервис: Flexbe
+From: Заявка из Flexbe → https://цфр-32.рф/debts/
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (786) 3209765
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: event=lead&data%5Bid%5D=68309583&data%5Bnum%5D=266847&data%5Btime%5D=1772143008&data%5Bstatus%5D%5Bcode%5D=0&data%5Bstatus%5D%5Bname%5D=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F&data%5Bclient%5D%5Bname%5D=&data%5Bclient%5D%5Bphone%5D=%2B7+%28786%29+3209765&data%5Bclient%5D%5Bemail%5D=&data%5Bnote%5D=&data%5Bform_name%5D=%D0%91%D0%A4%D0%9B%3A+%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F&data%5Bform_data%5D%5Bphone%5D%5Bid%5D=phone&data%5Bform_data%5D%5Bphone%5D%5Bname%5D=Phone&data%5Bform_data%5D%5Bphone%5D%5Bvalue%5D=%2B7+%28786%29+3209765&data%5Bform_data%5D%5Bphone%5D%5Btype%5D=phone&data%5Bform_data%5D%5Bphone%5D%5Borig_name%5D=%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD&data%5Bform_data%5D%5Bfld_1%5D%5Btype%5D=radio&data%5Bform_data%5D%5Bfld_1%5D%5Bname%5D=%D0%9E%D0%B1%D1%89%D0%B0%D1%8F+%D1%81%D1%83%D0%BC%D0%BC%D0%B0+%D0%B2%D0%B0%D1%88%D0%B8%D1%85+%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BE%D0%B2%2C+%D0%B7%D0%B0%D0%B9%D0%BC%D0%BE%D0%B2+%D0%B8+%D0%B4%D0%BE%D0%BB%D0%B3
+POST: Array
+(
+    [event] => lead
+    [data] => Array
+        (
+            [id] => 68309583
+            [num] => 266847
+            [time] => 1772143008
+            [status] => Array
+                (
+                    [code] => 0
+                    [name] => Новая
+                )
+
+            [client] => Array
+                (
+                    [name] => 
+                    [phone] => +7 (786) 3209765
+                    [email] => 
+                )
+
+            [note] => 
+            [form_name] => БФЛ: Консультация
+            [form_data] => Array
+                (
+                    [phone] => Array
+                        (
+                            [id] => phone
+                            [name] => Phone
+                            [value] => +7 (786) 3209765
+                            [type] => phone
+                            [orig_name] => Телефон
+                        )
+
+                    [fld_1] => Array
+                        (
+                            [type] => radio
+                            [name] => Общая сумма ваших кредитов, займов и долгов?
+                            [value] => Больше 1 000 000 ₽
+                            [id] => fld_1
+                        )
+
+                    [fld_2] => Array
+                        (
+                            [type] => radio
+                            [name] => У вас есть имущество в собственности, которое нужно сохранить?
+                            [value] => Нет, имущества нет
+                            [id] => fld_2
+                        )
+
+                    [fld_3] => Array
+                        (
+                            [type] => radio
+                            [name] => У вас были просрочки выплат по кредитам и долгам?
+                            [value] => Нет, оплачиваю долги вовремя
+                            [id] => fld_3
+                        )
+
+                    [fld_4] => Array
+                        (
+                            [type] => radio
+                            [name] => Как вам удобнее узнать условия процедуры?
+                            [value] => На БЕСПЛАТНОЙ консультации юриста по телефону
+                            [id] => fld_4
+                        )
+
+                    [fld_5] => Array
+                        (
+                            [type] => checkbox
+                            [name] => Согласие с политикой конфиденциальности
+                            [value] => Я согласен(-на) с <a class="style-link" href="/terms" target="_blank">Политикой обработки персональных данных</a>
+                            [id] => fld_5
+                        )
+
+                )
+
+            [page] => Array
+                (
+                    [url] => https://цфр-32.рф/debts/
+                    [name] => Узнайте, как в 2026 году  законно снизить долговую нагрузку по ФЗ №127 | ЦФР
+                )
+
+            [utm] => Array
+                (
+                    [ip] => 176.97.131.73
+                    [cookies] => Array
+                        (
+                            [roistat_visit] => 312348
+                            [_ym_uid] => 1772140954772767713
+                        )
+
+                    [ym_client_id] => 1772140954772767713
+                )
+
+            [custom] => Array
+                (
+                    [roistat_visit] => 312348
+                )
+
+        )
+
+    [site] => Array
+        (
+            [id] => 562768
+            [sub_id] => 659783
+            [domain] => цфр-32.рф
+        )
+
+)
+
+Quiz/Комментарии: Array
+(
+    [0] => Array
+        (
+            [question] => Общая сумма ваших кредитов, займов и долгов?
+            [answer] => Больше 1 000 000 ₽
+        )
+
+    [1] => Array
+        (
+            [question] => У вас есть имущество в собственности, которое нужно сохранить?
+            [answer] => Нет, имущества нет
+        )
+
+    [2] => Array
+        (
+            [question] => У вас были просрочки выплат по кредитам и долгам?
+            [answer] => Нет, оплачиваю долги вовремя
+        )
+
+    [3] => Array
+        (
+            [question] => Как вам удобнее узнать условия процедуры?
+            [answer] => На БЕСПЛАТНОЙ консультации юриста по телефону
+        )
+
+    [4] => Array
+        (
+            [question] => Согласие с политикой конфиденциальности
+            [answer] => Я согласен(-на) с <a class="style-link" href="/terms" target="_blank">Политикой обработки персональных данных</a>
+        )
+
+)
+
+Собранные комментарии (для лога): 
+Ответы на вопросы:
+Общая сумма ваших кредитов, займов и долгов?: Больше 1 000 000 ₽
+У вас есть имущество в собственности, которое нужно сохранить?: Нет, имущества нет
+У вас были просрочки выплат по кредитам и долгам?: Нет, оплачиваю долги вовремя
+Как вам удобнее узнать условия процедуры?: На БЕСПЛАТНОЙ консультации юриста по телефону
+Согласие с политикой конфиденциальности: Я согласен(-на) с &lt;a class=&quot;style-link&quot; href=&quot;/terms&quot; target=&quot;_blank&quot;&gt;Политикой обработки персональных данных&lt;/a&gt;
+
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +77863209765
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (786) 3209765
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 367
+    [COMMENTS] => <b>Ответы на вопросы:</b><br><b>Общая сумма ваших кредитов, займов и долгов?:</b> Больше 1 000 000 ₽<br><b>У вас есть имущество в собственности, которое нужно сохранить?:</b> Нет, имущества нет<br><b>У вас были просрочки выплат по кредитам и долгам?:</b> Нет, оплачиваю долги вовремя<br><b>Как вам удобнее узнать условия процедуры?:</b> На БЕСПЛАТНОЙ консультации юриста по телефону<br><b>Согласие с политикой конфиденциальности:</b> Я согласен(-на) с &lt;a class=&quot;style-link&quot; href=&quot;/terms&quot; target=&quot;_blank&quot;&gt;Политикой обработки персональных данных&lt;/a&gt;<br><br>
+)
+
+Bitrix Response: {"result":656303,"time":{"start":1772143040,"finish":1772143042.341878,"duration":2.3418779373168945,"processing":2,"date_start":"2026-02-27T00:57:20+03:00","date_finish":"2026-02-27T00:57:22+03:00","operating_reset_at":1772143640,"operating":1.9019060134887695}}
+Статус: Успешно (Lead ID: 656303)
+--------------------------------------------------
+

@@ -1,0 +1,520 @@
+Время: 20.02.2026 18:13:24
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (967) 448-34-03
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: Phone=%2B7+%28967%29+448-34-03&tranid=7025517%3A8185399153&formid=form1867697471&utm_referer=geoadv_direct&utm_ya_campaign=240906897714&utm_source=geoadv_direct&utm_candidate=60318467166&utm_content=17063429775
+POST: Array
+(
+    [Phone] => +7 (967) 448-34-03
+    [tranid] => 7025517:8185399153
+    [formid] => form1867697471
+    [utm_referer] => geoadv_direct
+    [utm_ya_campaign] => 240906897714
+    [utm_source] => geoadv_direct
+    [utm_candidate] => 60318467166
+    [utm_content] => 17063429775
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => geoadv_direct
+    [UTM_CONTENT] => 17063429775
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79674483403
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 701
+)
+
+Bitrix Response: {"result":653111,"time":{"start":1771600404,"finish":1771600406.947991,"duration":2.947990894317627,"processing":2,"date_start":"2026-02-20T18:13:24+03:00","date_finish":"2026-02-20T18:13:26+03:00","operating_reset_at":1771601004,"operating":5.898494005203247}}
+Статус: Успешно (Lead ID: 653111)
+--------------------------------------------------
+
+Время: 22.02.2026 17:51:58
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (965) 636-18-64
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: Phone=%2B7+%28965%29+636-18-64&tranid=7025517%3A8189574683&formid=form1867697471&utm_referer=geoadv_direct&utm_ya_campaign=240906897714&utm_source=geoadv_direct&utm_candidate=60318467166&utm_content=17063429775
+POST: Array
+(
+    [Phone] => +7 (965) 636-18-64
+    [tranid] => 7025517:8189574683
+    [formid] => form1867697471
+    [utm_referer] => geoadv_direct
+    [utm_ya_campaign] => 240906897714
+    [utm_source] => geoadv_direct
+    [utm_candidate] => 60318467166
+    [utm_content] => 17063429775
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => geoadv_direct
+    [UTM_CONTENT] => 17063429775
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79656361864
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 701
+)
+
+Bitrix Response: {"result":653607,"time":{"start":1771771918,"finish":1771771920.380923,"duration":2.38092303276062,"processing":2,"date_start":"2026-02-22T17:51:58+03:00","date_finish":"2026-02-22T17:52:00+03:00","operating_reset_at":1771772518,"operating":2.0071768760681152}}
+Статус: Успешно (Lead ID: 653607)
+--------------------------------------------------
+
+Время: 24.02.2026 00:47:41
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Алексей Гурин
+    [phone] => +7 (900) 467-13-03
+    [email] => 
+)
+
+Город: Пензенская область (ID: не найден)
+RAW Input: gorod=%D0%9F%D0%B5%D0%BD%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&name=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%93%D1%83%D1%80%D0%B8%D0%BD&phone=%2B7+%28900%29+467-13-03&tranid=7025517%3A8192416892&formid=form1867697461&utm_referer=geoadv_direct&utm_ya_campaign=240906897714&utm_source=geoadv_direct&utm_candidate=60318467166&utm_content=17063429775
+POST: Array
+(
+    [gorod] => Пензенская область
+    [name] => Алексей Гурин
+    [phone] => +7 (900) 467-13-03
+    [tranid] => 7025517:8192416892
+    [formid] => form1867697461
+    [utm_referer] => geoadv_direct
+    [utm_ya_campaign] => 240906897714
+    [utm_source] => geoadv_direct
+    [utm_candidate] => 60318467166
+    [utm_content] => 17063429775
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Пензенская область
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => geoadv_direct
+    [UTM_CONTENT] => 17063429775
+    [NAME] => Алексей Гурин
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79004671303
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 701
+    [COMMENTS] => <b>Город:</b> Пензенская область<br>
+)
+
+Bitrix Response: {"result":653875,"time":{"start":1771883261,"finish":1771883263.244335,"duration":2.2443349361419678,"processing":2,"date_start":"2026-02-24T00:47:41+03:00","date_finish":"2026-02-24T00:47:43+03:00","operating_reset_at":1771883861,"operating":2.037328004837036}}
+Статус: Успешно (Lead ID: 653875)
+--------------------------------------------------
+
+Время: 24.02.2026 09:23:35
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Валерия
+    [phone] => +7 (910) 437-40-84
+    [email] => 
+)
+
+Город: Ульяновская область (ID: не найден)
+RAW Input: gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&name=%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F&phone=%2B7+%28910%29+437-40-84&tranid=7025517%3A8192857002&formid=form1867697461&utm_content=17459964839&utm_source=geoadv_maps
+POST: Array
+(
+    [gorod] => Ульяновская область
+    [name] => Валерия
+    [phone] => +7 (910) 437-40-84
+    [tranid] => 7025517:8192857002
+    [formid] => form1867697461
+    [utm_content] => 17459964839
+    [utm_source] => geoadv_maps
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновская область
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_CONTENT] => 17459964839
+    [UTM_SOURCE] => geoadv_maps
+    [NAME] => Валерия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79104374084
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1078
+    [COMMENTS] => <b>Город:</b> Ульяновская область<br>
+)
+
+Bitrix Response: {"result":653925,"time":{"start":1771914215,"finish":1771914218.026471,"duration":3.026470899581909,"processing":3,"date_start":"2026-02-24T09:23:35+03:00","date_finish":"2026-02-24T09:23:38+03:00","operating_reset_at":1771914815,"operating":6.7154576778411865}}
+Статус: Успешно (Lead ID: 653925)
+--------------------------------------------------
+
+Время: 24.02.2026 09:25:55
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Екатерина
+    [phone] => +7 (915) 253-82-20
+    [email] => 
+)
+
+Город: Ульяновская область (ID: не найден)
+RAW Input: gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&name=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0&phone=%2B7+%28915%29+253-82-20&tranid=7025517%3A8192862692&formid=form1867697461&utm_content=17459964839&utm_source=geoadv_maps
+POST: Array
+(
+    [gorod] => Ульяновская область
+    [name] => Екатерина
+    [phone] => +7 (915) 253-82-20
+    [tranid] => 7025517:8192862692
+    [formid] => form1867697461
+    [utm_content] => 17459964839
+    [utm_source] => geoadv_maps
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновская область
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_CONTENT] => 17459964839
+    [UTM_SOURCE] => geoadv_maps
+    [NAME] => Екатерина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79152538220
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1078
+    [COMMENTS] => <b>Город:</b> Ульяновская область<br>
+)
+
+Bitrix Response: {"result":653929,"time":{"start":1771914355,"finish":1771914358.177908,"duration":3.177907943725586,"processing":3,"date_start":"2026-02-24T09:25:55+03:00","date_finish":"2026-02-24T09:25:58+03:00","operating_reset_at":1771914955,"operating":7.127122640609741}}
+Статус: Успешно (Lead ID: 653929)
+--------------------------------------------------
+
+Время: 24.02.2026 09:28:23
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Елена
+    [phone] => +7 (915) 246-71-97
+    [email] => 
+)
+
+Город: Ульяновская область (ID: не найден)
+RAW Input: gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&name=%D0%95%D0%BB%D0%B5%D0%BD%D0%B0&phone=%2B7+%28915%29+246-71-97&tranid=7025517%3A8192868092&formid=form1867697461&utm_content=17459964839&utm_source=geoadv_maps
+POST: Array
+(
+    [gorod] => Ульяновская область
+    [name] => Елена
+    [phone] => +7 (915) 246-71-97
+    [tranid] => 7025517:8192868092
+    [formid] => form1867697461
+    [utm_content] => 17459964839
+    [utm_source] => geoadv_maps
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновская область
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_CONTENT] => 17459964839
+    [UTM_SOURCE] => geoadv_maps
+    [NAME] => Елена
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79152467197
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1078
+    [COMMENTS] => <b>Город:</b> Ульяновская область<br>
+)
+
+Bitrix Response: {"result":653935,"time":{"start":1771914503,"finish":1771914506.933799,"duration":3.9337990283966064,"processing":3,"date_start":"2026-02-24T09:28:23+03:00","date_finish":"2026-02-24T09:28:26+03:00","operating_reset_at":1771915103,"operating":8.194856882095337}}
+Статус: Успешно (Lead ID: 653935)
+--------------------------------------------------
+
+Время: 24.02.2026 12:30:10
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (986) 734-48-16
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: Phone=%2B7+%28986%29+734-48-16&tranid=7025517%3A8193390112&formid=form1867697471&utm_referer=geoadv_direct&utm_ya_campaign=240906897714&utm_source=geoadv_direct&utm_candidate=60318467166&utm_content=17063429775
+POST: Array
+(
+    [Phone] => +7 (986) 734-48-16
+    [tranid] => 7025517:8193390112
+    [formid] => form1867697471
+    [utm_referer] => geoadv_direct
+    [utm_ya_campaign] => 240906897714
+    [utm_source] => geoadv_direct
+    [utm_candidate] => 60318467166
+    [utm_content] => 17063429775
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => geoadv_direct
+    [UTM_CONTENT] => 17063429775
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79867344816
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 701
+)
+
+Bitrix Response: {"result":654155,"time":{"start":1771925410,"finish":1771925412.80022,"duration":2.800220012664795,"processing":2,"date_start":"2026-02-24T12:30:10+03:00","date_finish":"2026-02-24T12:30:12+03:00","operating_reset_at":1771926010,"operating":18.20934748649597}}
+Статус: Успешно (Lead ID: 654155)
+--------------------------------------------------
+
+Время: 26.02.2026 00:58:52
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Артем
+    [phone] => +7 (987) 078-99-18
+    [email] => 
+)
+
+Город: Пензенская область (ID: не найден)
+RAW Input: gorod=%D0%9F%D0%B5%D0%BD%D0%B7%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C&name=%D0%90%D1%80%D1%82%D0%B5%D0%BC&phone=%2B7+%28987%29+078-99-18&tranid=7025517%3A8198154262&formid=form1867697461&utm_referer=geoadv_direct&utm_ya_campaign=240906897714&utm_source=geoadv_direct&utm_candidate=60318467166&utm_content=17063429775
+POST: Array
+(
+    [gorod] => Пензенская область
+    [name] => Артем
+    [phone] => +7 (987) 078-99-18
+    [tranid] => 7025517:8198154262
+    [formid] => form1867697461
+    [utm_referer] => geoadv_direct
+    [utm_ya_campaign] => 240906897714
+    [utm_source] => geoadv_direct
+    [utm_candidate] => 60318467166
+    [utm_content] => 17063429775
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Пензенская область
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => geoadv_direct
+    [UTM_CONTENT] => 17063429775
+    [NAME] => Артем
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79870789918
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 701
+    [COMMENTS] => <b>Город:</b> Пензенская область<br>
+)
+
+Bitrix Response: {"result":655513,"time":{"start":1772056732,"finish":1772056734.923545,"duration":2.9235448837280273,"processing":2,"date_start":"2026-02-26T00:58:52+03:00","date_finish":"2026-02-26T00:58:54+03:00","operating_reset_at":1772057332,"operating":2.0063669681549072}}
+Статус: Успешно (Lead ID: 655513)
+--------------------------------------------------
+
+Время: 26.02.2026 15:48:37
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (920) 502-40-33
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: Phone=%2B7+%28920%29+502-40-33&tranid=7025517%3A8199782433&formid=form1867697471&utm_referer=geoadv_direct&utm_ya_campaign=240906897714&utm_source=geoadv_direct&utm_candidate=61524029120&utm_content=17618385739
+POST: Array
+(
+    [Phone] => +7 (920) 502-40-33
+    [tranid] => 7025517:8199782433
+    [formid] => form1867697471
+    [utm_referer] => geoadv_direct
+    [utm_ya_campaign] => 240906897714
+    [utm_source] => geoadv_direct
+    [utm_candidate] => 61524029120
+    [utm_content] => 17618385739
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => geoadv_direct
+    [UTM_CONTENT] => 17618385739
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79205024033
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 701
+)
+
+Bitrix Response: {"result":656075,"time":{"start":1772110117,"finish":1772110120.467544,"duration":3.4675440788269043,"processing":3,"date_start":"2026-02-26T15:48:37+03:00","date_finish":"2026-02-26T15:48:40+03:00","operating_reset_at":1772110717,"operating":9.193690776824951}}
+Статус: Успешно (Lead ID: 656075)
+--------------------------------------------------
+

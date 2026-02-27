@@ -1,0 +1,33 @@
+{
+    "title": "Орел. Базы+КЦ.L-ВFL",
+    "service": "Базы + КЦ",
+    "source_id": "886",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "source_by_region_enabled": false,
+    "source_by_region": [],
+    "auto_utm_enabled": false,
+    "routes": [
+        {
+            "field": "name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "Новая заявка - {phone}",
+            "bitrix": "TITLE"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+Время: 20.02.2026 10:23:25
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Сергей
+    [phone] => 79586638962
+    [email] => 
+)
+
+Город: Болохово (ID: не найден)
+RAW Input: {"id":461933,"name":"Сергей ","email":"","phone":"79586638962","region":"Тульская обл","city":"Болохово","comments":"sum: 4500000\u003cbr\u003eipoteka: да\u003cbr\u003ezalog: нет\u003cbr\u003eAge: 38\u003cbr\u003emale/female: Мужской \u003cbr\u003eКомментарий: \u003cbr\u003eДополнительная информация : \u003cbr\u003eДоговор: Нет\u003cbr\u003e","params":{"Age":38,"ipoteka":"да","male/female":"Мужской ","sum":4500000,"zalog":"нет"},"date":"20.02.2026 10:22"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Id: 461933
+Comments: sum: 4500000&lt;br&gt;ipoteka: да&lt;br&gt;zalog: нет&lt;br&gt;Age: 38&lt;br&gt;male/female: Мужской &lt;br&gt;Комментарий: &lt;br&gt;Дополнительная информация : &lt;br&gt;Договор: Нет&lt;br&gt;
+Params: 38
+Date: 20.02.2026 10:22
+Город: Болохово
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Сергей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79586638962
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79586638962
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 414
+    [COMMENTS] => <b>Id:</b> 461933<br><b>Comments:</b> sum: 4500000&lt;br&gt;ipoteka: да&lt;br&gt;zalog: нет&lt;br&gt;Age: 38&lt;br&gt;male/female: Мужской &lt;br&gt;Комментарий: &lt;br&gt;Дополнительная информация : &lt;br&gt;Договор: Нет&lt;br&gt;<br><b>Params:</b> 38<br><b>Date:</b> 20.02.2026 10:22<br><b>Город:</b> Болохово<br>
+)
+
+Bitrix Response: {"result":652579,"time":{"start":1771572206,"finish":1771572208.447386,"duration":2.4473860263824463,"processing":2,"date_start":"2026-02-20T10:23:26+03:00","date_finish":"2026-02-20T10:23:28+03:00","operating_reset_at":1771572806,"operating":12.558637142181396}}
+Статус: Успешно (Lead ID: 652579)
+--------------------------------------------------
+
+Время: 23.02.2026 12:39:40
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Игорь
+    [phone] => 79964323979
+    [email] => 
+)
+
+Город: Тула (ID: не найден)
+RAW Input: {"id":462358,"name":"Игорь","email":"","phone":"79964323979","region":"Тульская обл","city":"Тула","comments":"sum: 1000000\u003cbr\u003eipoteka: нет\u003cbr\u003ezalog: нет\u003cbr\u003eAge: 55\u003cbr\u003emale/female: Мужской \u003cbr\u003eКомментарий: \u003cbr\u003eДополнительная информация : \u003cbr\u003eДоговор: Нет\u003cbr\u003e","params":{"Age":55,"ipoteka":"нет","male/female":"Мужской ","sum":1000000,"zalog":"нет"},"date":"23.02.2026 12:39"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Id: 462358
+Comments: sum: 1000000&lt;br&gt;ipoteka: нет&lt;br&gt;zalog: нет&lt;br&gt;Age: 55&lt;br&gt;male/female: Мужской &lt;br&gt;Комментарий: &lt;br&gt;Дополнительная информация : &lt;br&gt;Договор: Нет&lt;br&gt;
+Params: 55
+Date: 23.02.2026 12:39
+Город: Тула
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Игорь
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79964323979
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79964323979
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 414
+    [COMMENTS] => <b>Id:</b> 462358<br><b>Comments:</b> sum: 1000000&lt;br&gt;ipoteka: нет&lt;br&gt;zalog: нет&lt;br&gt;Age: 55&lt;br&gt;male/female: Мужской &lt;br&gt;Комментарий: &lt;br&gt;Дополнительная информация : &lt;br&gt;Договор: Нет&lt;br&gt;<br><b>Params:</b> 55<br><b>Date:</b> 23.02.2026 12:39<br><b>Город:</b> Тула<br>
+)
+
+Bitrix Response: {"result":653723,"time":{"start":1771839580,"finish":1771839582.446428,"duration":2.446428060531616,"processing":2,"date_start":"2026-02-23T12:39:40+03:00","date_finish":"2026-02-23T12:39:42+03:00","operating_reset_at":1771840180,"operating":1.8354859352111816}}
+Статус: Успешно (Lead ID: 653723)
+--------------------------------------------------
+
+Время: 24.02.2026 16:35:22
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Наталья
+    [phone] => 79190807986
+    [email] => 
+)
+
+Город: Тульская обл. (ID: не найден)
+RAW Input: {"id":462486,"name":"Наталья","email":"","phone":"79190807986","region":"Тульская обл.","city":"Тульская обл.","comments":"sum: 300000\u003cbr\u003eipoteka: \u003cbr\u003ezalog: \u003cbr\u003eКомментарий: \u003cbr\u003eПерезвонить: \u003cbr\u003eДополнительная информация : \u003cbr\u003e","params":{"sum":300000},"date":"24.02.2026 16:35"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Id: 462486
+Comments: sum: 300000&lt;br&gt;ipoteka: &lt;br&gt;zalog: &lt;br&gt;Комментарий: &lt;br&gt;Перезвонить: &lt;br&gt;Дополнительная информация : &lt;br&gt;
+Params: 300000
+Date: 24.02.2026 16:35
+Город: Тульская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Наталья
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79190807986
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79190807986
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 414
+    [COMMENTS] => <b>Id:</b> 462486<br><b>Comments:</b> sum: 300000&lt;br&gt;ipoteka: &lt;br&gt;zalog: &lt;br&gt;Комментарий: &lt;br&gt;Перезвонить: &lt;br&gt;Дополнительная информация : &lt;br&gt;<br><b>Params:</b> 300000<br><b>Date:</b> 24.02.2026 16:35<br><b>Город:</b> Тульская обл.<br>
+)
+
+Bitrix Response: {"result":654435,"time":{"start":1771940122,"finish":1771940125.194491,"duration":3.194490909576416,"processing":3,"date_start":"2026-02-24T16:35:22+03:00","date_finish":"2026-02-24T16:35:25+03:00","operating_reset_at":1771940722,"operating":6.57354998588562}}
+Статус: Успешно (Lead ID: 654435)
+--------------------------------------------------
+
+Время: 25.02.2026 16:51:59
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Светлана
+    [phone] => 79606180333
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"id":462555,"name":"Светлана","email":"","phone":"79606180333","region":"Тульская обл","city":"","comments":"sum: 500000\u003cbr\u003eipoteka: \u003cbr\u003ezalog: \u003cbr\u003eКомментарий: \u003cbr\u003eПерезвонить: \u003cbr\u003eДополнительная информация : \u003cbr\u003e","params":{"sum":500000},"date":"25.02.2026 16:51"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Id: 462555
+Comments: sum: 500000&lt;br&gt;ipoteka: &lt;br&gt;zalog: &lt;br&gt;Комментарий: &lt;br&gt;Перезвонить: &lt;br&gt;Дополнительная информация : &lt;br&gt;
+Params: 500000
+Date: 25.02.2026 16:51
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Светлана
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79606180333
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79606180333
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 414
+    [COMMENTS] => <b>Id:</b> 462555<br><b>Comments:</b> sum: 500000&lt;br&gt;ipoteka: &lt;br&gt;zalog: &lt;br&gt;Комментарий: &lt;br&gt;Перезвонить: &lt;br&gt;Дополнительная информация : &lt;br&gt;<br><b>Params:</b> 500000<br><b>Date:</b> 25.02.2026 16:51<br>
+)
+
+Bitrix Response: {"result":655311,"time":{"start":1772027519,"finish":1772027522.35446,"duration":3.3544600009918213,"processing":3,"date_start":"2026-02-25T16:51:59+03:00","date_finish":"2026-02-25T16:52:02+03:00","operating_reset_at":1772028119,"operating":14.518542051315308}}
+Статус: Успешно (Lead ID: 655311)
+--------------------------------------------------
+
+Время: 25.02.2026 16:56:01
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Анна
+    [phone] => 79100753052
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"id":462559,"name":"Анна","email":"","phone":"79100753052","region":"Тульская обл","city":"","comments":"sum: 250000\u003cbr\u003eipoteka: \u003cbr\u003ezalog: \u003cbr\u003eКомментарий: \u003cbr\u003eПерезвонить: \u003cbr\u003eДополнительная информация : \u003cbr\u003e","params":{"sum":250000},"date":"25.02.2026 16:56"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Id: 462559
+Comments: sum: 250000&lt;br&gt;ipoteka: &lt;br&gt;zalog: &lt;br&gt;Комментарий: &lt;br&gt;Перезвонить: &lt;br&gt;Дополнительная информация : &lt;br&gt;
+Params: 250000
+Date: 25.02.2026 16:56
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Анна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79100753052
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79100753052
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 414
+    [COMMENTS] => <b>Id:</b> 462559<br><b>Comments:</b> sum: 250000&lt;br&gt;ipoteka: &lt;br&gt;zalog: &lt;br&gt;Комментарий: &lt;br&gt;Перезвонить: &lt;br&gt;Дополнительная информация : &lt;br&gt;<br><b>Params:</b> 250000<br><b>Date:</b> 25.02.2026 16:56<br>
+)
+
+Bitrix Response: {"result":655317,"time":{"start":1772027761,"finish":1772027764.366516,"duration":3.36651611328125,"processing":3,"date_start":"2026-02-25T16:56:01+03:00","date_finish":"2026-02-25T16:56:04+03:00","operating_reset_at":1772028361,"operating":12.124986171722412}}
+Статус: Успешно (Lead ID: 655317)
+--------------------------------------------------
+
+Время: 26.02.2026 10:38:10
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Александр
+    [phone] => 79539691866
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"id":462615,"name":"Александр","email":"","phone":"79539691866","region":"Тульская обл","city":"","comments":"sum: 1000000\u003cbr\u003eipoteka: нет\u003cbr\u003ezalog: нет\u003cbr\u003eAge: 70\u003cbr\u003emale/female: Мужской \u003cbr\u003eКомментарий: \u003cbr\u003eДополнительная информация : есть готов растогнуть Киреевский р-он\u003cbr\u003eДоговор: Да\u003cbr\u003e","params":{"Age":70,"ipoteka":"нет","male/female":"Мужской ","sum":1000000,"zalog":"нет"},"date":"26.02.2026 10:38"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Id: 462615
+Comments: sum: 1000000&lt;br&gt;ipoteka: нет&lt;br&gt;zalog: нет&lt;br&gt;Age: 70&lt;br&gt;male/female: Мужской &lt;br&gt;Комментарий: &lt;br&gt;Дополнительная информация : есть готов растогнуть Киреевский р-он&lt;br&gt;Договор: Да&lt;br&gt;
+Params: 70
+Date: 26.02.2026 10:38
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Александр
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79539691866
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79539691866
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 414
+    [COMMENTS] => <b>Id:</b> 462615<br><b>Comments:</b> sum: 1000000&lt;br&gt;ipoteka: нет&lt;br&gt;zalog: нет&lt;br&gt;Age: 70&lt;br&gt;male/female: Мужской &lt;br&gt;Комментарий: &lt;br&gt;Дополнительная информация : есть готов растогнуть Киреевский р-он&lt;br&gt;Договор: Да&lt;br&gt;<br><b>Params:</b> 70<br><b>Date:</b> 26.02.2026 10:38<br>
+)
+
+Bitrix Response: {"result":655673,"time":{"start":1772091490,"finish":1772091492.873952,"duration":2.8739519119262695,"processing":2,"date_start":"2026-02-26T10:38:10+03:00","date_finish":"2026-02-26T10:38:12+03:00","operating_reset_at":1772092090,"operating":7.019866943359375}}
+Статус: Успешно (Lead ID: 655673)
+--------------------------------------------------
+

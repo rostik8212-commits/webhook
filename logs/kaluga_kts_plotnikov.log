@@ -1,0 +1,147 @@
+Время: 25.02.2026 17:45:43
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Тест Тест Тест
+    [phone] => 79831513535
+    [email] => 
+)
+
+Город: Калуга (ID: не найден)
+RAW Input: {"phone":"79831513535","name":"\u0422\u0435\u0441\u0442 \u0422\u0435\u0441\u0442 \u0422\u0435\u0441\u0442","Comments":"","Gorod":"\u041a\u0430\u043b\u0443\u0433\u0430","utm_source":"ap-lead","utm_medium":"cc","utm_campaign":null,"utm_content":null,"utm_term":null}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Калуга
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Тест Тест Тест
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79831513535
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79831513535
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 581
+    [COMMENTS] => <b>Город:</b> Калуга<br>
+)
+
+Bitrix Response: {"result":655405,"time":{"start":1772030743,"finish":1772030746.212995,"duration":3.2129950523376465,"processing":3,"date_start":"2026-02-25T17:45:43+03:00","date_finish":"2026-02-25T17:45:46+03:00","operating_reset_at":1772031343,"operating":10.677384853363037}}
+Статус: Успешно (Lead ID: 655405)
+--------------------------------------------------
+
+Время: 26.02.2026 14:25:16
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Алексей Викторович
+    [phone] => 79533388121
+    [email] => 
+)
+
+Город: Воротынск (ID: не найден)
+RAW Input: {"phone":"79533388121","name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u0438\u0447","Comments":"","Gorod":"\u0412\u043e\u0440\u043e\u0442\u044b\u043d\u0441\u043a","utm_source":"ap-lead","utm_medium":"cc","utm_campaign":null,"utm_content":null,"utm_term":null}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Воротынск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Алексей Викторович
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79533388121
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79533388121
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 581
+    [COMMENTS] => <b>Город:</b> Воротынск<br>
+)
+
+Bitrix Response: {"result":655967,"time":{"start":1772105116,"finish":1772105118.960622,"duration":2.9606220722198486,"processing":2,"date_start":"2026-02-26T14:25:16+03:00","date_finish":"2026-02-26T14:25:18+03:00","operating_reset_at":1772105716,"operating":4.751197099685669}}
+Статус: Успешно (Lead ID: 655967)
+--------------------------------------------------
+
+Время: 27.02.2026 09:51:13
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Хачатур  Мартиросович
+    [phone] => 79105194529
+    [email] => 
+)
+
+Город: Обнинск (ID: не найден)
+RAW Input: {"phone":"79105194529","name":"\u0425\u0430\u0447\u0430\u0442\u0443\u0440  \u041c\u0430\u0440\u0442\u0438\u0440\u043e\u0441\u043e\u0432\u0438\u0447 ","Comments":"","Gorod":"\u041e\u0431\u043d\u0438\u043d\u0441\u043a","utm_source":"ap-lead","utm_medium":"cc","utm_campaign":null,"utm_content":null,"utm_term":null}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Обнинск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Хачатур  Мартиросович
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79105194529
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79105194529
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 581
+    [COMMENTS] => <b>Город:</b> Обнинск<br>
+)
+
+Bitrix Response: {"result":656411,"time":{"start":1772175073,"finish":1772175076.424297,"duration":3.4242970943450928,"processing":3,"date_start":"2026-02-27T09:51:13+03:00","date_finish":"2026-02-27T09:51:16+03:00","operating_reset_at":1772175673,"operating":12.030323266983032}}
+Статус: Успешно (Lead ID: 656411)
+--------------------------------------------------
+

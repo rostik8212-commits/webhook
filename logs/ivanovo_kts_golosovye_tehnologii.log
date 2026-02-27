@@ -1,0 +1,660 @@
+Время: 23.02.2026 15:56:48
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Тестовый тест
+    [phone] => 79111111121
+    [email] => 
+)
+
+Город: Йошкар-Ола (ID: не найден)
+RAW Input: {
+ "name": "Тестовый тест",
+    "phone": "79111111121",
+ "Comments": "Оператор 300000 Залог [p]_Тестовый комментарий_[/p]",
+    "Gorod": "Йошкар-Ола",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Оператор 300000 Залог [p]_Тестовый комментарий_[/p]
+Город: Йошкар-Ола
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Тестовый тест
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79111111121
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79111111121
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Оператор 300000 Залог [p]_Тестовый комментарий_[/p]<br><b>Город:</b> Йошкар-Ола<br>
+)
+
+Bitrix Response: {"result":653785,"time":{"start":1771851408,"finish":1771851410.168104,"duration":2.1681039333343506,"processing":2,"date_start":"2026-02-23T15:56:48+03:00","date_finish":"2026-02-23T15:56:50+03:00","operating_reset_at":1771852008,"operating":3.5506200790405273}}
+Статус: Успешно (Lead ID: 653785)
+--------------------------------------------------
+
+Время: 24.02.2026 09:01:03
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Алексей
+    [phone] => 79303474799
+    [email] => 
+)
+
+Город: Кинешма (ID: не найден)
+RAW Input: {
+ "name": "Алексей ",
+    "phone": "79303474799",
+ "Comments": "людмила  250т  потреб кредит на ип физ лицо  ",
+    "Gorod": "Кинешма",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: людмила  250т  потреб кредит на ип физ лицо
+Город: Кинешма
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Алексей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79303474799
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79303474799
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> людмила  250т  потреб кредит на ип физ лицо<br><b>Город:</b> Кинешма<br>
+)
+
+Bitrix Response: {"result":653899,"time":{"start":1771912863,"finish":1771912865.457302,"duration":2.4573020935058594,"processing":2,"date_start":"2026-02-24T09:01:03+03:00","date_finish":"2026-02-24T09:01:05+03:00","operating_reset_at":1771913463,"operating":10.174203157424927}}
+Статус: Успешно (Lead ID: 653899)
+--------------------------------------------------
+
+Время: 24.02.2026 10:37:03
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Татьяна
+    [phone] => 79203751780
+    [email] => 
+)
+
+Город: Иваново (ID: не найден)
+RAW Input: {
+ "name": "Татьяна",
+    "phone": "79203751780",
+ "Comments": "Анна 350к КК 140к, Просуженный долг 210к ",
+    "Gorod": "Иваново",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Анна 350к КК 140к, Просуженный долг 210к
+Город: Иваново
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Татьяна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79203751780
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79203751780
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Анна 350к КК 140к, Просуженный долг 210к<br><b>Город:</b> Иваново<br>
+)
+
+Bitrix Response: {"result":654003,"time":{"start":1771918623,"finish":1771918625.63867,"duration":2.638669967651367,"processing":2,"date_start":"2026-02-24T10:37:03+03:00","date_finish":"2026-02-24T10:37:05+03:00","operating_reset_at":1771919223,"operating":2.4742798805236816}}
+Статус: Успешно (Lead ID: 654003)
+--------------------------------------------------
+
+Время: 24.02.2026 11:43:08
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Анатолий Владимирович
+    [phone] => 79206767832
+    [email] => 
+)
+
+Город: Иваново (ID: не найден)
+RAW Input: {
+ "name": "Анатолий Владимирович",
+    "phone": "79206767832",
+ "Comments": "Виктория 250к пк ",
+    "Gorod": "Иваново",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 250к пк
+Город: Иваново
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Анатолий Владимирович
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79206767832
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79206767832
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Виктория 250к пк<br><b>Город:</b> Иваново<br>
+)
+
+Bitrix Response: {"result":654077,"time":{"start":1771922588,"finish":1771922590.226634,"duration":2.2266340255737305,"processing":2,"date_start":"2026-02-24T11:43:08+03:00","date_finish":"2026-02-24T11:43:10+03:00","operating_reset_at":1771923188,"operating":10.127815008163452}}
+Статус: Успешно (Lead ID: 654077)
+--------------------------------------------------
+
+Время: 25.02.2026 09:00:50
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Александра
+    [phone] => 79203707874
+    [email] => 
+)
+
+Город: Иваново (ID: не найден)
+RAW Input: {
+ "name": "Александра",
+    "phone": "79203707874",
+ "Comments": "Анна 400к ПК, КК ",
+    "Gorod": "Иваново",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Анна 400к ПК, КК
+Город: Иваново
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Александра
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79203707874
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79203707874
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Анна 400к ПК, КК<br><b>Город:</b> Иваново<br>
+)
+
+Bitrix Response: {"result":654729,"time":{"start":1771999250,"finish":1771999253.446931,"duration":3.4469308853149414,"processing":2,"date_start":"2026-02-25T09:00:50+03:00","date_finish":"2026-02-25T09:00:53+03:00","operating_reset_at":1771999851,"operating":4.57702374458313}}
+Статус: Успешно (Lead ID: 654729)
+--------------------------------------------------
+
+Время: 25.02.2026 09:21:11
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Ольга
+    [phone] => 79290880907
+    [email] => 
+)
+
+Город: Вичуга (ID: не найден)
+RAW Input: {
+ "name": "Ольга",
+    "phone": "79290880907",
+ "Comments": "Евгений 470к 470к потреб ",
+    "Gorod": "Вичуга",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Евгений 470к 470к потреб
+Город: Вичуга
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Ольга
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79290880907
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79290880907
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Евгений 470к 470к потреб<br><b>Город:</b> Вичуга<br>
+)
+
+Bitrix Response: {"result":654769,"time":{"start":1772000471,"finish":1772000473.736508,"duration":2.7365078926086426,"processing":2,"date_start":"2026-02-25T09:21:11+03:00","date_finish":"2026-02-25T09:21:13+03:00","operating_reset_at":1772001071,"operating":12.462715148925781}}
+Статус: Успешно (Lead ID: 654769)
+--------------------------------------------------
+
+Время: 25.02.2026 09:56:19
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Алексей
+    [phone] => 79016991231
+    [email] => 
+)
+
+Город: Иваново (ID: не найден)
+RAW Input: {
+ "name": "Алексей",
+    "phone": "79016991231",
+ "Comments": "Анна 2млн ПК ",
+    "Gorod": "Иваново",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Анна 2млн ПК
+Город: Иваново
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Алексей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79016991231
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79016991231
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Анна 2млн ПК<br><b>Город:</b> Иваново<br>
+)
+
+Bitrix Response: {"result":654797,"time":{"start":1772002579,"finish":1772002581.772766,"duration":2.77276611328125,"processing":2,"date_start":"2026-02-25T09:56:19+03:00","date_finish":"2026-02-25T09:56:21+03:00","operating_reset_at":1772003179,"operating":9.201062202453613}}
+Статус: Успешно (Lead ID: 654797)
+--------------------------------------------------
+
+Время: 26.02.2026 09:00:36
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Мария
+    [phone] => 79109831032
+    [email] => 
+)
+
+Город: Иваново (ID: не найден)
+RAW Input: {
+ "name": "Мария",
+    "phone": "79109831032",
+ "Comments": "Елизовета 600 к кк ",
+    "Gorod": "Иваново",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Елизовета 600 к кк
+Город: Иваново
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Мария
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79109831032
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79109831032
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Елизовета 600 к кк<br><b>Город:</b> Иваново<br>
+)
+
+Bitrix Response: {"result":655557,"time":{"start":1772085636,"finish":1772085639.567578,"duration":3.567578077316284,"processing":2,"date_start":"2026-02-26T09:00:36+03:00","date_finish":"2026-02-26T09:00:39+03:00","operating_reset_at":1772086237,"operating":7.358237981796265}}
+Статус: Успешно (Lead ID: 655557)
+--------------------------------------------------
+
+Время: 26.02.2026 10:24:09
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Татьяна
+    [phone] => 79261988483
+    [email] => 
+)
+
+Город: Иваново (ID: не найден)
+RAW Input: {
+ "name": "Татьяна",
+    "phone": "79261988483",
+ "Comments": "Виктория 600к кк ",
+    "Gorod": "Иваново",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 600к кк
+Город: Иваново
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Татьяна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79261988483
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79261988483
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Виктория 600к кк<br><b>Город:</b> Иваново<br>
+)
+
+Bitrix Response: {"result":655659,"time":{"start":1772090649,"finish":1772090651.387915,"duration":2.3879148960113525,"processing":2,"date_start":"2026-02-26T10:24:09+03:00","date_finish":"2026-02-26T10:24:11+03:00","operating_reset_at":1772091249,"operating":8.961496114730835}}
+Статус: Успешно (Lead ID: 655659)
+--------------------------------------------------
+
+Время: 26.02.2026 10:34:42
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Дмитрий
+    [phone] => 79206713183
+    [email] => 
+)
+
+Город: Иваново (ID: не найден)
+RAW Input: {
+ "name": "Дмитрий",
+    "phone": "79206713183",
+ "Comments": "Виктория 650к пк ",
+    "Gorod": "Иваново",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 650к пк
+Город: Иваново
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Дмитрий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79206713183
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79206713183
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Виктория 650к пк<br><b>Город:</b> Иваново<br>
+)
+
+Bitrix Response: {"result":655667,"time":{"start":1772091282,"finish":1772091284.439001,"duration":2.4390010833740234,"processing":2,"date_start":"2026-02-26T10:34:42+03:00","date_finish":"2026-02-26T10:34:44+03:00","operating_reset_at":1772091882,"operating":6.7426698207855225}}
+Статус: Успешно (Lead ID: 655667)
+--------------------------------------------------
+
+Время: 27.02.2026 09:00:28
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Юлия
+    [phone] => 79203531861
+    [email] => 
+)
+
+Город: Иваново (ID: не найден)
+RAW Input: {
+ "name": "Юлия",
+    "phone": "79203531861",
+ "Comments": "Виктория 300к пк ",
+    "Gorod": "Иваново",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 300к пк
+Город: Иваново
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Юлия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79203531861
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79203531861
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 889
+    [COMMENTS] => <b>Comments:</b> Виктория 300к пк<br><b>Город:</b> Иваново<br>
+)
+
+Bitrix Response: {"result":656345,"time":{"start":1772172028,"finish":1772172031.091937,"duration":3.0919370651245117,"processing":3,"date_start":"2026-02-27T09:00:28+03:00","date_finish":"2026-02-27T09:00:31+03:00","operating_reset_at":1772172628,"operating":4.729094982147217}}
+Статус: Успешно (Lead ID: 656345)
+--------------------------------------------------
+

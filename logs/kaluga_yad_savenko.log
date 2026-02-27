@@ -1,0 +1,612 @@
+Время: 21.02.2026 15:33:07
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Максим
+    [phone] => +79964326430
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u041c\u0430\u043a\u0441\u0438\u043c","phone":"+79964326430","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Максим
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79964326430
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79964326430
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":653357,"time":{"start":1771677187,"finish":1771677189.348911,"duration":2.3489110469818115,"processing":2,"date_start":"2026-02-21T15:33:07+03:00","date_finish":"2026-02-21T15:33:09+03:00","operating_reset_at":1771677787,"operating":2.2180027961730957}}
+Статус: Успешно (Lead ID: 653357)
+--------------------------------------------------
+
+Время: 22.02.2026 13:55:52
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Наталья
+    [phone] => +79013683278
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u041d\u0430\u0442\u0430\u043b\u044c\u044f","phone":"+79013683278","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Наталья
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79013683278
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79013683278
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":653563,"time":{"start":1771757752,"finish":1771757754.837802,"duration":2.837801933288574,"processing":2,"date_start":"2026-02-22T13:55:52+03:00","date_finish":"2026-02-22T13:55:54+03:00","operating_reset_at":1771758352,"operating":2.129568099975586}}
+Статус: Успешно (Lead ID: 653563)
+--------------------------------------------------
+
+Время: 23.02.2026 21:43:09
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Сергей
+    [phone] => +79206178036
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u0421\u0435\u0440\u0433\u0435\u0439","phone":"+79206178036","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Сергей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79206178036
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79206178036
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":653863,"time":{"start":1771872189,"finish":1771872191.279386,"duration":2.279386043548584,"processing":2,"date_start":"2026-02-23T21:43:09+03:00","date_finish":"2026-02-23T21:43:11+03:00","operating_reset_at":1771872789,"operating":2.056917905807495}}
+Статус: Успешно (Lead ID: 653863)
+--------------------------------------------------
+
+Время: 24.02.2026 11:59:06
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Николай
+    [phone] => +79158938885
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u041d\u0438\u043a\u043e\u043b\u0430\u0439","phone":"+79158938885","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Николай
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79158938885
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79158938885
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":654097,"time":{"start":1771923546,"finish":1771923549.196592,"duration":3.196592092514038,"processing":3,"date_start":"2026-02-24T11:59:06+03:00","date_finish":"2026-02-24T11:59:09+03:00","operating_reset_at":1771924146,"operating":2.6709418296813965}}
+Статус: Успешно (Lead ID: 654097)
+--------------------------------------------------
+
+Время: 24.02.2026 16:18:16
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Чистякова
+    [phone] => +79190347641
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u0427\u0438\u0441\u0442\u044f\u043a\u043e\u0432\u0430","phone":"+79190347641","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Чистякова
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79190347641
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79190347641
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":654409,"time":{"start":1771939096,"finish":1771939098.548759,"duration":2.5487589836120605,"processing":2,"date_start":"2026-02-24T16:18:16+03:00","date_finish":"2026-02-24T16:18:18+03:00","operating_reset_at":1771939696,"operating":2.424816846847534}}
+Статус: Успешно (Lead ID: 654409)
+--------------------------------------------------
+
+Время: 24.02.2026 18:10:48
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Василий
+    [phone] => +79605166524
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u0412\u0430\u0441\u0438\u043b\u0438\u0439","phone":"+79605166524","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Василий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79605166524
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79605166524
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":654573,"time":{"start":1771945848,"finish":1771945851.027672,"duration":3.027672052383423,"processing":3,"date_start":"2026-02-24T18:10:48+03:00","date_finish":"2026-02-24T18:10:51+03:00","operating_reset_at":1771946448,"operating":12.838524103164673}}
+Статус: Успешно (Lead ID: 654573)
+--------------------------------------------------
+
+Время: 24.02.2026 18:13:07
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Шабельская Жанна Владимировна
+    [phone] => +79108634113
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u0428\u0430\u0431\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0416\u0430\u043d\u043d\u0430 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043d\u0430","phone":"+79108634113","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Шабельская Жанна Владимировна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79108634113
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79108634113
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":654577,"time":{"start":1771945987,"finish":1771945989.60028,"duration":2.6002800464630127,"processing":2,"date_start":"2026-02-24T18:13:07+03:00","date_finish":"2026-02-24T18:13:09+03:00","operating_reset_at":1771946587,"operating":17.079700231552124}}
+Статус: Успешно (Lead ID: 654577)
+--------------------------------------------------
+
+Время: 24.02.2026 18:27:13
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Дмитрий
+    [phone] => +79105952420
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u0414\u043c\u0438\u0442\u0440\u0438\u0439","phone":"+79105952420","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Дмитрий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79105952420
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79105952420
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":654589,"time":{"start":1771946833,"finish":1771946835.479018,"duration":2.479017972946167,"processing":2,"date_start":"2026-02-24T18:27:13+03:00","date_finish":"2026-02-24T18:27:15+03:00","operating_reset_at":1771947433,"operating":2.31488299369812}}
+Статус: Успешно (Lead ID: 654589)
+--------------------------------------------------
+
+Время: 25.02.2026 14:21:45
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Аркадий
+    [phone] => +79771966052
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u0410\u0440\u043a\u0430\u0434\u0438\u0439","phone":"+79771966052","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Аркадий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79771966052
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79771966052
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":655109,"time":{"start":1772018505,"finish":1772018508.503614,"duration":3.5036139488220215,"processing":3,"date_start":"2026-02-25T14:21:45+03:00","date_finish":"2026-02-25T14:21:48+03:00","operating_reset_at":1772019105,"operating":12.494823932647705}}
+Статус: Успешно (Lead ID: 655109)
+--------------------------------------------------
+
+Время: 25.02.2026 14:45:08
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Юлия
+    [phone] => +79005769539
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u042e\u043b\u0438\u044f","phone":"+79005769539","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Юлия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79005769539
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79005769539
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":655131,"time":{"start":1772019908,"finish":1772019911.058728,"duration":3.058727979660034,"processing":3,"date_start":"2026-02-25T14:45:08+03:00","date_finish":"2026-02-25T14:45:11+03:00","operating_reset_at":1772020508,"operating":10.476058959960938}}
+Статус: Успешно (Lead ID: 655131)
+--------------------------------------------------
+
+Время: 26.02.2026 12:34:52
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Жаров Сергей вамильеаич
+    [phone] => +79023912223
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u0416\u0430\u0440\u043e\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u0432\u0430\u043c\u0438\u043b\u044c\u0435\u0430\u0438\u0447","phone":"+79023912223","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Жаров Сергей вамильеаич
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79023912223
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79023912223
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":655805,"time":{"start":1772098492,"finish":1772098494.986946,"duration":2.9869461059570312,"processing":2,"date_start":"2026-02-26T12:34:52+03:00","date_finish":"2026-02-26T12:34:54+03:00","operating_reset_at":1772099092,"operating":4.9020349979400635}}
+Статус: Успешно (Lead ID: 655805)
+--------------------------------------------------
+
+Время: 26.02.2026 20:06:43
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Юлия
+    [phone] => +79038166046
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"name":"\u042e\u043b\u0438\u044f","phone":"+79038166046","Gorod":"","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706961927","utm_content":"1900751526110701080"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706961927
+    [UTM_CONTENT] => 1900751526110701080
+    [NAME] => Юлия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79038166046
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79038166046
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 154
+)
+
+Bitrix Response: {"result":656275,"time":{"start":1772125603,"finish":1772125605.898331,"duration":2.8983309268951416,"processing":2,"date_start":"2026-02-26T20:06:43+03:00","date_finish":"2026-02-26T20:06:45+03:00","operating_reset_at":1772126203,"operating":2.2197489738464355}}
+Статус: Успешно (Lead ID: 656275)
+--------------------------------------------------
+

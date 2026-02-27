@@ -1,0 +1,52 @@
+Время: 20.02.2026 14:48:50
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Михаил
+    [phone] => 79158280908
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"id":459261,"name":"Михаил","email":"","phone":"79158280908","region":"Ивановская обл","city":"","comments":"sum: 300000\u003cbr\u003eipoteka: \u003cbr\u003ezalog: \u003cbr\u003eКомментарий: \u003cbr\u003eПерезвонить: \u003cbr\u003eДополнительная информация : \u003cbr\u003e","params":{"ipoteka":null,"sum":300000},"date":"20.02.2026 14:48"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Id: 459261
+Comments: sum: 300000&lt;br&gt;ipoteka: &lt;br&gt;zalog: &lt;br&gt;Комментарий: &lt;br&gt;Перезвонить: &lt;br&gt;Дополнительная информация : &lt;br&gt;
+Params: {&quot;ipoteka&quot;:null,&quot;sum&quot;:300000}
+Date: 20.02.2026 14:48
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Михаил
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79158280908
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79158280908
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1007
+    [COMMENTS] => <b>Id:</b> 459261<br><b>Comments:</b> sum: 300000&lt;br&gt;ipoteka: &lt;br&gt;zalog: &lt;br&gt;Комментарий: &lt;br&gt;Перезвонить: &lt;br&gt;Дополнительная информация : &lt;br&gt;<br><b>Params:</b> {&quot;ipoteka&quot;:null,&quot;sum&quot;:300000}<br><b>Date:</b> 20.02.2026 14:48<br>
+)
+
+Bitrix Response: {"result":652977,"time":{"start":1771588130,"finish":1771588132.879378,"duration":2.879378080368042,"processing":2,"date_start":"2026-02-20T14:48:50+03:00","date_finish":"2026-02-20T14:48:52+03:00","operating_reset_at":1771588730,"operating":10.022923946380615}}
+Статус: Успешно (Lead ID: 652977)
+--------------------------------------------------
+

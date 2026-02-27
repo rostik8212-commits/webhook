@@ -1,0 +1,1740 @@
+Время: 20.02.2026 09:00:30
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Владимир Николаевич
+    [phone] => 79869078399
+    [email] => 
+)
+
+Город: Казань (ID: не найден)
+RAW Input: {
+ "name": "Владимир Николаевич",
+    "phone": "79869078399",
+ "Comments": "Максим 400к  пк кк ",
+    "Gorod": "Казань",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Максим 400к  пк кк
+Город: Казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Владимир Николаевич
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79869078399
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79869078399
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Максим 400к  пк кк<br><b>Город:</b> Казань<br>
+)
+
+Bitrix Response: {"result":652461,"time":{"start":1771567230,"finish":1771567232.924542,"duration":2.92454195022583,"processing":2,"date_start":"2026-02-20T09:00:30+03:00","date_finish":"2026-02-20T09:00:32+03:00","operating_reset_at":1771567830,"operating":8.379901885986328}}
+Статус: Успешно (Lead ID: 652461)
+--------------------------------------------------
+
+Время: 20.02.2026 11:19:00
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Александр
+    [phone] => 79178518744
+    [email] => 
+)
+
+Город: Зеленодольск (ID: не найден)
+RAW Input: {
+ "name": "Александр",
+    "phone": "79178518744",
+ "Comments": "Максим 2 мл  пк ",
+    "Gorod": "Зеленодольск",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Максим 2 мл  пк
+Город: Зеленодольск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Александр
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79178518744
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79178518744
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Максим 2 мл  пк<br><b>Город:</b> Зеленодольск<br>
+)
+
+Bitrix Response: {"result":652673,"time":{"start":1771575540,"finish":1771575543.031233,"duration":3.031233072280884,"processing":3,"date_start":"2026-02-20T11:19:00+03:00","date_finish":"2026-02-20T11:19:03+03:00","operating_reset_at":1771576140,"operating":7.045154809951782}}
+Статус: Успешно (Lead ID: 652673)
+--------------------------------------------------
+
+Время: 20.02.2026 13:36:03
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Иннокентий
+    [phone] => 79270314113
+    [email] => 
+)
+
+Город: Казань (ID: не найден)
+RAW Input: {
+ "name": "Иннокентий",
+    "phone": "79270314113",
+ "Comments": "Анна 800к ПК ",
+    "Gorod": "Казань",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Анна 800к ПК
+Город: Казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Иннокентий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79270314113
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79270314113
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Анна 800к ПК<br><b>Город:</b> Казань<br>
+)
+
+Bitrix Response: {"result":652911,"time":{"start":1771583763,"finish":1771583765.566533,"duration":2.566533088684082,"processing":2,"date_start":"2026-02-20T13:36:03+03:00","date_finish":"2026-02-20T13:36:05+03:00","operating_reset_at":1771584363,"operating":4.848330020904541}}
+Статус: Успешно (Lead ID: 652911)
+--------------------------------------------------
+
+Время: 20.02.2026 18:13:04
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => владимир
+    [phone] => 79656290215
+    [email] => 
+)
+
+Город: село сетяково (ID: не найден)
+RAW Input: {
+ "name": "владимир",
+    "phone": "79656290215",
+ "Comments": "татьяна 500к налоги 30 кредит 300 кк180 ",
+    "Gorod": "село сетяково",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: татьяна 500к налоги 30 кредит 300 кк180
+Город: село сетяково
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => владимир
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79656290215
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79656290215
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> татьяна 500к налоги 30 кредит 300 кк180<br><b>Город:</b> село сетяково<br>
+)
+
+Bitrix Response: {"result":653107,"time":{"start":1771600384,"finish":1771600386.404986,"duration":2.4049859046936035,"processing":2,"date_start":"2026-02-20T18:13:04+03:00","date_finish":"2026-02-20T18:13:06+03:00","operating_reset_at":1771600984,"operating":1.7565228939056396}}
+Статус: Успешно (Lead ID: 653107)
+--------------------------------------------------
+
+Время: 21.02.2026 10:29:36
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Айдар
+    [phone] => 79046750473
+    [email] => 
+)
+
+Город: Казань (ID: не найден)
+RAW Input: {
+ "name": "Айдар ",
+    "phone": "79046750473  ",
+ "Comments": "Наталья  270к  кредит  ",
+    "Gorod": "Казань ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Наталья  270к  кредит
+Город: Казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Айдар
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79046750473
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79046750473
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Наталья  270к  кредит<br><b>Город:</b> Казань<br>
+)
+
+Bitrix Response: {"result":653241,"time":{"start":1771658976,"finish":1771658978.06507,"duration":2.0650699138641357,"processing":2,"date_start":"2026-02-21T10:29:36+03:00","date_finish":"2026-02-21T10:29:38+03:00","operating_reset_at":1771659576,"operating":6.867586851119995}}
+Статус: Успешно (Lead ID: 653241)
+--------------------------------------------------
+
+Время: 21.02.2026 11:20:35
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => роза альбертовна
+    [phone] => 79270496202
+    [email] => 
+)
+
+Город: нижнекамск (ID: не найден)
+RAW Input: {
+ "name": "роза альбертовна",
+    "phone": "79270496202",
+ "Comments": "татьяна 660к жку 130 кредит 530 ",
+    "Gorod": "нижнекамск",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: татьяна 660к жку 130 кредит 530
+Город: нижнекамск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => роза альбертовна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79270496202
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79270496202
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> татьяна 660к жку 130 кредит 530<br><b>Город:</b> нижнекамск<br>
+)
+
+Bitrix Response: {"result":653267,"time":{"start":1771662035,"finish":1771662037.622275,"duration":2.6222751140594482,"processing":2,"date_start":"2026-02-21T11:20:35+03:00","date_finish":"2026-02-21T11:20:37+03:00","operating_reset_at":1771662635,"operating":1.680527925491333}}
+Статус: Успешно (Lead ID: 653267)
+--------------------------------------------------
+
+Время: 21.02.2026 12:53:11
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Виктор
+    [phone] => 79270424748
+    [email] => 
+)
+
+Город: Нижнекамск (ID: не найден)
+RAW Input: {
+ "name": "Виктор ",
+    "phone": "79270424748 ",
+ "Comments": "Наталья  255к  микрозайм  ",
+    "Gorod": "Нижнекамск ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Наталья  255к  микрозайм
+Город: Нижнекамск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Виктор
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79270424748
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79270424748
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Наталья  255к  микрозайм<br><b>Город:</b> Нижнекамск<br>
+)
+
+Bitrix Response: {"result":653297,"time":{"start":1771667591,"finish":1771667593.516256,"duration":2.516256093978882,"processing":2,"date_start":"2026-02-21T12:53:11+03:00","date_finish":"2026-02-21T12:53:13+03:00","operating_reset_at":1771668191,"operating":7.656477212905884}}
+Статус: Успешно (Lead ID: 653297)
+--------------------------------------------------
+
+Время: 21.02.2026 16:11:37
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Айрат
+    [phone] => 79274400922
+    [email] => 
+)
+
+Город: Нурлат (ID: не найден)
+RAW Input: {
+ "name": "Айрат ",
+    "phone": "79274400922",
+ "Comments": "Зара  300к  300к  пк  ",
+    "Gorod": "Нурлат",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Зара  300к  300к  пк
+Город: Нурлат
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Айрат
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79274400922
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79274400922
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Зара  300к  300к  пк<br><b>Город:</b> Нурлат<br>
+)
+
+Bitrix Response: {"result":653369,"time":{"start":1771679497,"finish":1771679499.277082,"duration":2.2770819664001465,"processing":2,"date_start":"2026-02-21T16:11:37+03:00","date_finish":"2026-02-21T16:11:39+03:00","operating_reset_at":1771680097,"operating":3.846719980239868}}
+Статус: Успешно (Lead ID: 653369)
+--------------------------------------------------
+
+Время: 22.02.2026 10:21:48
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Гульнара
+    [phone] => 79372872365
+    [email] => 
+)
+
+Город: Город Казань (ID: не найден)
+RAW Input: {
+ "name": "Гульнара ",
+    "phone": "79372872365",
+ "Comments": "Егор 2 Млн Потреб кредит ",
+    "Gorod": "Город Казань ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Егор 2 Млн Потреб кредит
+Город: Город Казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Гульнара
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79372872365
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79372872365
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Егор 2 Млн Потреб кредит<br><b>Город:</b> Город Казань<br>
+)
+
+Bitrix Response: {"result":653495,"time":{"start":1771744908,"finish":1771744910.130644,"duration":2.1306440830230713,"processing":2,"date_start":"2026-02-22T10:21:48+03:00","date_finish":"2026-02-22T10:21:50+03:00","operating_reset_at":1771745508,"operating":1.666923999786377}}
+Статус: Успешно (Lead ID: 653495)
+--------------------------------------------------
+
+Время: 22.02.2026 11:05:19
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => алексей
+    [phone] => 79274574098
+    [email] => 
+)
+
+Город: казань (ID: не найден)
+RAW Input: {
+ "name": "алексей",
+    "phone": "79274574098",
+ "Comments": "татьяна 600к микрозаймы300 исполнительное 300 ",
+    "Gorod": "казань",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: татьяна 600к микрозаймы300 исполнительное 300
+Город: казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => алексей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79274574098
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79274574098
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> татьяна 600к микрозаймы300 исполнительное 300<br><b>Город:</b> казань<br>
+)
+
+Bitrix Response: {"result":653507,"time":{"start":1771747519,"finish":1771747521.116128,"duration":2.1161279678344727,"processing":2,"date_start":"2026-02-22T11:05:19+03:00","date_finish":"2026-02-22T11:05:21+03:00","operating_reset_at":1771748119,"operating":1.6736350059509277}}
+Статус: Успешно (Lead ID: 653507)
+--------------------------------------------------
+
+Время: 22.02.2026 11:16:04
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => татьяна
+    [phone] => 79274193934
+    [email] => 
+)
+
+Город: казань (ID: не найден)
+RAW Input: {
+ "name": "татьяна",
+    "phone": "79274193934",
+ "Comments": "татьяна 400к кк ",
+    "Gorod": "казань",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: татьяна 400к кк
+Город: казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => татьяна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79274193934
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79274193934
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> татьяна 400к кк<br><b>Город:</b> казань<br>
+)
+
+Bitrix Response: {"result":653513,"time":{"start":1771748164,"finish":1771748166.818252,"duration":2.8182520866394043,"processing":2,"date_start":"2026-02-22T11:16:04+03:00","date_finish":"2026-02-22T11:16:06+03:00","operating_reset_at":1771748764,"operating":6.183315992355347}}
+Статус: Успешно (Lead ID: 653513)
+--------------------------------------------------
+
+Время: 23.02.2026 11:47:21
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Валерий
+    [phone] => 79510640383
+    [email] => 
+)
+
+Город: Зеленодольск (ID: не найден)
+RAW Input: {
+ "name": "Валерий ",
+    "phone": "79510640383",
+ "Comments": "людмила  250т  потреб кредит  ",
+    "Gorod": "Зеленодольск",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: людмила  250т  потреб кредит
+Город: Зеленодольск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Валерий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79510640383
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79510640383
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> людмила  250т  потреб кредит<br><b>Город:</b> Зеленодольск<br>
+)
+
+Bitrix Response: {"result":653713,"time":{"start":1771836441,"finish":1771836443.463305,"duration":2.4633049964904785,"processing":2,"date_start":"2026-02-23T11:47:21+03:00","date_finish":"2026-02-23T11:47:23+03:00","operating_reset_at":1771837041,"operating":1.6839258670806885}}
+Статус: Успешно (Lead ID: 653713)
+--------------------------------------------------
+
+Время: 23.02.2026 13:04:17
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Татьяна Васильевна
+    [phone] => 79046752936
+    [email] => 
+)
+
+Город: Деревня Савалеево (ID: не найден)
+RAW Input: {
+ "name": "Татьяна Васильевна",
+    "phone": "79046752936",
+ "Comments": "Даниил 500к  кредиты  ",
+    "Gorod": "Деревня Савалеево",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Даниил 500к  кредиты
+Город: Деревня Савалеево
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Татьяна Васильевна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79046752936
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79046752936
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Даниил 500к  кредиты<br><b>Город:</b> Деревня Савалеево<br>
+)
+
+Bitrix Response: {"result":653733,"time":{"start":1771841057,"finish":1771841059.354426,"duration":2.3544259071350098,"processing":2,"date_start":"2026-02-23T13:04:17+03:00","date_finish":"2026-02-23T13:04:19+03:00","operating_reset_at":1771841657,"operating":6.883739233016968}}
+Статус: Успешно (Lead ID: 653733)
+--------------------------------------------------
+
+Время: 23.02.2026 13:06:03
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Валентина
+    [phone] => 79518914367
+    [email] => 
+)
+
+Город: Казань (ID: не найден)
+RAW Input: {
+ "name": "Валентина",
+    "phone": "79518914367",
+ "Comments": "Виктория 600к кк приставы ",
+    "Gorod": "Казань",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 600к кк приставы
+Город: Казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Валентина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79518914367
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79518914367
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Виктория 600к кк приставы<br><b>Город:</b> Казань<br>
+)
+
+Bitrix Response: {"result":653737,"time":{"start":1771841163,"finish":1771841164.977229,"duration":1.977229118347168,"processing":1,"date_start":"2026-02-23T13:06:03+03:00","date_finish":"2026-02-23T13:06:04+03:00","operating_reset_at":1771841763,"operating":5.537987232208252}}
+Статус: Успешно (Lead ID: 653737)
+--------------------------------------------------
+
+Время: 23.02.2026 15:36:12
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Алексей Александрович
+    [phone] => 79270446536
+    [email] => 
+)
+
+Город: Казань (ID: не найден)
+RAW Input: {
+ "name": "Алексей Александрович",
+    "phone": "79270446536",
+ "Comments": "Олеся 500к потреб.кр. ",
+    "Gorod": "Казань",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Олеся 500к потреб.кр.
+Город: Казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Алексей Александрович
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79270446536
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79270446536
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Олеся 500к потреб.кр.<br><b>Город:</b> Казань<br>
+)
+
+Bitrix Response: {"result":653777,"time":{"start":1771850172,"finish":1771850173.802897,"duration":1.8028969764709473,"processing":1,"date_start":"2026-02-23T15:36:12+03:00","date_finish":"2026-02-23T15:36:13+03:00","operating_reset_at":1771850772,"operating":1.700739860534668}}
+Статус: Успешно (Lead ID: 653777)
+--------------------------------------------------
+
+Время: 24.02.2026 10:19:51
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Ирина
+    [phone] => 79178912295
+    [email] => 
+)
+
+Город: Елабуга (ID: не найден)
+RAW Input: {
+ "name": "Ирина",
+    "phone": "79178912295",
+ "Comments": "Максим 400к пк ",
+    "Gorod": "Елабуга",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Максим 400к пк
+Город: Елабуга
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Ирина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79178912295
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79178912295
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Максим 400к пк<br><b>Город:</b> Елабуга<br>
+)
+
+Bitrix Response: {"result":653983,"time":{"start":1771917591,"finish":1771917593.508015,"duration":2.5080149173736572,"processing":2,"date_start":"2026-02-24T10:19:51+03:00","date_finish":"2026-02-24T10:19:53+03:00","operating_reset_at":1771918191,"operating":6.357333183288574}}
+Статус: Успешно (Lead ID: 653983)
+--------------------------------------------------
+
+Время: 24.02.2026 15:11:00
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Владимир
+    [phone] => 79372910426
+    [email] => 
+)
+
+Город: Набережные Челны (ID: не найден)
+RAW Input: {
+ "name": "Владимир ",
+    "phone": "79372910426",
+ "Comments": "Милена 250 к кк ",
+    "Gorod": "Набережные Челны",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Милена 250 к кк
+Город: Набережные Челны
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Владимир
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79372910426
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79372910426
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Милена 250 к кк<br><b>Город:</b> Набережные Челны<br>
+)
+
+Bitrix Response: {"result":654321,"time":{"start":1771935060,"finish":1771935062.877792,"duration":2.8777918815612793,"processing":2,"date_start":"2026-02-24T15:11:00+03:00","date_finish":"2026-02-24T15:11:02+03:00","operating_reset_at":1771935660,"operating":2.007863998413086}}
+Статус: Успешно (Lead ID: 654321)
+--------------------------------------------------
+
+Время: 24.02.2026 15:32:22
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Рафик Шамильевич
+    [phone] => 79196490368
+    [email] => 
+)
+
+Город: Альметьевск (ID: не найден)
+RAW Input: {
+ "name": "Рафик Шамильевич",
+    "phone": "79196490368",
+ "Comments": "Евгений 270к 270к кк и потреб ",
+    "Gorod": "Альметьевск",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Евгений 270к 270к кк и потреб
+Город: Альметьевск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Рафик Шамильевич
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79196490368
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79196490368
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Евгений 270к 270к кк и потреб<br><b>Город:</b> Альметьевск<br>
+)
+
+Bitrix Response: {"result":654359,"time":{"start":1771936342,"finish":1771936344.518694,"duration":2.5186939239501953,"processing":2,"date_start":"2026-02-24T15:32:22+03:00","date_finish":"2026-02-24T15:32:24+03:00","operating_reset_at":1771936942,"operating":6.267084121704102}}
+Статус: Успешно (Lead ID: 654359)
+--------------------------------------------------
+
+Время: 24.02.2026 17:00:13
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Альфия
+    [phone] => 79172232429
+    [email] => 
+)
+
+Город: Казань (ID: не найден)
+RAW Input: {
+ "name": "Альфия",
+    "phone": "79172232429",
+ "Comments": "Виктория 300к кк ",
+    "Gorod": "Казань",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 300к кк
+Город: Казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Альфия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79172232429
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79172232429
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Виктория 300к кк<br><b>Город:</b> Казань<br>
+)
+
+Bitrix Response: {"result":654455,"time":{"start":1771941613,"finish":1771941615.517998,"duration":2.517997980117798,"processing":2,"date_start":"2026-02-24T17:00:13+03:00","date_finish":"2026-02-24T17:00:15+03:00","operating_reset_at":1771942213,"operating":8.642043113708496}}
+Статус: Успешно (Lead ID: 654455)
+--------------------------------------------------
+
+Время: 25.02.2026 09:41:00
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Ильнар
+    [phone] => 79375842099
+    [email] => 
+)
+
+Город: Набережные Челны (ID: не найден)
+RAW Input: {
+ "name": "Ильнар ",
+    "phone": "79375842099",
+ "Comments": "Данил  3м кк потреб  ",
+    "Gorod": "Набережные Челны ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Данил  3м кк потреб
+Город: Набережные Челны
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Ильнар
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79375842099
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79375842099
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Данил  3м кк потреб<br><b>Город:</b> Набережные Челны<br>
+)
+
+Bitrix Response: {"result":654783,"time":{"start":1772001660,"finish":1772001662.311887,"duration":2.31188702583313,"processing":2,"date_start":"2026-02-25T09:41:00+03:00","date_finish":"2026-02-25T09:41:02+03:00","operating_reset_at":1772002260,"operating":2.0735151767730713}}
+Статус: Успешно (Lead ID: 654783)
+--------------------------------------------------
+
+Время: 25.02.2026 09:48:01
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Дина
+    [phone] => 79272472227
+    [email] => 
+)
+
+Город: Казань (ID: не найден)
+RAW Input: {
+ "name": "Дина",
+    "phone": "79272472227",
+ "Comments": "Елизовета 800 к потр к ",
+    "Gorod": "Казань",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Елизовета 800 к потр к
+Город: Казань
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Дина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79272472227
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79272472227
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Елизовета 800 к потр к<br><b>Город:</b> Казань<br>
+)
+
+Bitrix Response: {"result":654785,"time":{"start":1772002081,"finish":1772002083.992211,"duration":2.992211103439331,"processing":2,"date_start":"2026-02-25T09:48:01+03:00","date_finish":"2026-02-25T09:48:03+03:00","operating_reset_at":1772002681,"operating":4.197350025177002}}
+Статус: Успешно (Lead ID: 654785)
+--------------------------------------------------
+
+Время: 25.02.2026 10:49:06
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Марина
+    [phone] => 79272451553
+    [email] => 
+)
+
+Город: Гурьевка (ID: не найден)
+RAW Input: {
+ "name": "Марина",
+    "phone": "79272451553",
+ "Comments": "Анна 700к ПК ",
+    "Gorod": "Гурьевка",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Анна 700к ПК
+Город: Гурьевка
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Марина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79272451553
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79272451553
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Анна 700к ПК<br><b>Город:</b> Гурьевка<br>
+)
+
+Bitrix Response: {"result":654829,"time":{"start":1772005746,"finish":1772005748.706599,"duration":2.706598997116089,"processing":2,"date_start":"2026-02-25T10:49:06+03:00","date_finish":"2026-02-25T10:49:08+03:00","operating_reset_at":1772006346,"operating":4.703847169876099}}
+Статус: Успешно (Lead ID: 654829)
+--------------------------------------------------
+
+Время: 25.02.2026 11:23:14
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Валерий
+    [phone] => 79270440834
+    [email] => 
+)
+
+Город: Бавлинский район село Николашкино (ID: не найден)
+RAW Input: {
+ "name": "Валерий",
+    "phone": "79270440834",
+ "Comments": "Виктория 300к кк ",
+    "Gorod": "Бавлинский район село Николашкино",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 300к кк
+Город: Бавлинский район село Николашкино
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Валерий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79270440834
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79270440834
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Виктория 300к кк<br><b>Город:</b> Бавлинский район село Николашкино<br>
+)
+
+Bitrix Response: {"result":654867,"time":{"start":1772007794,"finish":1772007796.933624,"duration":2.933624029159546,"processing":2,"date_start":"2026-02-25T11:23:14+03:00","date_finish":"2026-02-25T11:23:16+03:00","operating_reset_at":1772008394,"operating":6.829458236694336}}
+Статус: Успешно (Lead ID: 654867)
+--------------------------------------------------
+
+Время: 25.02.2026 11:40:06
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Светлана Николаевна
+    [phone] => 79372920091
+    [email] => 
+)
+
+Город: Бугульма (ID: не найден)
+RAW Input: {
+ "name": "Светлана Николаевна",
+    "phone": "79372920091",
+ "Comments": "Милена 250 к кк ",
+    "Gorod": "Бугульма ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Милена 250 к кк
+Город: Бугульма
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Светлана Николаевна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79372920091
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79372920091
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Милена 250 к кк<br><b>Город:</b> Бугульма<br>
+)
+
+Bitrix Response: {"result":654893,"time":{"start":1772008806,"finish":1772008808.438833,"duration":2.438832998275757,"processing":2,"date_start":"2026-02-25T11:40:06+03:00","date_finish":"2026-02-25T11:40:08+03:00","operating_reset_at":1772009406,"operating":6.6846888065338135}}
+Статус: Успешно (Lead ID: 654893)
+--------------------------------------------------
+
+Время: 26.02.2026 11:29:57
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Ольга
+    [phone] => 79274829668
+    [email] => 
+)
+
+Город: село Ленино-Кокушкино (ID: не найден)
+RAW Input: {
+ "name": "Ольга",
+    "phone": "79274829668",
+ "Comments": "Виктория 1 млн потр к ",
+    "Gorod": "село Ленино-Кокушкино",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 1 млн потр к
+Город: село Ленино-Кокушкино
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Ольга
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79274829668
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79274829668
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Виктория 1 млн потр к<br><b>Город:</b> село Ленино-Кокушкино<br>
+)
+
+Bitrix Response: {"result":655737,"time":{"start":1772094597,"finish":1772094599.844459,"duration":2.844459056854248,"processing":2,"date_start":"2026-02-26T11:29:57+03:00","date_finish":"2026-02-26T11:29:59+03:00","operating_reset_at":1772095197,"operating":17.009106874465942}}
+Статус: Успешно (Lead ID: 655737)
+--------------------------------------------------
+
+Время: 26.02.2026 12:14:56
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Владислав
+    [phone] => 79274660923
+    [email] => 
+)
+
+Город: Набережные Челны (ID: не найден)
+RAW Input: {
+ "name": "Владислав",
+    "phone": "79274660923",
+ "Comments": "Евгений 1м 1м потреб и кк ",
+    "Gorod": "Набережные Челны",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Евгений 1м 1м потреб и кк
+Город: Набережные Челны
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Владислав
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79274660923
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79274660923
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Евгений 1м 1м потреб и кк<br><b>Город:</b> Набережные Челны<br>
+)
+
+Bitrix Response: {"result":655793,"time":{"start":1772097296,"finish":1772097298.746686,"duration":2.7466859817504883,"processing":2,"date_start":"2026-02-26T12:14:56+03:00","date_finish":"2026-02-26T12:14:58+03:00","operating_reset_at":1772097896,"operating":1.965439796447754}}
+Статус: Успешно (Lead ID: 655793)
+--------------------------------------------------
+
+Время: 26.02.2026 14:49:25
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => наталья
+    [phone] => 79276711975
+    [email] => 
+)
+
+Город: нижнекамск (ID: не найден)
+RAW Input: {
+ "name": "наталья",
+    "phone": "79276711975",
+ "Comments": "полина  200к ,200к жкх ,потребительский кредит ",
+    "Gorod": "нижнекамск",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: полина  200к ,200к жкх ,потребительский кредит
+Город: нижнекамск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => наталья
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79276711975
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79276711975
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> полина  200к ,200к жкх ,потребительский кредит<br><b>Город:</b> нижнекамск<br>
+)
+
+Bitrix Response: {"result":655997,"time":{"start":1772106565,"finish":1772106568.038519,"duration":3.0385189056396484,"processing":3,"date_start":"2026-02-26T14:49:25+03:00","date_finish":"2026-02-26T14:49:28+03:00","operating_reset_at":1772107165,"operating":2.040722131729126}}
+Статус: Успешно (Lead ID: 655997)
+--------------------------------------------------
+
+Время: 26.02.2026 15:42:04
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Ильфат
+    [phone] => 79370004088
+    [email] => 
+)
+
+Город: Нурлат (ID: не найден)
+RAW Input: {
+ "name": "Ильфат",
+    "phone": "79370004088",
+ "Comments": "Анна 300к ПК ",
+    "Gorod": "Нурлат",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Анна 300к ПК
+Город: Нурлат
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Ильфат
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79370004088
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79370004088
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Анна 300к ПК<br><b>Город:</b> Нурлат<br>
+)
+
+Bitrix Response: {"result":656069,"time":{"start":1772109724,"finish":1772109726.199762,"duration":2.1997621059417725,"processing":2,"date_start":"2026-02-26T15:42:04+03:00","date_finish":"2026-02-26T15:42:06+03:00","operating_reset_at":1772110324,"operating":4.25118088722229}}
+Статус: Успешно (Lead ID: 656069)
+--------------------------------------------------
+
+Время: 26.02.2026 15:49:59
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Галина
+    [phone] => 79520373779
+    [email] => 
+)
+
+Город: Набережные Челны (ID: не найден)
+RAW Input: {
+ "name": "Галина",
+    "phone": "79520373779",
+ "Comments": "Мария 300к пот к ",
+    "Gorod": " Набережные Челны ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Мария 300к пот к
+Город: Набережные Челны
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Галина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79520373779
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79520373779
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1072
+    [COMMENTS] => <b>Comments:</b> Мария 300к пот к<br><b>Город:</b> Набережные Челны<br>
+)
+
+Bitrix Response: {"result":656079,"time":{"start":1772110199,"finish":1772110202.00326,"duration":3.0032598972320557,"processing":2,"date_start":"2026-02-26T15:49:59+03:00","date_finish":"2026-02-26T15:50:02+03:00","operating_reset_at":1772110800,"operating":13.494218826293945}}
+Статус: Успешно (Lead ID: 656079)
+--------------------------------------------------
+

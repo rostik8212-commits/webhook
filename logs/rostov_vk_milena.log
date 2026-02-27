@@ -1,0 +1,1062 @@
+Время: 20.02.2026 14:31:04
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Константин
+    [phone] => +7 (915) 852-58-59
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (915) 852-58-59
+    [name] => Константин
+    [tranid] => 3897434:8184800652
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7C; _ym_uid=1771587039173204284; _ym_d=1771587039; tildauid=1771587038978.379336; tildasid=1771587038978.123186; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7C; _ym_uid=1771587039173204284; _ym_d=1771587039; tildauid=1771587038978.379336; tildasid=1771587038978.123186; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [NAME] => Константин
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79158525859
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7C; _ym_uid=1771587039173204284; _ym_d=1771587039; tildauid=1771587038978.379336; tildasid=1771587038978.123186; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov<br>
+)
+
+Bitrix Response: {"result":652959,"time":{"start":1771587064,"finish":1771587067.160018,"duration":3.160017967224121,"processing":3,"date_start":"2026-02-20T14:31:04+03:00","date_finish":"2026-02-20T14:31:07+03:00","operating_reset_at":1771587664,"operating":5.103080987930298}}
+Статус: Успешно (Lead ID: 652959)
+--------------------------------------------------
+
+Время: 21.02.2026 09:01:01
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Валерия Владимировна Рубцова
+    [phone] => +7 (909) 434-01-41
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => Более 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Бесплатная телефонная консультация
+    [Phone] => +7 (909) 434-01-41
+    [name] => Валерия Владимировна Рубцова
+    [tranid] => 3897434:8186409343
+    [COOKIES] => _ym_uid=1769732159535241475; _ym_d=1769732159; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771653613455.325943; tildasid=1771653613455.906563; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: Более 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Бесплатная телефонная консультация
+Cookies: _ym_uid=1769732159535241475; _ym_d=1769732159; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771653613455.325943; tildasid=1771653613455.906563; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Валерия Владимировна Рубцова
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79094340141
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> Более 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Бесплатная телефонная консультация<br><b>Cookies:</b> _ym_uid=1769732159535241475; _ym_d=1769732159; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771653613455.325943; tildasid=1771653613455.906563; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov<br>
+)
+
+Bitrix Response: {"result":653183,"time":{"start":1771653661,"finish":1771653664.141613,"duration":3.141613006591797,"processing":3,"date_start":"2026-02-21T09:01:01+03:00","date_finish":"2026-02-21T09:01:04+03:00","operating_reset_at":1771654261,"operating":6.451908111572266}}
+Статус: Успешно (Lead ID: 653183)
+--------------------------------------------------
+
+Время: 21.02.2026 16:55:51
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Юлия
+    [phone] => +7 (903) 488-81-98
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (903) 488-81-98
+    [name] => Юлия
+    [tranid] => 3897434:8187441852
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771682076879469882; _ym_d=1771682076; tildauid=1771682076043.125557; tildasid=1771682076043.567937; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w; _ym_isad=2
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771682076879469882; _ym_d=1771682076; tildauid=1771682076043.125557; tildasid=1771682076043.567937; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w; _ym_isad=2
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Юлия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79034888198
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771682076879469882; _ym_d=1771682076; tildauid=1771682076043.125557; tildasid=1771682076043.567937; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w; _ym_isad=2<br>
+)
+
+Bitrix Response: {"result":653383,"time":{"start":1771682151,"finish":1771682153.407003,"duration":2.4070029258728027,"processing":2,"date_start":"2026-02-21T16:55:51+03:00","date_finish":"2026-02-21T16:55:53+03:00","operating_reset_at":1771682751,"operating":12.25946831703186}}
+Статус: Успешно (Lead ID: 653383)
+--------------------------------------------------
+
+Время: 24.02.2026 17:00:38
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Кристина
+    [phone] => +7 (988) 534-16-34
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (988) 534-16-34
+    [name] => Кристина
+    [tranid] => 3897434:8194217053
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C;tildauid=cfb421958d29e7c45b4e378988eeb109
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C;tildauid=cfb421958d29e7c45b4e378988eeb109
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Кристина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79885341634
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C;tildauid=cfb421958d29e7c45b4e378988eeb109<br>
+)
+
+Bitrix Response: {"result":654457,"time":{"start":1771941639,"finish":1771941641.591263,"duration":2.5912630558013916,"processing":2,"date_start":"2026-02-24T17:00:39+03:00","date_finish":"2026-02-24T17:00:41+03:00","operating_reset_at":1771942239,"operating":11.146692276000977}}
+Статус: Успешно (Lead ID: 654457)
+--------------------------------------------------
+
+Время: 24.02.2026 17:30:20
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Анна
+    [phone] => +7 (988) 538-27-43
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B5+20+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => Более 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Менее 20 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (988) 538-27-43
+    [name] => Анна
+    [tranid] => 3897434:8194302192
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771943327565338449; _ym_d=1771943327; tildauid=1771943327286.378582; tildasid=1771943327286.194363; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w; _ym_isad=2
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: Более 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Менее 20 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771943327565338449; _ym_d=1771943327; tildauid=1771943327286.378582; tildasid=1771943327286.194363; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w; _ym_isad=2
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Анна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79885382743
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> Более 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Менее 20 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771943327565338449; _ym_d=1771943327; tildauid=1771943327286.378582; tildasid=1771943327286.194363; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w; _ym_isad=2<br>
+)
+
+Bitrix Response: 
+Статус: Ошибка CURL: Operation timed out after 15000 milliseconds with 0 bytes received
+--------------------------------------------------
+
+Время: 24.02.2026 20:28:49
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Марина
+    [phone] => +44 89-0819-81752
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B5+20+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Менее 20 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +44 89-0819-81752
+    [name] => Марина
+    [tranid] => 3897434:8194768453
+    [COOKIES] => _ym_uid=1768357567151026130; _ym_d=1768357567; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771954077496.591881; tildasid=1771954077496.745519; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_isad=2; _ym_visorc=w
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: Менее 20 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: _ym_uid=1768357567151026130; _ym_d=1768357567; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771954077496.591881; tildasid=1771954077496.745519; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_isad=2; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Марина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +4489081981752
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Менее 20 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> _ym_uid=1768357567151026130; _ym_d=1768357567; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771954077496.591881; tildasid=1771954077496.745519; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_isad=2; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":654623,"time":{"start":1771954129,"finish":1771954131.89179,"duration":2.8917899131774902,"processing":2,"date_start":"2026-02-24T20:28:49+03:00","date_finish":"2026-02-24T20:28:51+03:00","operating_reset_at":1771954729,"operating":2.066193103790283}}
+Статус: Успешно (Lead ID: 654623)
+--------------------------------------------------
+
+Время: 25.02.2026 10:51:28
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Нинель
+    [phone] => +7 (928) 769-36-79
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Бесплатная телефонная консультация
+    [Phone] => +7 (928) 769-36-79
+    [name] => Нинель
+    [tranid] => 3897434:8195895342
+    [COOKIES] => _ym_uid=1759864610502808487; _ym_d=1759864610; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772005855734.116603; tildasid=1772005855734.620468; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Бесплатная телефонная консультация
+Cookies: _ym_uid=1759864610502808487; _ym_d=1759864610; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772005855734.116603; tildasid=1772005855734.620468; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Нинель
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79287693679
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Бесплатная телефонная консультация<br><b>Cookies:</b> _ym_uid=1759864610502808487; _ym_d=1759864610; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772005855734.116603; tildasid=1772005855734.620468; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov<br>
+)
+
+Bitrix Response: {"result":654831,"time":{"start":1772005888,"finish":1772005890.661276,"duration":2.66127610206604,"processing":2,"date_start":"2026-02-25T10:51:28+03:00","date_finish":"2026-02-25T10:51:30+03:00","operating_reset_at":1772006488,"operating":4.677475214004517}}
+Статус: Успешно (Lead ID: 654831)
+--------------------------------------------------
+
+Время: 25.02.2026 13:13:55
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Иван
+    [phone] => +7 (909) 470-61-11
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (909) 470-61-11
+    [name] => Иван
+    [tranid] => 3897434:8196391282
+    [COOKIES] => _ym_uid=1757573065131799929; _ym_d=1757573065; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772014379514.109183; tildasid=1772014379514.106177; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: _ym_uid=1757573065131799929; _ym_d=1757573065; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772014379514.109183; tildasid=1772014379514.106177; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Иван
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79094706111
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> _ym_uid=1757573065131799929; _ym_d=1757573065; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772014379514.109183; tildasid=1772014379514.106177; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":655015,"time":{"start":1772014435,"finish":1772014437.684377,"duration":2.6843769550323486,"processing":2,"date_start":"2026-02-25T13:13:55+03:00","date_finish":"2026-02-25T13:13:57+03:00","operating_reset_at":1772015035,"operating":14.696443796157837}}
+Статус: Успешно (Lead ID: 655015)
+--------------------------------------------------
+
+Время: 25.02.2026 16:59:18
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Людмила
+    [phone] => +7 (951) 517-42-72
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (951) 517-42-72
+    [name] => Людмила
+    [tranid] => 3897434:8197129103
+    [COOKIES] => _ym_uid=1754384297902492274; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772027869328.214106; tildasid=1772027869328.378681; _ym_d=1772027870; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: _ym_uid=1754384297902492274; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772027869328.214106; tildasid=1772027869328.378681; _ym_d=1772027870; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Людмила
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79515174272
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> _ym_uid=1754384297902492274; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772027869328.214106; tildasid=1772027869328.378681; _ym_d=1772027870; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov<br>
+)
+
+Bitrix Response: {"result":655327,"time":{"start":1772027958,"finish":1772027960.936058,"duration":2.9360580444335938,"processing":2,"date_start":"2026-02-25T16:59:18+03:00","date_finish":"2026-02-25T16:59:20+03:00","operating_reset_at":1772028558,"operating":10.152598142623901}}
+Статус: Успешно (Lead ID: 655327)
+--------------------------------------------------
+
+Время: 25.02.2026 23:39:23
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Виктория
+    [phone] => +7 (908) 503-33-70
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (908) 503-33-70
+    [name] => Виктория
+    [tranid] => 3897434:8198073473
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772051920100377559; _ym_d=1772051920; tildauid=1772051920019.564869; tildasid=1772051920019.666495; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772051920100377559; _ym_d=1772051920; tildauid=1772051920019.564869; tildasid=1772051920019.666495; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Виктория
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79085033370
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772051920100377559; _ym_d=1772051920; tildauid=1772051920019.564869; tildasid=1772051920019.666495; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w<br>
+)
+
+Bitrix Response: 
+Статус: Ошибка CURL: Resolving timed out after 15000 milliseconds
+--------------------------------------------------
+
+Время: 25.02.2026 23:39:44
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Виктория
+    [phone] => +7 (908) 503-33-70
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (908) 503-33-70
+    [name] => Виктория
+    [tranid] => 3897434:8198073473
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772051920100377559; _ym_d=1772051920; tildauid=1772051920019.564869; tildasid=1772051920019.666495; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772051920100377559; _ym_d=1772051920; tildauid=1772051920019.564869; tildasid=1772051920019.666495; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Виктория
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79085033370
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772051920100377559; _ym_d=1772051920; tildauid=1772051920019.564869; tildasid=1772051920019.666495; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":655501,"time":{"start":1772051987,"finish":1772051990.02842,"duration":3.0284199714660645,"processing":2,"date_start":"2026-02-25T23:39:47+03:00","date_finish":"2026-02-25T23:39:50+03:00","operating_reset_at":1772052588,"operating":2.012877941131592}}
+Статус: Успешно (Lead ID: 655501)
+--------------------------------------------------
+
+Время: 26.02.2026 09:37:45
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Марина
+    [phone] => +7 (918) 576-06-54
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (918) 576-06-54
+    [name] => Марина
+    [tranid] => 3897434:8198648352
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772087766723.867619; tildasid=1772087766723.338172; _ym_uid=177208776755907729; _ym_d=1772087767; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772087766723.867619; tildasid=1772087766723.338172; _ym_uid=177208776755907729; _ym_d=1772087767; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Марина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79185760654
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772087766723.867619; tildasid=1772087766723.338172; _ym_uid=177208776755907729; _ym_d=1772087767; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov<br>
+)
+
+Bitrix Response: {"result":655613,"time":{"start":1772087865,"finish":1772087867.863429,"duration":2.863429069519043,"processing":2,"date_start":"2026-02-26T09:37:45+03:00","date_finish":"2026-02-26T09:37:47+03:00","operating_reset_at":1772088465,"operating":23.30966854095459}}
+Статус: Успешно (Lead ID: 655613)
+--------------------------------------------------
+
+Время: 26.02.2026 11:47:11
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Татьяна
+    [phone] => +7 (988) 588-81-32
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => Более 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (988) 588-81-32
+    [name] => Татьяна
+    [tranid] => 3897434:8199020883
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772095579094.989500; tildasid=1772095579095.327895; _ym_uid=1772095579999829021; _ym_d=1772095579; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: Более 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772095579094.989500; tildasid=1772095579095.327895; _ym_uid=1772095579999829021; _ym_d=1772095579; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Татьяна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79885888132
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> Более 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772095579094.989500; tildasid=1772095579095.327895; _ym_uid=1772095579999829021; _ym_d=1772095579; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":655765,"time":{"start":1772095631,"finish":1772095633.905649,"duration":2.905648946762085,"processing":2,"date_start":"2026-02-26T11:47:11+03:00","date_finish":"2026-02-26T11:47:13+03:00","operating_reset_at":1772096231,"operating":17.008989095687866}}
+Статус: Успешно (Lead ID: 655765)
+--------------------------------------------------
+
+Время: 26.02.2026 18:46:11
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Марина
+    [phone] => +7 (908) 198-17-52
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B5+20+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%95%D1%81%D1%82%D1%8C&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Ростов-на-Дону
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Менее 20 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Есть
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (908) 198-17-52
+    [name] => Марина
+    [tranid] => 3897434:8200275312
+    [COOKIES] => _ym_uid=1768357567151026130; _ym_d=1768357567; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771954077496.591881; tildasid=1772120725831.180696; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_isad=2; _ym_visorc=w
+    [formid] => form1922893291
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323409
+    [utm_content] => 1901855271502419511
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Ростов-на-Дону
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: Менее 20 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Есть
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: _ym_uid=1768357567151026130; _ym_d=1768357567; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771954077496.591881; tildasid=1772120725831.180696; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_isad=2; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323409
+    [UTM_CONTENT] => 1901855271502419511
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Марина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79081981752
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1109
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Ростов-на-Дону<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Менее 20 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Есть<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> _ym_uid=1768357567151026130; _ym_d=1768357567; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323409%7C%7C%7Cutm_content%3D1901855271502419511%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771954077496.591881; tildasid=1772120725831.180696; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-rostov; _ym_isad=2; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":656233,"time":{"start":1772120771,"finish":1772120773.591727,"duration":2.5917270183563232,"processing":2,"date_start":"2026-02-26T18:46:11+03:00","date_finish":"2026-02-26T18:46:13+03:00","operating_reset_at":1772121371,"operating":6.366770029067993}}
+Статус: Успешно (Lead ID: 656233)
+--------------------------------------------------
+

@@ -1,0 +1,541 @@
+Время: 25.02.2026 11:53:50
+Сервис: Tilda
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: test=test
+POST: Array
+(
+    [test] => test
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 25.02.2026 11:55:37
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Тест Пенза
+    [phone] => +7 (957) 777-77-77
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%9F%D0%B5%D0%BD%D0%B7%D0%B0&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Пенза
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Бесплатная телефонная консультация
+    [Phone] => +7 (957) 777-77-77
+    [name] => Тест Пенза
+    [tranid] => 3897434:8196098722
+    [COOKIES] => _ym_uid=1710499569649596766; _ym_d=1759568800; tildauid=1770756146486.313904; tildasid=1772009712778.290525; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_isad=2
+    [formid] => form1731490601
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Пенза
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Бесплатная телефонная консультация
+Cookies: _ym_uid=1710499569649596766; _ym_d=1759568800; tildauid=1770756146486.313904; tildasid=1772009712778.290525; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_isad=2
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Тест Пенза
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79577777777
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 988
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Пенза<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Бесплатная телефонная консультация<br><b>Cookies:</b> _ym_uid=1710499569649596766; _ym_d=1759568800; tildauid=1770756146486.313904; tildasid=1772009712778.290525; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_isad=2<br>
+)
+
+Bitrix Response: {"result":654901,"time":{"start":1772009737,"finish":1772009739.757126,"duration":2.7571260929107666,"processing":2,"date_start":"2026-02-25T11:55:37+03:00","date_finish":"2026-02-25T11:55:39+03:00","operating_reset_at":1772010337,"operating":2.4070138931274414}}
+Статус: Успешно (Lead ID: 654901)
+--------------------------------------------------
+
+Время: 25.02.2026 13:07:24
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Влад
+    [phone] => +7 (900) 467-18-81
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%9F%D0%B5%D0%BD%D0%B7%D0%B0&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Пенза
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Да
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (900) 467-18-81
+    [name] => Влад
+    [tranid] => 3897434:8196367342
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772013838048.426692; tildasid=1772013838048.947085; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_uid=1772013839557647378; _ym_d=1772013839; _ym_isad=2; _ym_visorc=w
+    [formid] => form1731490601
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705895914
+    [utm_content] => 1900054463654166839
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Пенза
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Да
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772013838048.426692; tildasid=1772013838048.947085; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_uid=1772013839557647378; _ym_d=1772013839; _ym_isad=2; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705895914
+    [UTM_CONTENT] => 1900054463654166839
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Влад
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79004671881
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 988
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Пенза<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Да<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772013838048.426692; tildasid=1772013838048.947085; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_uid=1772013839557647378; _ym_d=1772013839; _ym_isad=2; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":655003,"time":{"start":1772014044,"finish":1772014047.347496,"duration":3.3474960327148438,"processing":3,"date_start":"2026-02-25T13:07:24+03:00","date_finish":"2026-02-25T13:07:27+03:00","operating_reset_at":1772014644,"operating":5.000359058380127}}
+Статус: Успешно (Lead ID: 655003)
+--------------------------------------------------
+
+Время: 25.02.2026 15:42:45
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Гулия
+    [phone] => +7 (937) 449-01-11
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%9F%D0%B5%D0%BD%D0%B7%D0%B0&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%95%D1%81%D1%82%D1%8C&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Пенза
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Есть
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (937) 449-01-11
+    [name] => Гулия
+    [tranid] => 3897434:8196895812
+    [COOKIES] => _ym_fa=10953.4o3UXwetqhSsnybX3cDEXyavC1nVC9AJtbEYFhOmGwLsfZQaUFsPMKP5p-gDSRi9.skr0BbZ0mrQ9ntOprTLwSaJUahk%2C; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_d=1772023324; _ym_isad=2; _ym_uid=1772023324537812143; _ym_visorc=w; tildasid=1772023323597.962315; tildauid=1772023323597.557805; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C
+    [formid] => form1731490601
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705895914
+    [utm_content] => 1900054463654166839
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Пенза
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Есть
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: _ym_fa=10953.4o3UXwetqhSsnybX3cDEXyavC1nVC9AJtbEYFhOmGwLsfZQaUFsPMKP5p-gDSRi9.skr0BbZ0mrQ9ntOprTLwSaJUahk%2C; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_d=1772023324; _ym_isad=2; _ym_uid=1772023324537812143; _ym_visorc=w; tildasid=1772023323597.962315; tildauid=1772023323597.557805; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705895914
+    [UTM_CONTENT] => 1900054463654166839
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Гулия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79374490111
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 988
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Пенза<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Есть<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> _ym_fa=10953.4o3UXwetqhSsnybX3cDEXyavC1nVC9AJtbEYFhOmGwLsfZQaUFsPMKP5p-gDSRi9.skr0BbZ0mrQ9ntOprTLwSaJUahk%2C; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_d=1772023324; _ym_isad=2; _ym_uid=1772023324537812143; _ym_visorc=w; tildasid=1772023323597.962315; tildauid=1772023323597.557805; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C<br>
+)
+
+Bitrix Response: {"result":655229,"time":{"start":1772023365,"finish":1772023368.471633,"duration":3.471632957458496,"processing":3,"date_start":"2026-02-25T15:42:45+03:00","date_finish":"2026-02-25T15:42:48+03:00","operating_reset_at":1772023965,"operating":10.116744756698608}}
+Статус: Успешно (Lead ID: 655229)
+--------------------------------------------------
+
+Время: 26.02.2026 11:39:49
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Василий
+    [phone] => +7 (986) 935-47-24
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%9F%D0%B5%D0%BD%D0%B7%D0%B0&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Пенза
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (986) 935-47-24
+    [name] => Василий
+    [tranid] => 3897434:8198998643
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772095070912.459816; tildasid=1772095070912.609396; _ym_uid=1772095071763991525; _ym_d=1772095071; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_visorc=w
+    [formid] => form1731490601
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705895914
+    [utm_content] => 1900054463654166839
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Пенза
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772095070912.459816; tildasid=1772095070912.609396; _ym_uid=1772095071763991525; _ym_d=1772095071; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705895914
+    [UTM_CONTENT] => 1900054463654166839
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Василий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79869354724
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 988
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Пенза<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772095070912.459816; tildasid=1772095070912.609396; _ym_uid=1772095071763991525; _ym_d=1772095071; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":655757,"time":{"start":1772095189,"finish":1772095192.240737,"duration":3.240736961364746,"processing":3,"date_start":"2026-02-26T11:39:49+03:00","date_finish":"2026-02-26T11:39:52+03:00","operating_reset_at":1772095789,"operating":17.302894115447998}}
+Статус: Успешно (Lead ID: 655757)
+--------------------------------------------------
+
+Время: 26.02.2026 14:55:47
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Евгений
+    [phone] => +7 (902) 345-65-20
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%9F%D0%B5%D0%BD%D0%B7%D0%B0&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%A4%D0%A1%D0
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Пенза
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (902) 345-65-20
+    [name] => Евгений
+    [tranid] => 3897434:8199619812
+    [COOKIES] => previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_d=1772106883; _ym_isad=2; _ym_uid=1772106883115225867; _ym_visorc=w; tildasid=1772106882583.312487; tildauid=1772106882583.230767; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C
+    [formid] => form1731490601
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705895914
+    [utm_content] => 1900054463654166839
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Пенза
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_d=1772106883; _ym_isad=2; _ym_uid=1772106883115225867; _ym_visorc=w; tildasid=1772106882583.312487; tildauid=1772106882583.230767; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705895914
+    [UTM_CONTENT] => 1900054463654166839
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Евгений
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79023456520
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 988
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Пенза<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza; _ym_d=1772106883; _ym_isad=2; _ym_uid=1772106883115225867; _ym_visorc=w; tildasid=1772106882583.312487; tildauid=1772106882583.230767; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C<br>
+)
+
+Bitrix Response: {"result":656015,"time":{"start":1772106947,"finish":1772106949.697926,"duration":2.6979260444641113,"processing":2,"date_start":"2026-02-26T14:55:47+03:00","date_finish":"2026-02-26T14:55:49+03:00","operating_reset_at":1772107547,"operating":32.655845642089844}}
+Статус: Успешно (Lead ID: 656015)
+--------------------------------------------------
+
+Время: 26.02.2026 18:58:54
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Денис Владимирович Ошин
+    [phone] => +7 (929) 767-26-88
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%9F%D0%B5%D0%BD%D0%B7%D0%B0&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%95%D1%81%D1%82%D1%8C&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Пенза
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Есть
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Да
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (929) 767-26-88
+    [name] => Денис Владимирович Ошин
+    [tranid] => 3897434:8200308863
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772121387759.815250; tildasid=1772121387759.200667; _ym_uid=1772121388167426906; _ym_d=1772121388; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza
+    [formid] => form1731490601
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705895914
+    [utm_content] => 1900054463654166839
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Пенза
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Есть
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Да
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772121387759.815250; tildasid=1772121387759.200667; _ym_uid=1772121388167426906; _ym_d=1772121388; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705895914
+    [UTM_CONTENT] => 1900054463654166839
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Денис Владимирович Ошин
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79297672688
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 988
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Пенза<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Есть<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Да<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772121387759.815250; tildasid=1772121387759.200667; _ym_uid=1772121388167426906; _ym_d=1772121388; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza<br>
+)
+
+Bitrix Response: {"result":656247,"time":{"start":1772121534,"finish":1772121537.155308,"duration":3.1553080081939697,"processing":3,"date_start":"2026-02-26T18:58:54+03:00","date_finish":"2026-02-26T18:58:57+03:00","operating_reset_at":1772122134,"operating":6.526473045349121}}
+Статус: Успешно (Lead ID: 656247)
+--------------------------------------------------
+
+Время: 26.02.2026 19:15:03
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Наталья
+    [phone] => +7 (927) 090-37-21
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%9F%D0%B5%D0%BD%D0%B7%D0%B0&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B5+20+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Пенза
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Менее 20 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Бесплатная телефонная консультация
+    [Phone] => +7 (927) 090-37-21
+    [name] => Наталья
+    [tranid] => 3897434:8200352493
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772122437106038044; _ym_d=1772122437; tildauid=1772122437404.915540; tildasid=1772122437404.821105; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza
+    [formid] => form1731490601
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705895914
+    [utm_content] => 1900054463654166839
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Пенза
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: Менее 20 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Бесплатная телефонная консультация
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772122437106038044; _ym_d=1772122437; tildauid=1772122437404.915540; tildasid=1772122437404.821105; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705895914
+    [UTM_CONTENT] => 1900054463654166839
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Наталья
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79270903721
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 988
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Пенза<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Менее 20 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Бесплатная телефонная консультация<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705895914%7C%7C%7Cutm_content%3D1900054463654166839%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1772122437106038044; _ym_d=1772122437; tildauid=1772122437404.915540; tildasid=1772122437404.821105; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-penza<br>
+)
+
+Bitrix Response: {"result":656259,"time":{"start":1772122503,"finish":1772122505.819135,"duration":2.8191349506378174,"processing":2,"date_start":"2026-02-26T19:15:03+03:00","date_finish":"2026-02-26T19:15:05+03:00","operating_reset_at":1772123103,"operating":6.6362059116363525}}
+Статус: Успешно (Lead ID: 656259)
+--------------------------------------------------
+

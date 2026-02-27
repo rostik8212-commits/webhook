@@ -1,0 +1,30 @@
+{
+    "title": "Орел. КЦ. Голосовые технологии",
+    "service": "КЦ",
+    "source_id": "1052",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "routes": [
+        {
+            "field": "name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "Новая заявка - {phone}",
+            "bitrix": "TITLE"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        }
+    ]
+}

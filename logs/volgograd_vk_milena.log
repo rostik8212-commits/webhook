@@ -1,0 +1,1140 @@
+Время: 20.02.2026 02:04:44
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Яна
+    [phone] => +7 (904) 416-79-21
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (904) 416-79-21
+    [name] => Яна
+    [tranid] => 3897434:8183544953
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771542200816768710; _ym_d=1771542200; tildauid=1771542199880.962910; tildasid=1771542199880.460655; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771542200816768710; _ym_d=1771542200; tildauid=1771542199880.962910; tildasid=1771542199880.460655; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Яна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79044167921
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771542200816768710; _ym_d=1771542200; tildauid=1771542199880.962910; tildasid=1771542199880.460655; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd<br>
+)
+
+Bitrix Response: {"result":652421,"time":{"start":1771542284,"finish":1771542286.398471,"duration":2.3984711170196533,"processing":2,"date_start":"2026-02-20T02:04:44+03:00","date_finish":"2026-02-20T02:04:46+03:00","operating_reset_at":1771542884,"operating":2.027899980545044}}
+Статус: Успешно (Lead ID: 652421)
+--------------------------------------------------
+
+Время: 20.02.2026 02:06:40
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Яна
+    [phone] => +7 (904) 416-79-21
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (904) 416-79-21
+    [name] => Яна
+    [tranid] => 3897434:8183546003
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771542200816768710; _ym_d=1771542200; tildauid=1771542199880.962910; tildasid=1771542199880.460655; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771542200816768710; _ym_d=1771542200; tildauid=1771542199880.962910; tildasid=1771542199880.460655; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Яна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79044167921
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771542200816768710; _ym_d=1771542200; tildauid=1771542199880.962910; tildasid=1771542199880.460655; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd<br>
+)
+
+Bitrix Response: {"result":652423,"time":{"start":1771542400,"finish":1771542402.799215,"duration":2.799215078353882,"processing":2,"date_start":"2026-02-20T02:06:40+03:00","date_finish":"2026-02-20T02:06:42+03:00","operating_reset_at":1771543000,"operating":3.964154005050659}}
+Статус: Успешно (Lead ID: 652423)
+--------------------------------------------------
+
+Время: 20.02.2026 04:57:40
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Тимур
+    [phone] => +7 (904) 419-05-37
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%95%D1%81%D1%82%D1%8C&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => Более 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Есть
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (904) 419-05-37
+    [name] => Тимур
+    [tranid] => 3897434:8183619363
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771552561111727267; _ym_d=1771552561; tildauid=1771552561152.793501; tildasid=1771552561152.559269; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: Более 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Есть
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771552561111727267; _ym_d=1771552561; tildauid=1771552561152.793501; tildasid=1771552561152.559269; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Тимур
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79044190537
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> Более 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Есть<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771552561111727267; _ym_d=1771552561; tildauid=1771552561152.793501; tildasid=1771552561152.559269; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd<br>
+)
+
+Bitrix Response: {"result":652435,"time":{"start":1771552660,"finish":1771552662.540901,"duration":2.540900945663452,"processing":2,"date_start":"2026-02-20T04:57:40+03:00","date_finish":"2026-02-20T04:57:42+03:00","operating_reset_at":1771553260,"operating":1.9747040271759033}}
+Статус: Успешно (Lead ID: 652435)
+--------------------------------------------------
+
+Время: 20.02.2026 14:34:18
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Алексей
+    [phone] => +7 (937) 735-80-02
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Да
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (937) 735-80-02
+    [name] => Алексей
+    [tranid] => 3897434:8184810023
+    [COOKIES] => _ym_uid=1762922479998376340; _ym_d=1762922479; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771587195114.550580; tildasid=1771587195114.947431; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Да
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: _ym_uid=1762922479998376340; _ym_d=1762922479; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771587195114.550580; tildasid=1771587195114.947431; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Алексей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79377358002
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Да<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> _ym_uid=1762922479998376340; _ym_d=1762922479; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771587195114.550580; tildasid=1771587195114.947431; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":652963,"time":{"start":1771587258,"finish":1771587261.624942,"duration":3.6249420642852783,"processing":2,"date_start":"2026-02-20T14:34:18+03:00","date_finish":"2026-02-20T14:34:21+03:00","operating_reset_at":1771587859,"operating":7.704015016555786}}
+Статус: Успешно (Lead ID: 652963)
+--------------------------------------------------
+
+Время: 20.02.2026 14:37:36
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Анна
+    [phone] => +7 (969) 291-30-52
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (969) 291-30-52
+    [name] => Анна
+    [tranid] => 3897434:8184818773
+    [COOKIES] => _ym_uid=1748037171913139450; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771587283677.887554; tildasid=1771587283677.223173; _ym_d=1771587284; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: _ym_uid=1748037171913139450; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771587283677.887554; tildasid=1771587283677.223173; _ym_d=1771587284; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Анна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79692913052
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> _ym_uid=1748037171913139450; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771587283677.887554; tildasid=1771587283677.223173; _ym_d=1771587284; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd<br>
+)
+
+Bitrix Response: {"result":652967,"time":{"start":1771587456,"finish":1771587459.220702,"duration":3.2207019329071045,"processing":3,"date_start":"2026-02-20T14:37:36+03:00","date_finish":"2026-02-20T14:37:39+03:00","operating_reset_at":1771588056,"operating":10.069462060928345}}
+Статус: Успешно (Lead ID: 652967)
+--------------------------------------------------
+
+Время: 21.02.2026 19:21:14
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Екатерина
+    [phone] => +7 (904) 409-51-12
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (904) 409-51-12
+    [name] => Екатерина
+    [tranid] => 3897434:8187734382
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771690835896912727; _ym_d=1771690835; _ym_isad=1; tildauid=1771690835047.457712; tildasid=1771690835047.839096; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771690835896912727; _ym_d=1771690835; _ym_isad=1; tildauid=1771690835047.457712; tildasid=1771690835047.839096; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Екатерина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79044095112
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771690835896912727; _ym_d=1771690835; _ym_isad=1; tildauid=1771690835047.457712; tildasid=1771690835047.839096; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd<br>
+)
+
+Bitrix Response: {"result":653399,"time":{"start":1771690874,"finish":1771690876.843073,"duration":2.8430728912353516,"processing":2,"date_start":"2026-02-21T19:21:14+03:00","date_finish":"2026-02-21T19:21:16+03:00","operating_reset_at":1771691474,"operating":7.022749900817871}}
+Статус: Успешно (Lead ID: 653399)
+--------------------------------------------------
+
+Время: 22.02.2026 05:54:37
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Ольга
+    [phone] => +7 (905) 338-60-82
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (905) 338-60-82
+    [name] => Ольга
+    [tranid] => 3897434:8188344763
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771728837982.822494; tildasid=1771728837982.594408; _ym_uid=1771728838344500474; _ym_d=1771728838; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771728837982.822494; tildasid=1771728837982.594408; _ym_uid=1771728838344500474; _ym_d=1771728838; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Ольга
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79053386082
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771728837982.822494; tildasid=1771728837982.594408; _ym_uid=1771728838344500474; _ym_d=1771728838; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":653451,"time":{"start":1771728877,"finish":1771728879.243184,"duration":2.2431840896606445,"processing":2,"date_start":"2026-02-22T05:54:37+03:00","date_finish":"2026-02-22T05:54:39+03:00","operating_reset_at":1771729477,"operating":2.0751750469207764}}
+Статус: Успешно (Lead ID: 653451)
+--------------------------------------------------
+
+Время: 23.02.2026 19:59:44
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Элла
+    [phone] => +7 (985) 283-62-65
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (985) 283-62-65
+    [name] => Элла
+    [tranid] => 3897434:8191986192
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771865906802.303025; tildasid=1771865906802.955457; _ym_uid=1771865907640555549; _ym_d=1771865907; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771865906802.303025; tildasid=1771865906802.955457; _ym_uid=1771865907640555549; _ym_d=1771865907; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Элла
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79852836265
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771865906802.303025; tildasid=1771865906802.955457; _ym_uid=1771865907640555549; _ym_d=1771865907; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd<br>
+)
+
+Bitrix Response: {"result":653831,"time":{"start":1771865984,"finish":1771865986.167657,"duration":2.167656898498535,"processing":2,"date_start":"2026-02-23T19:59:44+03:00","date_finish":"2026-02-23T19:59:46+03:00","operating_reset_at":1771866584,"operating":1.9133930206298828}}
+Статус: Успешно (Lead ID: 653831)
+--------------------------------------------------
+
+Время: 24.02.2026 06:18:41
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Сергей
+    [phone] => +7 (999) 625-03-31
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => Более 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (999) 625-03-31
+    [name] => Сергей
+    [tranid] => 3897434:8192592703
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771903055330255107; _ym_d=1771903055; tildauid=1771903055043.341038; tildasid=1771903055043.847468; _ym_visorc=w; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: Более 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771903055330255107; _ym_d=1771903055; tildauid=1771903055043.341038; tildasid=1771903055043.847468; _ym_visorc=w; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Сергей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79996250331
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> Более 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=1771903055330255107; _ym_d=1771903055; tildauid=1771903055043.341038; tildasid=1771903055043.847468; _ym_visorc=w; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd<br>
+)
+
+Bitrix Response: {"result":653883,"time":{"start":1771903121,"finish":1771903123.945775,"duration":2.945775032043457,"processing":2,"date_start":"2026-02-24T06:18:41+03:00","date_finish":"2026-02-24T06:18:43+03:00","operating_reset_at":1771903721,"operating":2.049739122390747}}
+Статус: Успешно (Lead ID: 653883)
+--------------------------------------------------
+
+Время: 25.02.2026 08:28:05
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Ирина
+    [phone] => +7 (961) 655-37-83
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%95%D1%81%D1%82%D1%8C&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Есть
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (961) 655-37-83
+    [name] => Ирина
+    [tranid] => 3897434:8195528362
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771997228708.243724; tildasid=1771997228708.598530; _ym_uid=177199723096489460; _ym_d=1771997230; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Есть
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771997228708.243724; tildasid=1771997228708.598530; _ym_uid=177199723096489460; _ym_d=1771997230; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Ирина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79616553783
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Есть<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1771997228708.243724; tildasid=1771997228708.598530; _ym_uid=177199723096489460; _ym_d=1771997230; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_isad=2; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":654715,"time":{"start":1771997285,"finish":1771997287.912729,"duration":2.912729024887085,"processing":2,"date_start":"2026-02-25T08:28:05+03:00","date_finish":"2026-02-25T08:28:07+03:00","operating_reset_at":1771997885,"operating":2.1723010540008545}}
+Статус: Успешно (Lead ID: 654715)
+--------------------------------------------------
+
+Время: 25.02.2026 10:11:08
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Анастасия
+    [phone] => +7 (904) 728-93-63
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (904) 728-93-63
+    [name] => Анастасия
+    [tranid] => 3897434:8195772113
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772003397119.292490; tildasid=1772003397119.782166; _ym_uid=1772003397187696750; _ym_d=1772003397; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772003397119.292490; tildasid=1772003397119.782166; _ym_uid=1772003397187696750; _ym_d=1772003397; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Анастасия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79047289363
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772003397119.292490; tildasid=1772003397119.782166; _ym_uid=1772003397187696750; _ym_d=1772003397; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":654805,"time":{"start":1772003469,"finish":1772003471.51643,"duration":2.516429901123047,"processing":2,"date_start":"2026-02-25T10:11:09+03:00","date_finish":"2026-02-25T10:11:11+03:00","operating_reset_at":1772004069,"operating":5.31517219543457}}
+Статус: Успешно (Lead ID: 654805)
+--------------------------------------------------
+
+Время: 26.02.2026 07:09:15
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Эрика
+    [phone] => +7 (961) 062-39-22
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (961) 062-39-22
+    [name] => Эрика
+    [tranid] => 3897434:8198379163
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772078919685.579396; tildasid=1772078919685.302197; _ym_uid=1772078920261705518; _ym_d=1772078920; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772078919685.579396; tildasid=1772078919685.302197; _ym_uid=1772078920261705518; _ym_d=1772078920; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Эрика
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79610623922
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772078919685.579396; tildasid=1772078919685.302197; _ym_uid=1772078920261705518; _ym_d=1772078920; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":655543,"time":{"start":1772078955,"finish":1772078957.742427,"duration":2.742427110671997,"processing":2,"date_start":"2026-02-26T07:09:15+03:00","date_finish":"2026-02-26T07:09:17+03:00","operating_reset_at":1772079555,"operating":4.4129557609558105}}
+Статус: Успешно (Lead ID: 655543)
+--------------------------------------------------
+
+Время: 26.02.2026 13:25:12
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Анна
+    [phone] => +7 (902) 387-73-60
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=250+000+-+300+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 250 000 - 300 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Точно не знаю
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (902) 387-73-60
+    [name] => Анна
+    [tranid] => 3897434:8199335262
+    [COOKIES] => _ym_visorc=w; _ym_fa=10954.Eo43Nm23ksD3z-wPm1mOD99uI9RfgCAswk2-ua_FzwZSQj_M1cPPsD87GDtuI1Jo.mSCf8e5Q4ExB49lCarWkskTuAjs%2C; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_d=1772101483; _ym_isad=2; _ym_uid=1772101483845321457; tildasid=1772101482472.718639; tildauid=1772101482472.869522; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 250 000 - 300 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Точно не знаю
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: _ym_visorc=w; _ym_fa=10954.Eo43Nm23ksD3z-wPm1mOD99uI9RfgCAswk2-ua_FzwZSQj_M1cPPsD87GDtuI1Jo.mSCf8e5Q4ExB49lCarWkskTuAjs%2C; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_d=1772101483; _ym_isad=2; _ym_uid=1772101483845321457; tildasid=1772101482472.718639; tildauid=1772101482472.869522; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Анна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79023877360
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 250 000 - 300 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Точно не знаю<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> _ym_visorc=w; _ym_fa=10954.Eo43Nm23ksD3z-wPm1mOD99uI9RfgCAswk2-ua_FzwZSQj_M1cPPsD87GDtuI1Jo.mSCf8e5Q4ExB49lCarWkskTuAjs%2C; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_d=1772101483; _ym_isad=2; _ym_uid=1772101483845321457; tildasid=1772101482472.718639; tildauid=1772101482472.869522; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C<br>
+)
+
+Bitrix Response: {"result":655875,"time":{"start":1772101512,"finish":1772101514.838465,"duration":2.8384649753570557,"processing":2,"date_start":"2026-02-26T13:25:12+03:00","date_finish":"2026-02-26T13:25:14+03:00","operating_reset_at":1772102112,"operating":14.314253568649292}}
+Статус: Успешно (Lead ID: 655875)
+--------------------------------------------------
+
+Время: 26.02.2026 18:07:07
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Андрей
+    [phone] => +7 (902) 387-75-96
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (902) 387-75-96
+    [name] => Андрей
+    [tranid] => 3897434:8200171153
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772118337484.925424; tildasid=1772118337484.525001; _ym_uid=1772118338930136705; _ym_d=1772118338; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772118337484.925424; tildasid=1772118337484.525001; _ym_uid=1772118338930136705; _ym_d=1772118338; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Андрей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79023877596
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772118337484.925424; tildasid=1772118337484.525001; _ym_uid=1772118338930136705; _ym_d=1772118338; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":656215,"time":{"start":1772118427,"finish":1772118429.455693,"duration":2.455693006515503,"processing":2,"date_start":"2026-02-26T18:07:07+03:00","date_finish":"2026-02-26T18:07:09+03:00","operating_reset_at":1772119027,"operating":2.06872296333313}}
+Статус: Успешно (Lead ID: 656215)
+--------------------------------------------------
+
+Время: 26.02.2026 18:07:47
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Андрей
+    [phone] => +7 (902) 387-75-96
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Волгоград
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Более 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Бесплатная телефонная консультация
+    [Phone] => +7 (902) 387-75-96
+    [name] => Андрей
+    [tranid] => 3897434:8200172843
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772118337484.925424; tildasid=1772118337484.525001; _ym_uid=1772118338930136705; _ym_d=1772118338; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w
+    [formid] => form1922945961
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 707323697
+    [utm_content] => 1901855394983979357
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Волгоград
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: Более 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Бесплатная телефонная консультация
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772118337484.925424; tildasid=1772118337484.525001; _ym_uid=1772118338930136705; _ym_d=1772118338; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 707323697
+    [UTM_CONTENT] => 1901855394983979357
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Андрей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79023877596
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1110
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Волгоград<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Более 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Бесплатная телефонная консультация<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D707323697%7C%7C%7Cutm_content%3D1901855394983979357%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772118337484.925424; tildasid=1772118337484.525001; _ym_uid=1772118338930136705; _ym_d=1772118338; _ym_isad=2; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-volgograd; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":656217,"time":{"start":1772118467,"finish":1772118469.898867,"duration":2.898866891860962,"processing":2,"date_start":"2026-02-26T18:07:47+03:00","date_finish":"2026-02-26T18:07:49+03:00","operating_reset_at":1772119067,"operating":4.135729074478149}}
+Статус: Успешно (Lead ID: 656217)
+--------------------------------------------------
+

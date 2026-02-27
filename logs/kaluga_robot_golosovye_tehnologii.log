@@ -1,0 +1,1629 @@
+Время: 20.02.2026 09:28:09
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ИВАН - СЕРГЕЕВИЧ
+    [phone] => 79807159766
+    [email] => 
+)
+
+Город: ОБНИНСК (ID: не найден)
+RAW Input: {
+ "name": "ИВАН - СЕРГЕЕВИЧ",
+    "phone": "79807159766",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "ОБНИНСК",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: ОБНИНСК
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ИВАН - СЕРГЕЕВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79807159766
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79807159766
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> ОБНИНСК<br>
+)
+
+Bitrix Response: {"result":652511,"time":{"start":1771568889,"finish":1771568891.612917,"duration":2.612916946411133,"processing":2,"date_start":"2026-02-20T09:28:09+03:00","date_finish":"2026-02-20T09:28:11+03:00","operating_reset_at":1771569489,"operating":4.9320149421691895}}
+Статус: Успешно (Lead ID: 652511)
+--------------------------------------------------
+
+Время: 20.02.2026 09:57:51
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => МИХАИЛ ЛИМОНОВ -
+    [phone] => 79192970622
+    [email] => 
+)
+
+Город: КАЛУГА (ID: не найден)
+RAW Input: {
+ "name": "МИХАИЛ ЛИМОНОВ -",
+    "phone": "79192970622",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "КАЛУГА",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: КАЛУГА
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => МИХАИЛ ЛИМОНОВ -
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79192970622
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79192970622
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> КАЛУГА<br>
+)
+
+Bitrix Response: {"result":652547,"time":{"start":1771570671,"finish":1771570673.9141,"duration":2.914099931716919,"processing":2,"date_start":"2026-02-20T09:57:51+03:00","date_finish":"2026-02-20T09:57:53+03:00","operating_reset_at":1771571271,"operating":2.373049020767212}}
+Статус: Успешно (Lead ID: 652547)
+--------------------------------------------------
+
+Время: 20.02.2026 09:59:49
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ИРИНА - ЕВГЕНЬЕВНА
+    [phone] => 79805139707
+    [email] => 
+)
+
+Город: - (ID: не найден)
+RAW Input: {
+ "name": "ИРИНА - ЕВГЕНЬЕВНА",
+    "phone": "79805139707",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "-",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: -
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ИРИНА - ЕВГЕНЬЕВНА
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79805139707
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79805139707
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> -<br>
+)
+
+Bitrix Response: {"result":652551,"time":{"start":1771570789,"finish":1771570792.243305,"duration":3.243304967880249,"processing":3,"date_start":"2026-02-20T09:59:49+03:00","date_finish":"2026-02-20T09:59:52+03:00","operating_reset_at":1771571389,"operating":7.689337968826294}}
+Статус: Успешно (Lead ID: 652551)
+--------------------------------------------------
+
+Время: 20.02.2026 10:06:47
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ГЕННАДИЙ - -
+    [phone] => 79805109968
+    [email] => 
+)
+
+Город: ХВАСТОВИЧИ (ID: не найден)
+RAW Input: {
+ "name": "ГЕННАДИЙ - -",
+    "phone": "79805109968",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "ХВАСТОВИЧИ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: ХВАСТОВИЧИ
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ГЕННАДИЙ - -
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79805109968
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79805109968
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> ХВАСТОВИЧИ<br>
+)
+
+Bitrix Response: {"result":652557,"time":{"start":1771571207,"finish":1771571210.343043,"duration":3.343043088912964,"processing":3,"date_start":"2026-02-20T10:06:47+03:00","date_finish":"2026-02-20T10:06:50+03:00","operating_reset_at":1771571807,"operating":10.444764852523804}}
+Статус: Успешно (Lead ID: 652557)
+--------------------------------------------------
+
+Время: 21.02.2026 09:00:22
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => кристина
+    [phone] => 79254069595
+    [email] => 
+)
+
+Город: калуга (ID: не найден)
+RAW Input: {
+ "name": "кристина",
+    "phone": "79254069595",
+ "Comments": "татьяна 700к кк 250 кредит 450 ",
+    "Region": "Калужская область",
+    "Gorod": "калуга",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: татьяна 700к кк 250 кредит 450
+Город: калуга
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => кристина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79254069595
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79254069595
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> татьяна 700к кк 250 кредит 450<br><b>Город:</b> калуга<br>
+)
+
+Bitrix Response: {"result":653181,"time":{"start":1771653622,"finish":1771653624.459255,"duration":2.4592549800872803,"processing":2,"date_start":"2026-02-21T09:00:22+03:00","date_finish":"2026-02-21T09:00:24+03:00","operating_reset_at":1771654222,"operating":4.179328203201294}}
+Статус: Успешно (Lead ID: 653181)
+--------------------------------------------------
+
+Время: 21.02.2026 12:50:22
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ТАТЬЯНА - ЮРЬЕВНА
+    [phone] => 79533381630
+    [email] => 
+)
+
+Город: МАЛОЯРОСЛАВЕЦ (ID: не найден)
+RAW Input: {
+ "name": "ТАТЬЯНА - ЮРЬЕВНА",
+    "phone": "79533381630",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "МАЛОЯРОСЛАВЕЦ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: МАЛОЯРОСЛАВЕЦ
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ТАТЬЯНА - ЮРЬЕВНА
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79533381630
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79533381630
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> МАЛОЯРОСЛАВЕЦ<br>
+)
+
+Bitrix Response: {"result":653291,"time":{"start":1771667422,"finish":1771667424.204299,"duration":2.204298973083496,"processing":2,"date_start":"2026-02-21T12:50:22+03:00","date_finish":"2026-02-21T12:50:24+03:00","operating_reset_at":1771668022,"operating":2.0748209953308105}}
+Статус: Успешно (Lead ID: 653291)
+--------------------------------------------------
+
+Время: 21.02.2026 12:51:10
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => НАТАЛЬЯ - АЛЕКСАНДРОВНА
+    [phone] => 79016357387
+    [email] => 
+)
+
+Город: КРЕМЕНКИ (ID: не найден)
+RAW Input: {
+ "name": "НАТАЛЬЯ - АЛЕКСАНДРОВНА",
+    "phone": "79016357387",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "КРЕМЕНКИ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: КРЕМЕНКИ
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => НАТАЛЬЯ - АЛЕКСАНДРОВНА
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79016357387
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79016357387
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> КРЕМЕНКИ<br>
+)
+
+Bitrix Response: {"result":653293,"time":{"start":1771667470,"finish":1771667472.6725,"duration":2.672499895095825,"processing":2,"date_start":"2026-02-21T12:51:10+03:00","date_finish":"2026-02-21T12:51:12+03:00","operating_reset_at":1771668070,"operating":4.057356119155884}}
+Статус: Успешно (Lead ID: 653293)
+--------------------------------------------------
+
+Время: 21.02.2026 12:55:19
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ЮЛИЯ - ВИКТОРОВНА
+    [phone] => 79533256389
+    [email] => 
+)
+
+Город: ЕРМОЛИНО (ID: не найден)
+RAW Input: {
+ "name": "ЮЛИЯ - ВИКТОРОВНА",
+    "phone": "79533256389",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "ЕРМОЛИНО",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: ЕРМОЛИНО
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ЮЛИЯ - ВИКТОРОВНА
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79533256389
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79533256389
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> ЕРМОЛИНО<br>
+)
+
+Bitrix Response: {"result":653299,"time":{"start":1771667719,"finish":1771667721.705509,"duration":2.7055089473724365,"processing":2,"date_start":"2026-02-21T12:55:19+03:00","date_finish":"2026-02-21T12:55:21+03:00","operating_reset_at":1771668319,"operating":9.61969518661499}}
+Статус: Успешно (Lead ID: 653299)
+--------------------------------------------------
+
+Время: 22.02.2026 11:17:11
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => АЛЕКСАНДР - АЛЕКСАНДРОВИЧ
+    [phone] => 79200965719
+    [email] => 
+)
+
+Город: КАЛУГА (ID: не найден)
+RAW Input: {
+ "name": "АЛЕКСАНДР - АЛЕКСАНДРОВИЧ",
+    "phone": "79200965719",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "КАЛУГА",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: КАЛУГА
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => АЛЕКСАНДР - АЛЕКСАНДРОВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79200965719
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79200965719
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> КАЛУГА<br>
+)
+
+Bitrix Response: {"result":653517,"time":{"start":1771748231,"finish":1771748234.039947,"duration":3.039947032928467,"processing":3,"date_start":"2026-02-22T11:17:11+03:00","date_finish":"2026-02-22T11:17:14+03:00","operating_reset_at":1771748831,"operating":10.320845127105713}}
+Статус: Успешно (Lead ID: 653517)
+--------------------------------------------------
+
+Время: 22.02.2026 11:38:49
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ОЛЬГА - АЛЕКСАНДРОВНА
+    [phone] => 79200901509
+    [email] => 
+)
+
+Город: КАЛУГА (ID: не найден)
+RAW Input: {
+ "name": "ОЛЬГА - АЛЕКСАНДРОВНА",
+    "phone": "79200901509",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "КАЛУГА",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: КАЛУГА
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ОЛЬГА - АЛЕКСАНДРОВНА
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79200901509
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79200901509
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> КАЛУГА<br>
+)
+
+Bitrix Response: {"result":653521,"time":{"start":1771749529,"finish":1771749531.556404,"duration":2.5564041137695312,"processing":2,"date_start":"2026-02-22T11:38:49+03:00","date_finish":"2026-02-22T11:38:51+03:00","operating_reset_at":1771750129,"operating":2.007336139678955}}
+Статус: Успешно (Lead ID: 653521)
+--------------------------------------------------
+
+Время: 22.02.2026 13:04:18
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ТАТЬЯНА - ДМИТРИЕВНА
+    [phone] => 79029347579
+    [email] => 
+)
+
+Город: МАЛОЯРОСЛАВЕЦ (ID: не найден)
+RAW Input: {
+ "name": "ТАТЬЯНА - ДМИТРИЕВНА",
+    "phone": "79029347579",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "МАЛОЯРОСЛАВЕЦ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: МАЛОЯРОСЛАВЕЦ
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ТАТЬЯНА - ДМИТРИЕВНА
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79029347579
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79029347579
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> МАЛОЯРОСЛАВЕЦ<br>
+)
+
+Bitrix Response: {"result":653549,"time":{"start":1771754658,"finish":1771754660.857199,"duration":2.85719895362854,"processing":2,"date_start":"2026-02-22T13:04:18+03:00","date_finish":"2026-02-22T13:04:20+03:00","operating_reset_at":1771755258,"operating":10.42646312713623}}
+Статус: Успешно (Lead ID: 653549)
+--------------------------------------------------
+
+Время: 22.02.2026 13:39:34
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ДМИТРИЙ - ВАЛЕРЬЕВИЧ
+    [phone] => 79005796589
+    [email] => 
+)
+
+Город: СУХИНИЧИ (ID: не найден)
+RAW Input: {
+ "name": "ДМИТРИЙ - ВАЛЕРЬЕВИЧ",
+    "phone": "79005796589",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "СУХИНИЧИ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: СУХИНИЧИ
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ДМИТРИЙ - ВАЛЕРЬЕВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79005796589
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79005796589
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> СУХИНИЧИ<br>
+)
+
+Bitrix Response: {"result":653559,"time":{"start":1771756774,"finish":1771756776.822437,"duration":2.822437047958374,"processing":2,"date_start":"2026-02-22T13:39:34+03:00","date_finish":"2026-02-22T13:39:36+03:00","operating_reset_at":1771757374,"operating":1.9543609619140625}}
+Статус: Успешно (Lead ID: 653559)
+--------------------------------------------------
+
+Время: 23.02.2026 10:47:48
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => вячеслав
+    [phone] => 79208788254
+    [email] => 
+)
+
+Город: Полотняный Завод (ID: не найден)
+RAW Input: {
+ "name": "вячеслав",
+    "phone": "79208788254",
+ "Comments": "Евгений 250к 250к микрозаймы ",
+    "Region": "Калужская область",
+    "Gorod": "Полотняный Завод",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Евгений 250к 250к микрозаймы
+Город: Полотняный Завод
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => вячеслав
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79208788254
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79208788254
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> Евгений 250к 250к микрозаймы<br><b>Город:</b> Полотняный Завод<br>
+)
+
+Bitrix Response: {"result":653703,"time":{"start":1771832868,"finish":1771832870.987911,"duration":2.9879109859466553,"processing":2,"date_start":"2026-02-23T10:47:48+03:00","date_finish":"2026-02-23T10:47:50+03:00","operating_reset_at":1771833468,"operating":2.005951166152954}}
+Статус: Успешно (Lead ID: 653703)
+--------------------------------------------------
+
+Время: 23.02.2026 13:03:48
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => НИКОЛАЙ - НИКОЛАЕВИЧ
+    [phone] => 79208739044
+    [email] => 
+)
+
+Город: КАЛУГА (ID: не найден)
+RAW Input: {
+ "name": "НИКОЛАЙ - НИКОЛАЕВИЧ",
+    "phone": "79208739044",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "КАЛУГА",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: КАЛУГА
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => НИКОЛАЙ - НИКОЛАЕВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79208739044
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79208739044
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> КАЛУГА<br>
+)
+
+Bitrix Response: {"result":653731,"time":{"start":1771841028,"finish":1771841030.889119,"duration":2.8891189098358154,"processing":2,"date_start":"2026-02-23T13:03:48+03:00","date_finish":"2026-02-23T13:03:50+03:00","operating_reset_at":1771841628,"operating":5.143275260925293}}
+Статус: Успешно (Lead ID: 653731)
+--------------------------------------------------
+
+Время: 23.02.2026 13:49:18
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => АЛЕКСАНДР - АЛЕКСАНДРОВИЧ
+    [phone] => 79200918798
+    [email] => 
+)
+
+Город: МАЛОЯРОСЛАВЕЦ (ID: не найден)
+RAW Input: {
+ "name": "АЛЕКСАНДР - АЛЕКСАНДРОВИЧ",
+    "phone": "79200918798",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "МАЛОЯРОСЛАВЕЦ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: МАЛОЯРОСЛАВЕЦ
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => АЛЕКСАНДР - АЛЕКСАНДРОВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79200918798
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79200918798
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> МАЛОЯРОСЛАВЕЦ<br>
+)
+
+Bitrix Response: {"result":653743,"time":{"start":1771843758,"finish":1771843760.862095,"duration":2.8620951175689697,"processing":2,"date_start":"2026-02-23T13:49:18+03:00","date_finish":"2026-02-23T13:49:20+03:00","operating_reset_at":1771844358,"operating":4.076726198196411}}
+Статус: Успешно (Lead ID: 653743)
+--------------------------------------------------
+
+Время: 24.02.2026 11:47:21
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ВЯЧЕСЛАВ - МИХАЙЛОВИЧ
+    [phone] => 79307509899
+    [email] => 
+)
+
+Город: КАЛУГА (ID: не найден)
+RAW Input: {
+ "name": "ВЯЧЕСЛАВ - МИХАЙЛОВИЧ",
+    "phone": "79307509899",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "КАЛУГА",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: КАЛУГА
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ВЯЧЕСЛАВ - МИХАЙЛОВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79307509899
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79307509899
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> КАЛУГА<br>
+)
+
+Bitrix Response: {"result":654079,"time":{"start":1771922842,"finish":1771922844.537626,"duration":2.537626028060913,"processing":2,"date_start":"2026-02-24T11:47:22+03:00","date_finish":"2026-02-24T11:47:24+03:00","operating_reset_at":1771923442,"operating":6.995948076248169}}
+Статус: Успешно (Lead ID: 654079)
+--------------------------------------------------
+
+Время: 24.02.2026 12:16:18
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => АНДРЕЙ ДУЛЕВ ИВАНОВИЧ
+    [phone] => 79208921540
+    [email] => 
+)
+
+Город: - (ID: не найден)
+RAW Input: {
+ "name": "АНДРЕЙ ДУЛЕВ ИВАНОВИЧ",
+    "phone": "79208921540",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "-",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: -
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => АНДРЕЙ ДУЛЕВ ИВАНОВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79208921540
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79208921540
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> -<br>
+)
+
+Bitrix Response: {"result":654131,"time":{"start":1771924578,"finish":1771924581.074763,"duration":3.074763059616089,"processing":3,"date_start":"2026-02-24T12:16:18+03:00","date_finish":"2026-02-24T12:16:21+03:00","operating_reset_at":1771925178,"operating":8.701933860778809}}
+Статус: Успешно (Lead ID: 654131)
+--------------------------------------------------
+
+Время: 24.02.2026 12:25:43
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ДЕНИС - АЛЕКСЕЕВИЧ
+    [phone] => 79200093331
+    [email] => 
+)
+
+Город: КАЛУГА (ID: не найден)
+RAW Input: {
+ "name": "ДЕНИС - АЛЕКСЕЕВИЧ",
+    "phone": "79200093331",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "КАЛУГА",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: КАЛУГА
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ДЕНИС - АЛЕКСЕЕВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79200093331
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79200093331
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> КАЛУГА<br>
+)
+
+Bitrix Response: {"result":654147,"time":{"start":1771925143,"finish":1771925146.208591,"duration":3.2085909843444824,"processing":3,"date_start":"2026-02-24T12:25:43+03:00","date_finish":"2026-02-24T12:25:46+03:00","operating_reset_at":1771925743,"operating":13.650291442871094}}
+Статус: Успешно (Lead ID: 654147)
+--------------------------------------------------
+
+Время: 24.02.2026 12:37:16
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => АНДРЕЙ - АЛЕКСАНДРОВИЧ
+    [phone] => 79200905154
+    [email] => 
+)
+
+Город: ОБНИНСК (ID: не найден)
+RAW Input: {
+ "name": "АНДРЕЙ - АЛЕКСАНДРОВИЧ",
+    "phone": "79200905154",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "ОБНИНСК",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: ОБНИНСК
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => АНДРЕЙ - АЛЕКСАНДРОВИЧ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79200905154
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79200905154
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> ОБНИНСК<br>
+)
+
+Bitrix Response: {"result":654169,"time":{"start":1771925836,"finish":1771925838.605538,"duration":2.6055378913879395,"processing":2,"date_start":"2026-02-24T12:37:16+03:00","date_finish":"2026-02-24T12:37:18+03:00","operating_reset_at":1771926436,"operating":11.488751888275146}}
+Статус: Успешно (Lead ID: 654169)
+--------------------------------------------------
+
+Время: 25.02.2026 09:00:52
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => Андрей
+    [phone] => 79208964865
+    [email] => 
+)
+
+Город: Обнинск (ID: не найден)
+RAW Input: {
+ "name": "Андрей",
+    "phone": "79208964865",
+ "Comments": "Виктория 850к кк,пк,микрозайм после 20:00",
+    "Region": "Калужская область",
+    "Gorod": "Обнинск",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Виктория 850к кк,пк,микрозайм после 20:00
+Город: Обнинск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Андрей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79208964865
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79208964865
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> Виктория 850к кк,пк,микрозайм после 20:00<br><b>Город:</b> Обнинск<br>
+)
+
+Bitrix Response: {"result":654731,"time":{"start":1771999252,"finish":1771999255.111325,"duration":3.1113250255584717,"processing":3,"date_start":"2026-02-25T09:00:52+03:00","date_finish":"2026-02-25T09:00:55+03:00","operating_reset_at":1771999852,"operating":10.096785545349121}}
+Статус: Успешно (Lead ID: 654731)
+--------------------------------------------------
+
+Время: 25.02.2026 09:10:23
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => ДАНИИЛ - -
+    [phone] => 79042987707
+    [email] => 
+)
+
+Город: КАЛУГА (ID: не найден)
+RAW Input: {
+ "name": "ДАНИИЛ - -",
+    "phone": "79042987707",
+ "Comments": "   ",
+    "Region": "Калужская область",
+    "Gorod": "КАЛУГА",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: КАЛУГА
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => ДАНИИЛ - -
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79042987707
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79042987707
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Город:</b> КАЛУГА<br>
+)
+
+Bitrix Response: {"result":654745,"time":{"start":1771999823,"finish":1771999825.757405,"duration":2.7574050426483154,"processing":2,"date_start":"2026-02-25T09:10:23+03:00","date_finish":"2026-02-25T09:10:25+03:00","operating_reset_at":1772000423,"operating":4.553216934204102}}
+Статус: Успешно (Lead ID: 654745)
+--------------------------------------------------
+
+Время: 25.02.2026 09:22:35
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => александр
+    [phone] => 79200918798
+    [email] => 
+)
+
+Город: Малоярославецкий муниципальный округ (ID: не найден)
+RAW Input: {
+ "name": "александр",
+    "phone": "79200918798",
+ "Comments": "полина  280к микрозайм ",
+    "Region": "Калужская область",
+    "Gorod": "Малоярославецкий муниципальный округ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: полина  280к микрозайм
+Город: Малоярославецкий муниципальный округ
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => александр
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79200918798
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79200918798
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> полина  280к микрозайм<br><b>Город:</b> Малоярославецкий муниципальный округ<br>
+)
+
+Bitrix Response: {"result":654771,"time":{"start":1772000555,"finish":1772000558.141653,"duration":3.141653060913086,"processing":3,"date_start":"2026-02-25T09:22:35+03:00","date_finish":"2026-02-25T09:22:38+03:00","operating_reset_at":1772001155,"operating":14.868337154388428}}
+Статус: Успешно (Lead ID: 654771)
+--------------------------------------------------
+
+Время: 25.02.2026 09:30:10
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => Светлана Ивановна
+    [phone] => 79290072102
+    [email] => 
+)
+
+Город: Калуга (ID: не найден)
+RAW Input: {
+ "name": "Светлана Ивановна",
+    "phone": "79290072102",
+ "Comments": "Максим 5 мл  пк кк ",
+    "Region": "Калужская область",
+    "Gorod": "Калуга",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Максим 5 мл  пк кк
+Город: Калуга
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Светлана Ивановна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79290072102
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79290072102
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> Максим 5 мл  пк кк<br><b>Город:</b> Калуга<br>
+)
+
+Bitrix Response: {"result":654777,"time":{"start":1772001010,"finish":1772001012.971226,"duration":2.9712259769439697,"processing":2,"date_start":"2026-02-25T09:30:10+03:00","date_finish":"2026-02-25T09:30:12+03:00","operating_reset_at":1772001610,"operating":11.498424768447876}}
+Статус: Успешно (Lead ID: 654777)
+--------------------------------------------------
+
+Время: 26.02.2026 09:00:40
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => Нина
+    [phone] => 79206155133
+    [email] => 
+)
+
+Город: Калуга (ID: не найден)
+RAW Input: {
+ "name": "Нина ",
+    "phone": "79206155133 ",
+ "Comments": "Наталья  270к  кредит  ",
+    "Region": "Калужская область",
+    "Gorod": "Калуга ",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Наталья  270к  кредит
+Город: Калуга
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Нина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79206155133
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79206155133
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> Наталья  270к  кредит<br><b>Город:</b> Калуга<br>
+)
+
+Bitrix Response: {"result":655561,"time":{"start":1772085640,"finish":1772085642.999021,"duration":2.999021053314209,"processing":2,"date_start":"2026-02-26T09:00:40+03:00","date_finish":"2026-02-26T09:00:42+03:00","operating_reset_at":1772086240,"operating":13.138372898101807}}
+Статус: Успешно (Lead ID: 655561)
+--------------------------------------------------
+
+Время: 26.02.2026 09:10:20
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => александр
+    [phone] => 79190377400
+    [email] => 
+)
+
+Город: калуга (ID: не найден)
+RAW Input: {
+ "name": "александр",
+    "phone": "79190377400",
+ "Comments": "полина 400к потребительский кредит ",
+    "Region": "Калужская область",
+    "Gorod": "калуга",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: полина 400к потребительский кредит
+Город: калуга
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => александр
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79190377400
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79190377400
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> полина 400к потребительский кредит<br><b>Город:</b> калуга<br>
+)
+
+Bitrix Response: {"result":655575,"time":{"start":1772086220,"finish":1772086223.085336,"duration":3.0853359699249268,"processing":3,"date_start":"2026-02-26T09:10:20+03:00","date_finish":"2026-02-26T09:10:23+03:00","operating_reset_at":1772086820,"operating":9.89491319656372}}
+Статус: Успешно (Lead ID: 655575)
+--------------------------------------------------
+
+Время: 26.02.2026 10:02:05
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => николай
+    [phone] => 79208739044
+    [email] => 
+)
+
+Город: перемышльский район (ID: не найден)
+RAW Input: {
+ "name": "николай",
+    "phone": "79208739044",
+ "Comments": "полина  700к потребительский кредит ",
+    "Region": "Калужская область",
+    "Gorod": "перемышльский район",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: полина  700к потребительский кредит
+Город: перемышльский район
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => николай
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79208739044
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79208739044
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> полина  700к потребительский кредит<br><b>Город:</b> перемышльский район<br>
+)
+
+Bitrix Response: {"result":655635,"time":{"start":1772089325,"finish":1772089327.84645,"duration":2.846450090408325,"processing":2,"date_start":"2026-02-26T10:02:05+03:00","date_finish":"2026-02-26T10:02:07+03:00","operating_reset_at":1772089925,"operating":6.981643199920654}}
+Статус: Успешно (Lead ID: 655635)
+--------------------------------------------------
+
+Время: 26.02.2026 13:16:45
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => Андрей Иванович
+    [phone] => 79208921540
+    [email] => 
+)
+
+Город: Хвастовичи (ID: не найден)
+RAW Input: {
+ "name": "Андрей Иванович ",
+    "phone": "79208921540",
+ "Comments": "Зара  368к  368к кк ",
+    "Region": "Калужская область",
+    "Gorod": "Хвастовичи",
+    "utm_source": "",
+    "utm_medium": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": ""
+}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Зара  368к  368к кк
+Город: Хвастовичи
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Андрей Иванович
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79208921540
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79208921540
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 206
+    [COMMENTS] => <b>Comments:</b> Зара  368к  368к кк<br><b>Город:</b> Хвастовичи<br>
+)
+
+Bitrix Response: {"result":655863,"time":{"start":1772101005,"finish":1772101008.314821,"duration":3.3148210048675537,"processing":3,"date_start":"2026-02-26T13:16:45+03:00","date_finish":"2026-02-26T13:16:48+03:00","operating_reset_at":1772101605,"operating":9.707019090652466}}
+Статус: Успешно (Lead ID: 655863)
+--------------------------------------------------
+

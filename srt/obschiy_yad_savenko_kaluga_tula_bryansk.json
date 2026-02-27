@@ -1,0 +1,70 @@
+{
+    "title": "Общий. ЯД. Савенко. Калуга Тула Брянск",
+    "service": "Директ",
+    "source_id": "736",
+    "city_field": "",
+    "city_mapping": {
+        "брянск": "264605",
+        "брянская область": "264605",
+        "брянская обл": "264605",
+        "брянская обл.": "264605",
+        "калуга": "5",
+        "калужская область": "5",
+        "калужская обл": "5",
+        "калужская обл.": "5",
+        "тула": "29407",
+        "тульская область": "29407",
+        "тульская обл": "29407",
+        "тульская обл.": "29407"
+    },
+    "field_labels": [],
+    "source_by_region_enabled": false,
+    "source_by_region": [],
+    "auto_utm_enabled": false,
+    "routes": [
+        {
+            "field": "name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "Новая заявка - {phone}",
+            "bitrix": "TITLE"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        },
+        {
+            "field": "utm_source",
+            "bitrix": "UTM_SOURCE"
+        },
+        {
+            "field": "utm_medium",
+            "bitrix": "UTM_MEDIUM"
+        },
+        {
+            "field": "utm_campaign",
+            "bitrix": "UTM_CAMPAIGN"
+        },
+        {
+            "field": "utm_term",
+            "bitrix": "UTM_TERM"
+        },
+        {
+            "field": "utm_content",
+            "bitrix": "UTM_CONTENT"
+        },
+        {
+            "field": "city",
+            "bitrix": "UF_CRM_GOROD"
+        }
+    ]
+}

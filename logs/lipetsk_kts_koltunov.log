@@ -1,0 +1,50 @@
+Время: 24.02.2026 17:26:31
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1404956
+    [phone] => 79991111111
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "Comments": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439", "phone": "79991111111", "NAME": "1404956"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Тестовый комментарий
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1404956
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79991111111
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79991111111
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 776
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Тестовый комментарий<br>
+)
+
+Bitrix Response: {"result":654497,"time":{"start":1771943192,"finish":1771943194.065878,"duration":2.065877914428711,"processing":2,"date_start":"2026-02-24T17:26:32+03:00","date_finish":"2026-02-24T17:26:34+03:00","operating_reset_at":1771943792,"operating":18.22632932662964}}
+Статус: Успешно (Lead ID: 654497)
+--------------------------------------------------
+

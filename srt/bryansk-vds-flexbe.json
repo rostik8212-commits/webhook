@@ -1,0 +1,50 @@
+{
+    "title": "Брянск-ВДС-flexbe",
+    "service": "Flexbe",
+    "source_id": "367",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "routes": [
+        {
+            "field": "name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "utm_source",
+            "bitrix": "UTM_SOURCE"
+        },
+        {
+            "field": "utm_medium",
+            "bitrix": "UTM_MEDIUM"
+        },
+        {
+            "field": "utm_campaign",
+            "bitrix": "UTM_CAMPAIGN"
+        },
+        {
+            "field": "utm_term",
+            "bitrix": "UTM_TERM"
+        },
+        {
+            "field": "utm_content",
+            "bitrix": "UTM_CONTENT"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        },
+        {
+            "field": "Новая заявка - {phone}",
+            "bitrix": "TITLE"
+        }
+    ]
+}

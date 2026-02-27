@@ -1,0 +1,297 @@
+Время: 26.02.2026 14:00:53
+Сервис: Директ
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: test=test
+POST: Array
+(
+    [test] => test
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 26.02.2026 14:31:46
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (918) 181-71-11
+    [email] => 
+)
+
+Город: Орловская обл. (ID: не найден)
+RAW Input: gorod=%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+2+000+000+%D0%B4%D0%BE+5+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80&phone=%2B7+%28918%29+181-71-11&tranid=4282502%3A8199545603&formid=form810954174&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281602545&utm_term=---autotargeting&utm_region=ulyanovsk
+POST: Array
+(
+    [gorod] => Орловская обл.
+    [qwert1] => От 2 000 000 до 5 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Пенсионер
+    [phone] => +7 (918) 181-71-11
+    [tranid] => 4282502:8199545603
+    [formid] => form810954174
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281602545
+    [utm_term] => ---autotargeting
+    [utm_region] => ulyanovsk
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 2 000 000 до 5 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Пенсионер
+Город: Орловская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281602545
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79181817111
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (918) 181-71-11
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 538
+    [COMMENTS] => <b>Qwert1:</b> От 2 000 000 до 5 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Пенсионер<br><b>Город:</b> Орловская обл.<br>
+)
+
+Bitrix Response: {"result":655975,"time":{"start":1772105506,"finish":1772105509.342588,"duration":3.342587947845459,"processing":3,"date_start":"2026-02-26T14:31:46+03:00","date_finish":"2026-02-26T14:31:49+03:00","operating_reset_at":1772106106,"operating":7.298370122909546}}
+Статус: Успешно (Lead ID: 655975)
+--------------------------------------------------
+
+Время: 26.02.2026 14:34:16
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (918) 171-71-60
+    [email] => 
+)
+
+Город: Калужская обл. (ID: 5)
+RAW Input: gorod=%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+1+000+000+%D0%B4%D0%BE+2+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80&phone=%2B7+%28918%29+171-71-60&tranid=4282502%3A8199553413&formid=form810954174&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281602545&utm_term=---autotargeting&utm_region=ulyanovsk
+POST: Array
+(
+    [gorod] => Калужская обл.
+    [qwert1] => От 1 000 000 до 2 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Пенсионер
+    [phone] => +7 (918) 171-71-60
+    [tranid] => 4282502:8199553413
+    [formid] => form810954174
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281602545
+    [utm_term] => ---autotargeting
+    [utm_region] => ulyanovsk
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 1 000 000 до 2 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Пенсионер
+Город: Калужская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281602545
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79181717160
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (918) 171-71-60
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 538
+    [COMMENTS] => <b>Qwert1:</b> От 1 000 000 до 2 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Пенсионер<br><b>Город:</b> Калужская обл.<br>
+)
+
+Bitrix Response: {"result":655977,"time":{"start":1772105656,"finish":1772105658.779507,"duration":2.7795069217681885,"processing":2,"date_start":"2026-02-26T14:34:16+03:00","date_finish":"2026-02-26T14:34:18+03:00","operating_reset_at":1772106256,"operating":7.55351185798645}}
+Статус: Успешно (Lead ID: 655977)
+--------------------------------------------------
+
+Время: 26.02.2026 14:37:23
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (981) 171-11-16
+    [email] => 
+)
+
+Город: Тульская обл. (ID: 29407)
+RAW Input: gorod=%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+500+000+%D0%B4%D0%BE+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80&phone=%2B7+%28981%29+171-11-16&tranid=4282502%3A8199563223&formid=form810954174&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281602545&utm_term=---autotargeting&utm_region=ulyanovsk
+POST: Array
+(
+    [gorod] => Тульская обл.
+    [qwert1] => От 500 000 до 1 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Пенсионер
+    [phone] => +7 (981) 171-11-16
+    [tranid] => 4282502:8199563223
+    [formid] => form810954174
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281602545
+    [utm_term] => ---autotargeting
+    [utm_region] => ulyanovsk
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 500 000 до 1 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Пенсионер
+Город: Тульская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281602545
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79811711116
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (981) 171-11-16
+    [UF_CRM_GOROD] => 29407
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 538
+    [COMMENTS] => <b>Qwert1:</b> От 500 000 до 1 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Пенсионер<br><b>Город:</b> Тульская обл.<br>
+)
+
+Bitrix Response: {"result":655985,"time":{"start":1772105843,"finish":1772105848.385667,"duration":5.385667085647583,"processing":5,"date_start":"2026-02-26T14:37:23+03:00","date_finish":"2026-02-26T14:37:28+03:00","operating_reset_at":1772106443,"operating":13.719079971313477}}
+Статус: Успешно (Lead ID: 655985)
+--------------------------------------------------
+
+Время: 26.02.2026 14:39:30
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (981) 711-11-62
+    [email] => 
+)
+
+Город: Орловская обл. (ID: 1126563)
+RAW Input: gorod=%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+1+000+000+%D0%B4%D0%BE+2+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%9D%D0%B5+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E&phone=%2B7+%28981%29+711-11-62&tranid=4282502%3A8199570233&formid=form810954174&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281602545&utm_term=---autotargeting&utm_region=ulyanovsk
+POST: Array
+(
+    [gorod] => Орловская обл.
+    [qwert1] => От 1 000 000 до 2 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Не работаю
+    [phone] => +7 (981) 711-11-62
+    [tranid] => 4282502:8199570233
+    [formid] => form810954174
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281602545
+    [utm_term] => ---autotargeting
+    [utm_region] => ulyanovsk
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 1 000 000 до 2 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Не работаю
+Город: Орловская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281602545
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79817111162
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (981) 711-11-62
+    [UF_CRM_GOROD] => 1126563
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 538
+    [COMMENTS] => <b>Qwert1:</b> От 1 000 000 до 2 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Не работаю<br><b>Город:</b> Орловская обл.<br>
+)
+
+Bitrix Response: {"result":655989,"time":{"start":1772105970,"finish":1772105976.211809,"duration":6.211808919906616,"processing":5,"date_start":"2026-02-26T14:39:30+03:00","date_finish":"2026-02-26T14:39:36+03:00","operating_reset_at":1772106571,"operating":18.917221784591675}}
+Статус: Успешно (Lead ID: 655989)
+--------------------------------------------------
+

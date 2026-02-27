@@ -1,0 +1,54 @@
+Время: 26.02.2026 16:33:14
+Сервис: ВКонтакте (Lead Forms)
+From: Заявка из ВКонтакте (Lead Forms)
+Клиент: Array
+(
+    [name] => Владимир тест3
+    [phone] => +77777777798
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"group_id":206133417,"type":"lead_forms_new","event_id":"06ac2cbb15c227a1bd4609cc320d769368ba5747","v":"5.199","object":{"lead_id":5097689,"group_id":206133417,"user_id":302761710,"form_id":5,"form_name":"Форма для постов Пенза","answers":[{"key":"first_name","question":"Имя","answer":"Владимир тест3"},{"key":"phone_number","question":"Номер телефона","answer":"+77777777798"}]},"secret":"yRpjsWniLxAgmtzhI"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+First_name: Владимир тест3
+Phone_number: +77777777798
+Form_name: Форма для постов Пенза
+Form_id: 5
+Group_id: 206133417
+Answers: {&quot;first_name&quot;:&quot;Владимир тест3&quot;,&quot;phone_number&quot;:&quot;+77777777798&quot;}
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Владимир тест3
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +77777777798
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [TITLE] => Заявка из ВКонтакте (Lead Forms)
+    [ASSIGNED_BY_ID] => 1
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 923
+    [COMMENTS] => <b>First_name:</b> Владимир тест3<br><b>Phone_number:</b> +77777777798<br><b>Form_name:</b> Форма для постов Пенза<br><b>Form_id:</b> 5<br><b>Group_id:</b> 206133417<br><b>Answers:</b> {&quot;first_name&quot;:&quot;Владимир тест3&quot;,&quot;phone_number&quot;:&quot;+77777777798&quot;}<br>
+)
+
+Bitrix Response: {"result":656145,"time":{"start":1772112794,"finish":1772112797.082956,"duration":3.082956075668335,"processing":3,"date_start":"2026-02-26T16:33:14+03:00","date_finish":"2026-02-26T16:33:17+03:00","operating_reset_at":1772113394,"operating":6.89355206489563}}
+Статус: Успешно (Lead ID: 656145)
+--------------------------------------------------
+

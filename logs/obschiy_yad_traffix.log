@@ -1,0 +1,54 @@
+Время: 25.02.2026 21:18:05
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (235) 433-45-34
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"fields":{"TITLE":"Заявка юрмаркетинг.рф","NAME":"","SECOND_NAME":"","LAST_NAME":"","STATUS_ID":"NEW","OPENED":"Y","ASSIGNED_BY_ID":1,"SOURCE_DESCRIPTION":"траффикс общая","SOURCE_ID":null,"COMMENTS":"<div><b>Перед кем у вас долги? :</b>  Банки/Микрозаймы;</div> <div><b>На вас зарегистрирована собственность? :</b>  Единственная квартира/дом;</div> <div><b>Какая общая сумма задолженности? :</b>  От 300 000 до 500 000 рублей;</div> <div><b>Выберите ваш регион :</b>  Калужская область;</div> <div><b>Номер телефона :</b>  +7 (235) 433-45-34;</div> <div><b>Имя :</b> ;</div> <div><b>Номер :</b> +7 (235) 433-45-34;</div> ","PHONE":[{"VALUE":"+7 (235) 433-45-34"}]},"params":{"REGISTER_SONET_EVENT":"Y"}}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Комментарий (Bitrix): &lt;div&gt;&lt;b&gt;Перед кем у вас долги? :&lt;/b&gt;  Банки/Микрозаймы;&lt;/div&gt; &lt;div&gt;&lt;b&gt;На вас зарегистрирована собственность? :&lt;/b&gt;  Единственная квартира/дом;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Какая общая сумма задолженности? :&lt;/b&gt;  От 300 000 до 500 000 рублей;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Выберите ваш регион :&lt;/b&gt;  Калужская область;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Номер телефона :&lt;/b&gt;  +7 (235) 433-45-34;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Имя :&lt;/b&gt; ;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Номер :&lt;/b&gt; +7 (235) 433-45-34;&lt;/div&gt; 
+Fields: Заявка юрмаркетинг.рф
+Params: Y
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [TITLE] => Новая заявка - +7 (235) 433-45-34
+    [NAME] => 
+    [SECOND_NAME] => 
+    [LAST_NAME] => 
+    [STATUS_ID] => NEW
+    [OPENED] => Y
+    [ASSIGNED_BY_ID] => 1
+    [SOURCE_DESCRIPTION] => траффикс общая
+    [SOURCE_ID] => 927
+    [COMMENTS] => <b>Комментарий (Bitrix):</b> &lt;div&gt;&lt;b&gt;Перед кем у вас долги? :&lt;/b&gt;  Банки/Микрозаймы;&lt;/div&gt; &lt;div&gt;&lt;b&gt;На вас зарегистрирована собственность? :&lt;/b&gt;  Единственная квартира/дом;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Какая общая сумма задолженности? :&lt;/b&gt;  От 300 000 до 500 000 рублей;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Выберите ваш регион :&lt;/b&gt;  Калужская область;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Номер телефона :&lt;/b&gt;  +7 (235) 433-45-34;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Имя :&lt;/b&gt; ;&lt;/div&gt; &lt;div&gt;&lt;b&gt;Номер :&lt;/b&gt; +7 (235) 433-45-34;&lt;/div&gt; <br><b>Fields:</b> Заявка юрмаркетинг.рф<br><b>Params:</b> Y<br>
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +72354334534
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+)
+
+Bitrix Response: {"result":655479,"time":{"start":1772043485,"finish":1772043488.085315,"duration":3.085314989089966,"processing":3,"date_start":"2026-02-25T21:18:05+03:00","date_finish":"2026-02-25T21:18:08+03:00","operating_reset_at":1772044085,"operating":2.147275924682617}}
+Статус: Успешно (Lead ID: 655479)
+--------------------------------------------------
+

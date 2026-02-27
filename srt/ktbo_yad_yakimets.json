@@ -1,0 +1,69 @@
+{
+    "title": "КТБО ЯД Якимец",
+    "service": "Tilda",
+    "source_id": "1057",
+    "city_field": "gorod",
+    "city_mapping": {
+        "калуга": "5",
+        "калужская область": "5",
+        "калужская обл": "5",
+        "калужская обл.": "5",
+        "тула": "29407",
+        "тульская область": "29407",
+        "тульская обл": "29407",
+        "тульская обл.": "29407",
+        "брянск": "264605",
+        "брянская область": "264605",
+        "брянская обл": "264605",
+        "брянская обл.": "264605",
+        "орёл": "1126563",
+        "орел": "1126563",
+        "орловская область": "1126563",
+        "орловская обл": "1126563",
+        "орловская обл.": "1126563"
+    },
+    "field_labels": {
+        "summa": "сумма долга",
+        "gorod": "Город"
+    },
+    "source_by_region_enabled": false,
+    "source_by_region": [],
+    "routes": [
+        {
+            "field": "Name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "Phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "Email",
+            "bitrix": "EMAIL"
+        },
+        {
+            "field": "utm_source",
+            "bitrix": "UTM_SOURCE"
+        },
+        {
+            "field": "utm_medium",
+            "bitrix": "UTM_MEDIUM"
+        },
+        {
+            "field": "utm_campaign",
+            "bitrix": "UTM_CAMPAIGN"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        },
+        {
+            "field": "city",
+            "bitrix": "UF_CRM_GOROD"
+        }
+    ]
+}

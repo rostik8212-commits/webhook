@@ -1,0 +1,134 @@
+Время: 26.02.2026 18:46:42
+Сервис: Senler
+From: Заявка из Senler
+Клиент: Array
+(
+    [name] => Владимир Моор
+    [phone] => +79251110022
+    [email] => 
+    [birthdate] => 1993-02-02
+)
+
+Город: не определён (ID: не найден)
+RAW Input: fields%5BTITLE%5D=%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0+Senler%3A+%2B79251110022&fields%5BNAME%5D=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D0%9C%D0%BE%D0%BE%D1%80&fields%5BCOMMENTS%5D=%3D%3D%3D+%D0%94%D0%90%D0%9D%D0%9D%D0%AB%D0%95+%D0%98%D0%97+SENLER+%3D%3D%3D%0A%0A%D0%94%D0%B0%D1%82%D0%B0%3A+26.02.2026+18%3A45%3A33%0A%0A---+%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5+%D0%B8%D0%B7+%D1%84%D0%BE%D1%80%D0%BC%D1%8B+---%0A%0AOVERDUE%3A+%D0%9D%D0%B5%D1%82%2C+%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D1%8E+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B8+%D0%B2%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%0APHONE%3A+79251110022%0APROPERTY%3A+%D0%9D%D0%B5%D1%82%2C+%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0+%D0%BD%D0%B5%D1%82%0ASUM%3A+300+000+-+500+000+%D1%80%D1%83%D0%B1.%0AYM_UID%3A+1695115501156175497%0A%0A---+%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+VK+---%0A%0A%D0%98%D0%BC%D1%8F%3A+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D0%9C%D0%BE%D0%BE%D1%80%0A%D0%94%D0
+POST: Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Заявка Senler: +79251110022
+            [NAME] => Владимир Моор
+            [COMMENTS] => === ДАННЫЕ ИЗ SENLER ===
+
+Дата: 26.02.2026 18:45:33
+
+--- Данные из формы ---
+
+OVERDUE: Нет, оплачиваю долги вовремя
+PHONE: 79251110022
+PROPERTY: Нет, имущества нет
+SUM: 300 000 - 500 000 руб.
+YM_UID: 1695115501156175497
+
+--- Пользователь VK ---
+
+Имя: Владимир Моор
+Дата рождения: 02.02.1993
+Пол: Мужской
+VK: https://vk.com/m_vladimir_v
+
+            [ASSIGNED_BY_ID] => 1
+            [SOURCE_ID] => 1032
+            [SOURCE_DESCRIPTION] => Senler
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => +79251110022
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [BIRTHDATE] => 1993-02-02
+        )
+
+    [params] => Array
+        (
+            [REGISTER_SONET_EVENT] => Y
+        )
+
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Комментарий (Bitrix): === ДАННЫЕ ИЗ SENLER ===
+
+Дата: 26.02.2026 18:45:33
+
+--- Данные из формы ---
+
+OVERDUE: Нет, оплачиваю долги вовремя
+PHONE: 79251110022
+PROPERTY: Нет, имущества нет
+SUM: 300 000 - 500 000 руб.
+YM_UID: 1695115501156175497
+
+--- Пользователь VK ---
+
+Имя: Владимир Моор
+Дата рождения: 02.02.1993
+Пол: Мужской
+VK: https://vk.com/m_vladimir_v
+
+Fields: Заявка Senler: +79251110022
+Params: Y
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [TITLE] => Заявка Senler: +79251110022
+    [NAME] => Владимир Моор
+    [COMMENTS] => <b>Комментарий (Bitrix):</b> === ДАННЫЕ ИЗ SENLER ===
+
+Дата: 26.02.2026 18:45:33
+
+--- Данные из формы ---
+
+OVERDUE: Нет, оплачиваю долги вовремя
+PHONE: 79251110022
+PROPERTY: Нет, имущества нет
+SUM: 300 000 - 500 000 руб.
+YM_UID: 1695115501156175497
+
+--- Пользователь VK ---
+
+Имя: Владимир Моор
+Дата рождения: 02.02.1993
+Пол: Мужской
+VK: https://vk.com/m_vladimir_v
+<br><b>Fields:</b> Заявка Senler: +79251110022<br><b>Params:</b> Y<br>
+    [ASSIGNED_BY_ID] => 1
+    [SOURCE_ID] => 1034
+    [SOURCE_DESCRIPTION] => Senler
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79251110022
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [BIRTHDATE] => 1993-02-02
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+)
+
+Bitrix Response: {"result":656235,"time":{"start":1772120802,"finish":1772120804.553626,"duration":2.55362606048584,"processing":2,"date_start":"2026-02-26T18:46:42+03:00","date_finish":"2026-02-26T18:46:44+03:00","operating_reset_at":1772121402,"operating":8.374696016311646}}
+Статус: Успешно (Lead ID: 656235)
+--------------------------------------------------
+

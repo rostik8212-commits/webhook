@@ -1,0 +1,403 @@
+Время: 26.02.2026 11:28:31
+Сервис: Flexbe
+From: Заявка из Flexbe → https://цфр-13.рф/free-konsult/
+Клиент: Array
+(
+    [name] => тест вдс 3
+    [phone] => +7 (655) 6566666
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: event=lead&data%5Bid%5D=68276505&data%5Bnum%5D=266705&data%5Btime%5D=1772094496&data%5Bstatus%5D%5Bcode%5D=0&data%5Bstatus%5D%5Bname%5D=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F&data%5Bclient%5D%5Bname%5D=%D1%82%D0%B5%D1%81%D1%82+%D0%B2%D0%B4%D1%81+3&data%5Bclient%5D%5Bphone%5D=%2B7+%28655%29+6566666&data%5Bclient%5D%5Bemail%5D=&data%5Bnote%5D=&data%5Bform_name%5D=%D0%91%D0%A4%D0%9B%3A+%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F&data%5Bform_data%5D%5Bname%5D%5Bid%5D=name&data%5Bform_data%5D%5Bname%5D%5Bname%5D=Name&data%5Bform_data%5D%5Bname%5D%5Bvalue%5D=%D1%82%D0%B5%D1%81%D1%82+%D0%B2%D0%B4%D1%81+3&data%5Bform_data%5D%5Bname%5D%5Btype%5D=name&data%5Bform_data%5D%5Bname%5D%5Borig_name%5D=%D0%98%D0%BC%D1%8F&data%5Bform_data%5D%5Bphone%5D%5Bid%5D=phone&data%5Bform_data%5D%5Bphone%5D%5Bname%5D=Phone&data%5Bform_data%5D%5Bphone%5D%5Bvalue%5D=%2B7+%28655%29+6566666&data%5Bform_data%5D%5Bphone%5D%5Btype%5D=phone&data%5Bform_data%5D%5Bphone%5D%5Borig_name%5D=%D0%A2%D0%B5%D0
+POST: Array
+(
+    [event] => lead
+    [data] => Array
+        (
+            [id] => 68276505
+            [num] => 266705
+            [time] => 1772094496
+            [status] => Array
+                (
+                    [code] => 0
+                    [name] => Новая
+                )
+
+            [client] => Array
+                (
+                    [name] => тест вдс 3
+                    [phone] => +7 (655) 6566666
+                    [email] => 
+                )
+
+            [note] => 
+            [form_name] => БФЛ: Консультация
+            [form_data] => Array
+                (
+                    [name] => Array
+                        (
+                            [id] => name
+                            [name] => Name
+                            [value] => тест вдс 3
+                            [type] => name
+                            [orig_name] => Имя
+                        )
+
+                    [phone] => Array
+                        (
+                            [id] => phone
+                            [name] => Phone
+                            [value] => +7 (655) 6566666
+                            [type] => phone
+                            [orig_name] => Телефон
+                        )
+
+                    [fld_2] => Array
+                        (
+                            [type] => radio
+                            [name] => Какая у вас сейчас сумма долга?
+                            [value] => 500 000 - 1 000 000 ₽
+                            [id] => fld_2
+                        )
+
+                    [fld_3] => Array
+                        (
+                            [type] => radio
+                            [name] => Есть ли у вас ипотека или автокредит?
+                            [value] => Есть ипотека
+                            [id] => fld_3
+                        )
+
+                    [fld_4] => Array
+                        (
+                            [type] => checkbox
+                            [name] => Что вас беспокоит больше всего?
+                            [value] => Постоянно звонят коллекторы, даже родственникам
+                            [id] => fld_4
+                        )
+
+                    [fld_5] => Array
+                        (
+                            [type] => radio
+                            [name] => Какой вариант, по вашему мнению, вам действительно поможет?
+                            [value] => Хочу разобраться, что подходит именно в моей ситуации
+                            [id] => fld_5
+                        )
+
+                    [fld_6] => Array
+                        (
+                            [type] => radio
+                            [name] => Как Вам удобнее получить результат?
+                            [value] => В Telegram
+                            [id] => fld_6
+                        )
+
+                    [fld_7] => Array
+                        (
+                            [type] => checkbox
+                            [name] => Согласие с политикой конфиденциальности
+                            [value] => Я согласен(-на) с <a class="style-link" href="/terms" target="_blank">Политикой обработки персональных данных</a>
+                            [id] => fld_7
+                        )
+
+                )
+
+            [page] => Array
+                (
+                    [url] => https://цфр-13.рф/free-konsult/
+                    [name] => Открыта бесплатная консультационная линия по вопросам долгов в Мордовии
+                )
+
+            [utm] => Array
+                (
+                    [ip] => 46.254.167.133
+                    [ym_client_id] => 1760101471648239636
+                    [cookies] => Array
+                        (
+                            [_ym_uid] => 1760101471648239636
+                        )
+
+                )
+
+        )
+
+    [site] => Array
+        (
+            [id] => 562768
+            [sub_id] => 665310
+            [domain] => цфр-13.рф
+        )
+
+)
+
+Quiz/Комментарии: Array
+(
+    [0] => Array
+        (
+            [question] => Какая у вас сейчас сумма долга?
+            [answer] => 500 000 - 1 000 000 ₽
+        )
+
+    [1] => Array
+        (
+            [question] => Есть ли у вас ипотека или автокредит?
+            [answer] => Есть ипотека
+        )
+
+    [2] => Array
+        (
+            [question] => Что вас беспокоит больше всего?
+            [answer] => Постоянно звонят коллекторы, даже родственникам
+        )
+
+    [3] => Array
+        (
+            [question] => Какой вариант, по вашему мнению, вам действительно поможет?
+            [answer] => Хочу разобраться, что подходит именно в моей ситуации
+        )
+
+    [4] => Array
+        (
+            [question] => Как Вам удобнее получить результат?
+            [answer] => В Telegram
+        )
+
+    [5] => Array
+        (
+            [question] => Согласие с политикой конфиденциальности
+            [answer] => Я согласен(-на) с <a class="style-link" href="/terms" target="_blank">Политикой обработки персональных данных</a>
+        )
+
+)
+
+Собранные комментарии (для лога): 
+Ответы на вопросы:
+Какая у вас сейчас сумма долга?: 500 000 - 1 000 000 ₽
+Есть ли у вас ипотека или автокредит?: Есть ипотека
+Что вас беспокоит больше всего?: Постоянно звонят коллекторы, даже родственникам
+Какой вариант, по вашему мнению, вам действительно поможет?: Хочу разобраться, что подходит именно в моей ситуации
+Как Вам удобнее получить результат?: В Telegram
+Согласие с политикой конфиденциальности: Я согласен(-на) с &lt;a class=&quot;style-link&quot; href=&quot;/terms&quot; target=&quot;_blank&quot;&gt;Политикой обработки персональных данных&lt;/a&gt;
+
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => тест вдс 3
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +76556566666
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (655) 6566666
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 401
+    [COMMENTS] => <b>Ответы на вопросы:</b><br><b>Какая у вас сейчас сумма долга?:</b> 500 000 - 1 000 000 ₽<br><b>Есть ли у вас ипотека или автокредит?:</b> Есть ипотека<br><b>Что вас беспокоит больше всего?:</b> Постоянно звонят коллекторы, даже родственникам<br><b>Какой вариант, по вашему мнению, вам действительно поможет?:</b> Хочу разобраться, что подходит именно в моей ситуации<br><b>Как Вам удобнее получить результат?:</b> В Telegram<br><b>Согласие с политикой конфиденциальности:</b> Я согласен(-на) с &lt;a class=&quot;style-link&quot; href=&quot;/terms&quot; target=&quot;_blank&quot;&gt;Политикой обработки персональных данных&lt;/a&gt;<br><br>
+)
+
+Bitrix Response: {"result":655733,"time":{"start":1772094512,"finish":1772094514.680756,"duration":2.680756092071533,"processing":2,"date_start":"2026-02-26T11:28:32+03:00","date_finish":"2026-02-26T11:28:34+03:00","operating_reset_at":1772095112,"operating":14.896914005279541}}
+Статус: Успешно (Lead ID: 655733)
+--------------------------------------------------
+
+Время: 26.02.2026 23:46:57
+Сервис: Flexbe
+From: Заявка из Flexbe → https://цфр-13.рф/debt/
+Клиент: Array
+(
+    [name] => Ева
+    [phone] => +7 (863) 2097659
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: event=lead&data%5Bid%5D=68308415&data%5Bnum%5D=266836&data%5Btime%5D=1772138781&data%5Bstatus%5D%5Bcode%5D=0&data%5Bstatus%5D%5Bname%5D=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F&data%5Bclient%5D%5Bname%5D=%D0%95%D0%B2%D0%B0&data%5Bclient%5D%5Bphone%5D=%2B7+%28863%29+2097659&data%5Bclient%5D%5Bemail%5D=&data%5Bnote%5D=&data%5Bform_name%5D=%D0%91%D0%A4%D0%9B%3A+%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F&data%5Bform_data%5D%5Bname%5D%5Bid%5D=name&data%5Bform_data%5D%5Bname%5D%5Bname%5D=Name&data%5Bform_data%5D%5Bname%5D%5Bvalue%5D=%D0%95%D0%B2%D0%B0&data%5Bform_data%5D%5Bname%5D%5Btype%5D=name&data%5Bform_data%5D%5Bname%5D%5Borig_name%5D=%D0%98%D0%BC%D1%8F&data%5Bform_data%5D%5Bphone%5D%5Bid%5D=phone&data%5Bform_data%5D%5Bphone%5D%5Bname%5D=Phone&data%5Bform_data%5D%5Bphone%5D%5Bvalue%5D=%2B7+%28863%29+2097659&data%5Bform_data%5D%5Bphone%5D%5Btype%5D=phone&data%5Bform_data%5D%5Bphone%5D%5Borig_name%5D=%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD&data%5Bform_data%5D%5Bfld_
+POST: Array
+(
+    [event] => lead
+    [data] => Array
+        (
+            [id] => 68308415
+            [num] => 266836
+            [time] => 1772138781
+            [status] => Array
+                (
+                    [code] => 0
+                    [name] => Новая
+                )
+
+            [client] => Array
+                (
+                    [name] => Ева
+                    [phone] => +7 (863) 2097659
+                    [email] => 
+                )
+
+            [note] => 
+            [form_name] => БФЛ: Консультация
+            [form_data] => Array
+                (
+                    [name] => Array
+                        (
+                            [id] => name
+                            [name] => Name
+                            [value] => Ева
+                            [type] => name
+                            [orig_name] => Имя
+                        )
+
+                    [phone] => Array
+                        (
+                            [id] => phone
+                            [name] => Phone
+                            [value] => +7 (863) 2097659
+                            [type] => phone
+                            [orig_name] => Телефон
+                        )
+
+                    [fld_2] => Array
+                        (
+                            [type] => radio
+                            [name] => Общая сумма ваших кредитов, займов и долгов?
+                            [value] => Больше 1 000 000 ₽
+                            [id] => fld_2
+                        )
+
+                    [fld_3] => Array
+                        (
+                            [type] => radio
+                            [name] => У вас есть имущество в собственности, которое нужно сохранить?
+                            [value] => Нет, имущества нет
+                            [id] => fld_3
+                        )
+
+                    [fld_4] => Array
+                        (
+                            [type] => radio
+                            [name] => У вас были просрочки выплат по кредитам и долгам?
+                            [value] => Нет, оплачиваю долги вовремя
+                            [id] => fld_4
+                        )
+
+                    [fld_5] => Array
+                        (
+                            [type] => radio
+                            [name] => Как вам удобнее узнать условия процедуры?
+                            [value] => На БЕСПЛАТНОЙ консультации юриста по телефону
+                            [id] => fld_5
+                        )
+
+                    [fld_6] => Array
+                        (
+                            [type] => checkbox
+                            [name] => Согласие с политикой конфиденциальности
+                            [value] => Я согласен(-на) с <a class="style-link" href="/terms" target="_blank">Политикой обработки персональных данных</a>
+                            [id] => fld_6
+                        )
+
+                )
+
+            [page] => Array
+                (
+                    [url] => https://цфр-13.рф/debt/
+                    [name] => Помощь для тех, кому не по силам оплачивать долги и кредиты
+                )
+
+            [utm] => Array
+                (
+                    [ip] => 176.97.131.73
+                    [ym_client_id] => 1772111427695997479
+                    [cookies] => Array
+                        (
+                            [_ym_uid] => 1772111427695997479
+                        )
+
+                )
+
+        )
+
+    [site] => Array
+        (
+            [id] => 562768
+            [sub_id] => 665310
+            [domain] => цфр-13.рф
+        )
+
+)
+
+Quiz/Комментарии: Array
+(
+    [0] => Array
+        (
+            [question] => Общая сумма ваших кредитов, займов и долгов?
+            [answer] => Больше 1 000 000 ₽
+        )
+
+    [1] => Array
+        (
+            [question] => У вас есть имущество в собственности, которое нужно сохранить?
+            [answer] => Нет, имущества нет
+        )
+
+    [2] => Array
+        (
+            [question] => У вас были просрочки выплат по кредитам и долгам?
+            [answer] => Нет, оплачиваю долги вовремя
+        )
+
+    [3] => Array
+        (
+            [question] => Как вам удобнее узнать условия процедуры?
+            [answer] => На БЕСПЛАТНОЙ консультации юриста по телефону
+        )
+
+    [4] => Array
+        (
+            [question] => Согласие с политикой конфиденциальности
+            [answer] => Я согласен(-на) с <a class="style-link" href="/terms" target="_blank">Политикой обработки персональных данных</a>
+        )
+
+)
+
+Собранные комментарии (для лога): 
+Ответы на вопросы:
+Общая сумма ваших кредитов, займов и долгов?: Больше 1 000 000 ₽
+У вас есть имущество в собственности, которое нужно сохранить?: Нет, имущества нет
+У вас были просрочки выплат по кредитам и долгам?: Нет, оплачиваю долги вовремя
+Как вам удобнее узнать условия процедуры?: На БЕСПЛАТНОЙ консультации юриста по телефону
+Согласие с политикой конфиденциальности: Я согласен(-на) с &lt;a class=&quot;style-link&quot; href=&quot;/terms&quot; target=&quot;_blank&quot;&gt;Политикой обработки персональных данных&lt;/a&gt;
+
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Ева
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +78632097659
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (863) 2097659
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 401
+    [COMMENTS] => <b>Ответы на вопросы:</b><br><b>Общая сумма ваших кредитов, займов и долгов?:</b> Больше 1 000 000 ₽<br><b>У вас есть имущество в собственности, которое нужно сохранить?:</b> Нет, имущества нет<br><b>У вас были просрочки выплат по кредитам и долгам?:</b> Нет, оплачиваю долги вовремя<br><b>Как вам удобнее узнать условия процедуры?:</b> На БЕСПЛАТНОЙ консультации юриста по телефону<br><b>Согласие с политикой конфиденциальности:</b> Я согласен(-на) с &lt;a class=&quot;style-link&quot; href=&quot;/terms&quot; target=&quot;_blank&quot;&gt;Политикой обработки персональных данных&lt;/a&gt;<br><br>
+)
+
+Bitrix Response: {"result":656291,"time":{"start":1772138817,"finish":1772138820.10861,"duration":3.108609914779663,"processing":2,"date_start":"2026-02-26T23:46:57+03:00","date_finish":"2026-02-26T23:47:00+03:00","operating_reset_at":1772139418,"operating":2.084890842437744}}
+Статус: Успешно (Lead ID: 656291)
+--------------------------------------------------
+

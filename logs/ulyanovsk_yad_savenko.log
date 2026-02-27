@@ -1,0 +1,1537 @@
+Время: 20.02.2026 13:58:10
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Гагик
+    [phone] => +79170118377
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0413\u0430\u0433\u0438\u043a","phone":"+79170118377","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Гагик
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79170118377
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79170118377
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":652925,"time":{"start":1771585090,"finish":1771585092.858926,"duration":2.8589260578155518,"processing":2,"date_start":"2026-02-20T13:58:10+03:00","date_finish":"2026-02-20T13:58:12+03:00","operating_reset_at":1771585690,"operating":4.790497064590454}}
+Статус: Успешно (Lead ID: 652925)
+--------------------------------------------------
+
+Время: 20.02.2026 14:01:59
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Гагик
+    [phone] => +79170118377
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0413\u0430\u0433\u0438\u043a","phone":"+79170118377","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Гагик
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79170118377
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79170118377
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":652929,"time":{"start":1771585319,"finish":1771585322.392626,"duration":3.3926260471343994,"processing":3,"date_start":"2026-02-20T14:01:59+03:00","date_finish":"2026-02-20T14:02:02+03:00","operating_reset_at":1771585919,"operating":7.398242950439453}}
+Статус: Успешно (Lead ID: 652929)
+--------------------------------------------------
+
+Время: 20.02.2026 14:09:01
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Елена
+    [phone] => +79626124371
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0415\u043b\u0435\u043d\u0430","phone":"+79626124371","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => Елена
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79626124371
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79626124371
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":652937,"time":{"start":1771585741,"finish":1771585744.14662,"duration":3.146620035171509,"processing":3,"date_start":"2026-02-20T14:09:01+03:00","date_finish":"2026-02-20T14:09:04+03:00","operating_reset_at":1771586341,"operating":13.63928484916687}}
+Статус: Успешно (Lead ID: 652937)
+--------------------------------------------------
+
+Время: 20.02.2026 17:55:35
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => ТАТЬЯНС
+    [phone] => +79080317985
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0422\u0410\u0422\u042c\u042f\u041d\u0421","phone":"+79080317985","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => ТАТЬЯНС
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79080317985
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79080317985
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653099,"time":{"start":1771599335,"finish":1771599338.02942,"duration":3.0294198989868164,"processing":3,"date_start":"2026-02-20T17:55:35+03:00","date_finish":"2026-02-20T17:55:38+03:00","operating_reset_at":1771599935,"operating":2.2421891689300537}}
+Статус: Успешно (Lead ID: 653099)
+--------------------------------------------------
+
+Время: 20.02.2026 17:56:46
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Елена
+    [phone] => +79025890200
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0415\u043b\u0435\u043d\u0430","phone":"+79025890200","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => Елена
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79025890200
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79025890200
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653101,"time":{"start":1771599406,"finish":1771599408.94523,"duration":2.945230007171631,"processing":2,"date_start":"2026-02-20T17:56:46+03:00","date_finish":"2026-02-20T17:56:48+03:00","operating_reset_at":1771600006,"operating":4.59973931312561}}
+Статус: Успешно (Lead ID: 653101)
+--------------------------------------------------
+
+Время: 21.02.2026 07:16:01
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Иван
+    [phone] => +79876353520
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0418\u0432\u0430\u043d","phone":"+79876353520","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => Иван
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79876353520
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79876353520
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653169,"time":{"start":1771647361,"finish":1771647363.881798,"duration":2.881798028945923,"processing":2,"date_start":"2026-02-21T07:16:01+03:00","date_finish":"2026-02-21T07:16:03+03:00","operating_reset_at":1771647961,"operating":2.2434029579162598}}
+Статус: Успешно (Lead ID: 653169)
+--------------------------------------------------
+
+Время: 21.02.2026 15:55:55
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Наиля
+    [phone] => +79272711864
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u041d\u0430\u0438\u043b\u044f","phone":"+79272711864","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => Наиля
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79272711864
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79272711864
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653361,"time":{"start":1771678555,"finish":1771678557.557253,"duration":2.557252883911133,"processing":2,"date_start":"2026-02-21T15:55:55+03:00","date_finish":"2026-02-21T15:55:57+03:00","operating_reset_at":1771679155,"operating":2.1082119941711426}}
+Статус: Успешно (Lead ID: 653361)
+--------------------------------------------------
+
+Время: 21.02.2026 16:08:57
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Сергей
+    [phone] => +79603712731
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0421\u0435\u0440\u0433\u0435\u0439","phone":"+79603712731","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131096"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131096
+    [NAME] => Сергей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79603712731
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79603712731
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653367,"time":{"start":1771679337,"finish":1771679339.561469,"duration":2.561469078063965,"processing":2,"date_start":"2026-02-21T16:08:57+03:00","date_finish":"2026-02-21T16:08:59+03:00","operating_reset_at":1771679937,"operating":2.1896259784698486}}
+Статус: Успешно (Lead ID: 653367)
+--------------------------------------------------
+
+Время: 21.02.2026 16:52:52
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Тархова Елена Викторовна
+    [phone] => +79022147890
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0422\u0430\u0440\u0445\u043e\u0432\u0430 \u0415\u043b\u0435\u043d\u0430 \u0412\u0438\u043a\u0442\u043e\u0440\u043e\u0432\u043d\u0430","phone":"+79022147890","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Тархова Елена Викторовна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79022147890
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79022147890
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653381,"time":{"start":1771681972,"finish":1771681974.86379,"duration":2.8637900352478027,"processing":2,"date_start":"2026-02-21T16:52:52+03:00","date_finish":"2026-02-21T16:52:54+03:00","operating_reset_at":1771682572,"operating":10.214059114456177}}
+Статус: Успешно (Lead ID: 653381)
+--------------------------------------------------
+
+Время: 21.02.2026 17:58:22
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Эмир
+    [phone] => +79278101612
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u042d\u043c\u0438\u0440","phone":"+79278101612","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Эмир
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79278101612
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79278101612
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653387,"time":{"start":1771685902,"finish":1771685904.4572,"duration":2.457200050354004,"processing":2,"date_start":"2026-02-21T17:58:22+03:00","date_finish":"2026-02-21T17:58:24+03:00","operating_reset_at":1771686502,"operating":2.100921869277954}}
+Статус: Успешно (Lead ID: 653387)
+--------------------------------------------------
+
+Время: 22.02.2026 16:56:24
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Наталья
+    [phone] => +79876870963
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u041d\u0430\u0442\u0430\u043b\u044c\u044f","phone":"+79876870963","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131094"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131094
+    [NAME] => Наталья
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79876870963
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79876870963
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653599,"time":{"start":1771768584,"finish":1771768586.247059,"duration":2.2470591068267822,"processing":2,"date_start":"2026-02-22T16:56:24+03:00","date_finish":"2026-02-22T16:56:26+03:00","operating_reset_at":1771769184,"operating":2.125818967819214}}
+Статус: Успешно (Lead ID: 653599)
+--------------------------------------------------
+
+Время: 22.02.2026 17:04:02
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Павел
+    [phone] => +79004530050
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u041f\u0430\u0432\u0435\u043b","phone":"+79004530050","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131095"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131095
+    [NAME] => Павел
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79004530050
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79004530050
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653601,"time":{"start":1771769042,"finish":1771769044.59719,"duration":2.5971899032592773,"processing":2,"date_start":"2026-02-22T17:04:02+03:00","date_finish":"2026-02-22T17:04:04+03:00","operating_reset_at":1771769642,"operating":4.18681788444519}}
+Статус: Успешно (Lead ID: 653601)
+--------------------------------------------------
+
+Время: 23.02.2026 17:56:17
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Рустем
+    [phone] => +79023571286
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0420\u0443\u0441\u0442\u0435\u043c","phone":"+79023571286","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Рустем
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79023571286
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79023571286
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653811,"time":{"start":1771858577,"finish":1771858579.806413,"duration":2.806412935256958,"processing":2,"date_start":"2026-02-23T17:56:17+03:00","date_finish":"2026-02-23T17:56:19+03:00","operating_reset_at":1771859177,"operating":9.310617923736572}}
+Статус: Успешно (Lead ID: 653811)
+--------------------------------------------------
+
+Время: 23.02.2026 18:38:39
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Наиль
+    [phone] => +79041801193
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u041d\u0430\u0438\u043b\u044c","phone":"+79041801193","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131096"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131096
+    [NAME] => Наиль
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79041801193
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79041801193
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653821,"time":{"start":1771861119,"finish":1771861121.557829,"duration":2.557828903198242,"processing":2,"date_start":"2026-02-23T18:38:39+03:00","date_finish":"2026-02-23T18:38:41+03:00","operating_reset_at":1771861719,"operating":2.114380121231079}}
+Статус: Успешно (Lead ID: 653821)
+--------------------------------------------------
+
+Время: 23.02.2026 18:41:49
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Никишин Сергей Валентинович
+    [phone] => +79278048057
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u041d\u0438\u043a\u0438\u0448\u0438\u043d \u0421\u0435\u0440\u0433\u0435\u0439 \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d\u043e\u0432\u0438\u0447","phone":"+79278048057","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Никишин Сергей Валентинович
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79278048057
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79278048057
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653823,"time":{"start":1771861309,"finish":1771861311.677301,"duration":2.6773009300231934,"processing":2,"date_start":"2026-02-23T18:41:49+03:00","date_finish":"2026-02-23T18:41:51+03:00","operating_reset_at":1771861909,"operating":4.196242094039917}}
+Статус: Успешно (Lead ID: 653823)
+--------------------------------------------------
+
+Время: 24.02.2026 08:37:10
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => АНДРЕЙ
+    [phone] => +79603751854
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0410\u041d\u0414\u0420\u0415\u0419","phone":"+79603751854","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => АНДРЕЙ
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79603751854
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79603751854
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653891,"time":{"start":1771911430,"finish":1771911433.113418,"duration":3.1134181022644043,"processing":3,"date_start":"2026-02-24T08:37:10+03:00","date_finish":"2026-02-24T08:37:13+03:00","operating_reset_at":1771912030,"operating":2.478752851486206}}
+Статус: Успешно (Lead ID: 653891)
+--------------------------------------------------
+
+Время: 24.02.2026 10:21:30
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Сергей
+    [phone] => +79020095342
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0421\u0435\u0440\u0433\u0435\u0439","phone":"+79020095342","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => Сергей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79020095342
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79020095342
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653991,"time":{"start":1771917690,"finish":1771917693.222715,"duration":3.222714900970459,"processing":3,"date_start":"2026-02-24T10:21:30+03:00","date_finish":"2026-02-24T10:21:33+03:00","operating_reset_at":1771918290,"operating":13.926892042160034}}
+Статус: Успешно (Lead ID: 653991)
+--------------------------------------------------
+
+Время: 24.02.2026 10:22:21
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Сергей
+    [phone] => +79020095343
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0421\u0435\u0440\u0433\u0435\u0439","phone":"+79020095343","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => Сергей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79020095343
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79020095343
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":653995,"time":{"start":1771917741,"finish":1771917744.164332,"duration":3.1643319129943848,"processing":3,"date_start":"2026-02-24T10:22:21+03:00","date_finish":"2026-02-24T10:22:24+03:00","operating_reset_at":1771918341,"operating":18.699546337127686}}
+Статус: Успешно (Lead ID: 653995)
+--------------------------------------------------
+
+Время: 25.02.2026 08:12:47
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Сергей
+    [phone] => +79378886034
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0421\u0435\u0440\u0433\u0435\u0439","phone":"+79378886034","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Сергей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79378886034
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79378886034
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":654709,"time":{"start":1771996367,"finish":1771996370.317537,"duration":3.3175370693206787,"processing":3,"date_start":"2026-02-25T08:12:47+03:00","date_finish":"2026-02-25T08:12:50+03:00","operating_reset_at":1771996967,"operating":2.498006820678711}}
+Статус: Успешно (Lead ID: 654709)
+--------------------------------------------------
+
+Время: 25.02.2026 10:07:33
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Елизавета
+    [phone] => +79093594648
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0415\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u0430","phone":"+79093594648","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131096"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131096
+    [NAME] => Елизавета
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79093594648
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79093594648
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":654801,"time":{"start":1772003253,"finish":1772003256.144241,"duration":3.1442410945892334,"processing":3,"date_start":"2026-02-25T10:07:33+03:00","date_finish":"2026-02-25T10:07:36+03:00","operating_reset_at":1772003853,"operating":2.8318722248077393}}
+Статус: Успешно (Lead ID: 654801)
+--------------------------------------------------
+
+Время: 25.02.2026 13:10:49
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Александр
+    [phone] => +79603784684
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440","phone":"+79603784684","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Александр
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79603784684
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79603784684
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655009,"time":{"start":1772014249,"finish":1772014252.410667,"duration":3.4106669425964355,"processing":3,"date_start":"2026-02-25T13:10:49+03:00","date_finish":"2026-02-25T13:10:52+03:00","operating_reset_at":1772014849,"operating":9.964558839797974}}
+Статус: Успешно (Lead ID: 655009)
+--------------------------------------------------
+
+Время: 25.02.2026 16:46:02
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Игорь
+    [phone] => +79961546996
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0418\u0433\u043e\u0440\u044c","phone":"+79961546996","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Игорь
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79961546996
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79961546996
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655297,"time":{"start":1772027162,"finish":1772027165.239104,"duration":3.2391040325164795,"processing":3,"date_start":"2026-02-25T16:46:02+03:00","date_finish":"2026-02-25T16:46:05+03:00","operating_reset_at":1772027762,"operating":15.269345998764038}}
+Статус: Успешно (Lead ID: 655297)
+--------------------------------------------------
+
+Время: 25.02.2026 19:01:58
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Юрий
+    [phone] => +79020053919
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u042e\u0440\u0438\u0439","phone":"+79020053919","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131095"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131095
+    [NAME] => Юрий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79020053919
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79020053919
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655449,"time":{"start":1772035318,"finish":1772035320.520359,"duration":2.5203590393066406,"processing":2,"date_start":"2026-02-25T19:01:58+03:00","date_finish":"2026-02-25T19:02:00+03:00","operating_reset_at":1772035918,"operating":8.502353191375732}}
+Статус: Успешно (Lead ID: 655449)
+--------------------------------------------------
+
+Время: 26.02.2026 07:08:06
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Ольга
+    [phone] => +79956468122
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u041e\u043b\u044c\u0433\u0430","phone":"+79956468122","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Ольга
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79956468122
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79956468122
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655541,"time":{"start":1772078886,"finish":1772078889.098117,"duration":3.0981171131134033,"processing":3,"date_start":"2026-02-26T07:08:06+03:00","date_finish":"2026-02-26T07:08:09+03:00","operating_reset_at":1772079486,"operating":2.2832868099212646}}
+Статус: Успешно (Lead ID: 655541)
+--------------------------------------------------
+
+Время: 26.02.2026 11:21:31
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Олег Юрьевич
+    [phone] => +79061423464
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u041e\u043b\u0435\u0433 \u042e\u0440\u044c\u0435\u0432\u0438\u0447","phone":"+79061423464","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131093"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131093
+    [NAME] => Олег Юрьевич
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79061423464
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79061423464
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655727,"time":{"start":1772094091,"finish":1772094094.376214,"duration":3.376214027404785,"processing":3,"date_start":"2026-02-26T11:21:31+03:00","date_finish":"2026-02-26T11:21:34+03:00","operating_reset_at":1772094691,"operating":14.946388721466064}}
+Статус: Успешно (Lead ID: 655727)
+--------------------------------------------------
+
+Время: 26.02.2026 11:39:45
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Алексей
+    [phone] => +79021267709
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0410\u043b\u0435\u043a\u0441\u0435\u0439","phone":"+79021267709","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => Алексей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79021267709
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79021267709
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655755,"time":{"start":1772095186,"finish":1772095188.577636,"duration":2.5776360034942627,"processing":2,"date_start":"2026-02-26T11:39:46+03:00","date_finish":"2026-02-26T11:39:48+03:00","operating_reset_at":1772095786,"operating":14.597043991088867}}
+Статус: Успешно (Lead ID: 655755)
+--------------------------------------------------
+
+Время: 26.02.2026 15:18:48
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Рамзия
+    [phone] => +79626313183
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0420\u0430\u043c\u0437\u0438\u044f","phone":"+79626313183","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131092"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131092
+    [NAME] => Рамзия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79626313183
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79626313183
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":656049,"time":{"start":1772108328,"finish":1772108331.174935,"duration":3.1749351024627686,"processing":3,"date_start":"2026-02-26T15:18:48+03:00","date_finish":"2026-02-26T15:18:51+03:00","operating_reset_at":1772108928,"operating":27.185505390167236}}
+Статус: Успешно (Lead ID: 656049)
+--------------------------------------------------
+
+Время: 27.02.2026 07:11:14
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Наталья
+    [phone] => +79370311013
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u041d\u0430\u0442\u0430\u043b\u044c\u044f","phone":"+79370311013","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131095"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131095
+    [NAME] => Наталья
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79370311013
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79370311013
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":656321,"time":{"start":1772165474,"finish":1772165476.583801,"duration":2.583801031112671,"processing":2,"date_start":"2026-02-27T07:11:14+03:00","date_finish":"2026-02-27T07:11:16+03:00","operating_reset_at":1772166074,"operating":2.3398280143737793}}
+Статус: Успешно (Lead ID: 656321)
+--------------------------------------------------
+
+Время: 27.02.2026 09:11:59
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => Ирина
+    [phone] => +79278045987
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: {"name":"\u0418\u0440\u0438\u043d\u0430","phone":"+79278045987","Gorod":"\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a","utm_source":"yandex","utm_medium":"cpc","utm_campaign":"706515895","utm_content":"17552131095"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 706515895
+    [UTM_CONTENT] => 17552131095
+    [NAME] => Ирина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79278045987
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79278045987
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1028
+    [COMMENTS] => <b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":656359,"time":{"start":1772172719,"finish":1772172721.736612,"duration":2.73661208152771,"processing":2,"date_start":"2026-02-27T09:11:59+03:00","date_finish":"2026-02-27T09:12:01+03:00","operating_reset_at":1772173319,"operating":15.125995874404907}}
+Статус: Успешно (Lead ID: 656359)
+--------------------------------------------------
+

@@ -1,0 +1,24 @@
+{
+    "title": "Брянск. База. Робот. Сафонов",
+    "service": "Zvonok.com",
+    "source_id": "1088",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "source_by_region_enabled": false,
+    "source_by_region": [],
+    "routes": [
+        {
+            "field": "name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        }
+    ]
+}

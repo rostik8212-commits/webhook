@@ -1,0 +1,702 @@
+Время: 20.02.2026 11:12:31
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Дмитрий
+    [phone] => 79084763686
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2F8Rw3q0P6EBd7srFrLc0t.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5++%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-20+11%3A12%3A10%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+260000+%D1%80%D1%83%D0%B1&name=%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9&phone=79084763686
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/8Rw3q0P6EBd7srFrLc0t.mp3 Когда перезвонить: ближайшее  время, Дата звонка: 2026-02-20 11:12:10, Гео: Ульяновская обл., Сумма долга: 260000 руб
+    [name] => Дмитрий
+    [phone] => 79084763686
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/8Rw3q0P6EBd7srFrLc0t.mp3 Когда перезвонить: ближайшее  время, Дата звонка: 2026-02-20 11:12:10, Гео: Ульяновская обл., Сумма долга: 260000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Дмитрий
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79084763686
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79084763686
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/8Rw3q0P6EBd7srFrLc0t.mp3 Когда перезвонить: ближайшее  время, Дата звонка: 2026-02-20 11:12:10, Гео: Ульяновская обл., Сумма долга: 260000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":652663,"time":{"start":1771575153,"finish":1771575155.568957,"duration":2.5689570903778076,"processing":2,"date_start":"2026-02-20T11:12:33+03:00","date_finish":"2026-02-20T11:12:35+03:00","operating_reset_at":1771575753,"operating":4.41106390953064}}
+Статус: Успешно (Lead ID: 652663)
+--------------------------------------------------
+
+Время: 20.02.2026 11:37:18
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Максим
+    [phone] => 79176320700
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FjLgQjbaxEq1TuCrejr4B.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-20+11%3A32%3A18%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+400000+%D1%80%D1%83%D0%B1&name=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC&phone=79176320700
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/jLgQjbaxEq1TuCrejr4B.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-20 11:32:18, Гео: Ульяновская обл., Сумма долга: 400000 руб
+    [name] => Максим
+    [phone] => 79176320700
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/jLgQjbaxEq1TuCrejr4B.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-20 11:32:18, Гео: Ульяновская обл., Сумма долга: 400000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Максим
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79176320700
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79176320700
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/jLgQjbaxEq1TuCrejr4B.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-20 11:32:18, Гео: Ульяновская обл., Сумма долга: 400000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":652693,"time":{"start":1771576638,"finish":1771576641.365212,"duration":3.3652119636535645,"processing":3,"date_start":"2026-02-20T11:37:18+03:00","date_finish":"2026-02-20T11:37:21+03:00","operating_reset_at":1771577238,"operating":2.546721935272217}}
+Статус: Успешно (Lead ID: 652693)
+--------------------------------------------------
+
+Время: 20.02.2026 11:37:28
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Ангелина
+    [phone] => 79041813136
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2F569selzK9qixx8YzPjI9.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-20+11%3A24%3A28%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+600000+%D1%80%D1%83%D0%B1&name=%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%BD%D0%B0&phone=79041813136
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/569selzK9qixx8YzPjI9.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-20 11:24:28, Гео: Ульяновская обл., Сумма долга: 600000 руб
+    [name] => Ангелина
+    [phone] => 79041813136
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/569selzK9qixx8YzPjI9.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-20 11:24:28, Гео: Ульяновская обл., Сумма долга: 600000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Ангелина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79041813136
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79041813136
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/569selzK9qixx8YzPjI9.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-20 11:24:28, Гео: Ульяновская обл., Сумма долга: 600000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":652695,"time":{"start":1771576648,"finish":1771576650.738017,"duration":2.7380170822143555,"processing":2,"date_start":"2026-02-20T11:37:28+03:00","date_finish":"2026-02-20T11:37:30+03:00","operating_reset_at":1771577248,"operating":5.1182239055633545}}
+Статус: Успешно (Lead ID: 652695)
+--------------------------------------------------
+
+Время: 20.02.2026 11:37:40
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Лиля
+    [phone] => 79021266424
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FD5asmDUc2DWLuwgV3uNC.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-20+11%3A28%3A39%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+360000+%D1%80%D1%83%D0%B1&name=%D0%9B%D0%B8%D0%BB%D1%8F&phone=79021266424
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/D5asmDUc2DWLuwgV3uNC.mp3 Когда перезвонить: сегодня, Дата звонка: 2026-02-20 11:28:39, Гео: Ульяновская обл., Сумма долга: 360000 руб
+    [name] => Лиля
+    [phone] => 79021266424
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/D5asmDUc2DWLuwgV3uNC.mp3 Когда перезвонить: сегодня, Дата звонка: 2026-02-20 11:28:39, Гео: Ульяновская обл., Сумма долга: 360000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Лиля
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79021266424
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79021266424
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/D5asmDUc2DWLuwgV3uNC.mp3 Когда перезвонить: сегодня, Дата звонка: 2026-02-20 11:28:39, Гео: Ульяновская обл., Сумма долга: 360000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":652699,"time":{"start":1771576660,"finish":1771576663.171958,"duration":3.1719579696655273,"processing":3,"date_start":"2026-02-20T11:37:40+03:00","date_finish":"2026-02-20T11:37:43+03:00","operating_reset_at":1771577260,"operating":10.246587991714478}}
+Статус: Успешно (Lead ID: 652699)
+--------------------------------------------------
+
+Время: 20.02.2026 11:39:44
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Юлия
+    [phone] => 79021202262
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FHRwxUrVeuv0YjL0nwDZE.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B1%D0%BB+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-20+11%3A33%3A44%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+1000000+%D1%80%D1%83%D0%B1&name=%D0%AE%D0%BB%D0%B8%D1%8F+&phone=79021202262
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/HRwxUrVeuv0YjL0nwDZE.mp3 Когда перезвонить: бл время, Дата звонка: 2026-02-20 11:33:44, Гео: Ульяновская обл., Сумма долга: 1000000 руб
+    [name] => Юлия 
+    [phone] => 79021202262
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/HRwxUrVeuv0YjL0nwDZE.mp3 Когда перезвонить: бл время, Дата звонка: 2026-02-20 11:33:44, Гео: Ульяновская обл., Сумма долга: 1000000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Юлия
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79021202262
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79021202262
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/HRwxUrVeuv0YjL0nwDZE.mp3 Когда перезвонить: бл время, Дата звонка: 2026-02-20 11:33:44, Гео: Ульяновская обл., Сумма долга: 1000000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":652709,"time":{"start":1771576784,"finish":1771576786.776185,"duration":2.7761850357055664,"processing":2,"date_start":"2026-02-20T11:39:44+03:00","date_finish":"2026-02-20T11:39:46+03:00","operating_reset_at":1771577384,"operating":14.936217069625854}}
+Статус: Успешно (Lead ID: 652709)
+--------------------------------------------------
+
+Время: 24.02.2026 11:16:45
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Аня
+    [phone] => 79170544832
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2Fcj1INOUJIJfoXYJ1WAwK.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B2+%D0%B1%D0%BB%D0%B8%D0%B6+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-24+11%3A16%3A06%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+700000+%D1%80%D1%83%D0%B1&name=%D0%90%D0%BD%D1%8F&phone=79170544832
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/cj1INOUJIJfoXYJ1WAwK.mp3 Когда перезвонить: в ближ время, Дата звонка: 2026-02-24 11:16:06, Гео: Ульяновская обл., Сумма долга: 700000 руб
+    [name] => Аня
+    [phone] => 79170544832
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/cj1INOUJIJfoXYJ1WAwK.mp3 Когда перезвонить: в ближ время, Дата звонка: 2026-02-24 11:16:06, Гео: Ульяновская обл., Сумма долга: 700000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Аня
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79170544832
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79170544832
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/cj1INOUJIJfoXYJ1WAwK.mp3 Когда перезвонить: в ближ время, Дата звонка: 2026-02-24 11:16:06, Гео: Ульяновская обл., Сумма долга: 700000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":654039,"time":{"start":1771921005,"finish":1771921008.440279,"duration":3.440279006958008,"processing":3,"date_start":"2026-02-24T11:16:45+03:00","date_finish":"2026-02-24T11:16:48+03:00","operating_reset_at":1771921605,"operating":2.4808189868927}}
+Статус: Успешно (Lead ID: 654039)
+--------------------------------------------------
+
+Время: 24.02.2026 11:17:28
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Равиля
+    [phone] => 79022194365
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2F59eGob2e9L6RfFvqkNQg.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B2+%D0%B1%D0%BB%D0%B8%D0%B6.%D0%B2%D1%80%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-24+11%3A17%3A18%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+250000+%D1%80%D1%83%D0%B1&name=%D0%A0%D0%B0%D0%B2%D0%B8%D0%BB%D1%8F&phone=79022194365
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/59eGob2e9L6RfFvqkNQg.mp3 Когда перезвонить: в ближ.вр, Дата звонка: 2026-02-24 11:17:18, Гео: Ульяновская обл., Сумма долга: 250000 руб
+    [name] => Равиля
+    [phone] => 79022194365
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/59eGob2e9L6RfFvqkNQg.mp3 Когда перезвонить: в ближ.вр, Дата звонка: 2026-02-24 11:17:18, Гео: Ульяновская обл., Сумма долга: 250000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Равиля
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79022194365
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79022194365
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/59eGob2e9L6RfFvqkNQg.mp3 Когда перезвонить: в ближ.вр, Дата звонка: 2026-02-24 11:17:18, Гео: Ульяновская обл., Сумма долга: 250000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":654041,"time":{"start":1771921048,"finish":1771921051.213556,"duration":3.2135560512542725,"processing":3,"date_start":"2026-02-24T11:17:28+03:00","date_finish":"2026-02-24T11:17:31+03:00","operating_reset_at":1771921648,"operating":4.987475872039795}}
+Статус: Успешно (Lead ID: 654041)
+--------------------------------------------------
+
+Время: 24.02.2026 11:19:53
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Роман
+    [phone] => 79084799034
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FzpJ1Jbxi5l8hpD5uM4wn.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-24+11%3A19%3A45%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+1000000+%D1%80%D1%83%D0%B1&name=%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD&phone=79084799034
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/zpJ1Jbxi5l8hpD5uM4wn.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-24 11:19:45, Гео: Ульяновская обл., Сумма долга: 1000000 руб
+    [name] => Роман
+    [phone] => 79084799034
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/zpJ1Jbxi5l8hpD5uM4wn.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-24 11:19:45, Гео: Ульяновская обл., Сумма долга: 1000000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Роман
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79084799034
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79084799034
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/zpJ1Jbxi5l8hpD5uM4wn.mp3 Когда перезвонить: ближайшее время, Дата звонка: 2026-02-24 11:19:45, Гео: Ульяновская обл., Сумма долга: 1000000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":654043,"time":{"start":1771921193,"finish":1771921196.660842,"duration":3.660841941833496,"processing":2,"date_start":"2026-02-24T11:19:53+03:00","date_finish":"2026-02-24T11:19:56+03:00","operating_reset_at":1771921794,"operating":7.623467683792114}}
+Статус: Успешно (Lead ID: 654043)
+--------------------------------------------------
+
+Время: 24.02.2026 17:08:32
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Евгения
+    [phone] => 79041942135
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FasZWOhGXC6TX4ALUgwPD.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B2+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-24+17%3A07%3A06%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+400000+%D1%80%D1%83%D0%B1&name=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F&phone=79041942135
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/asZWOhGXC6TX4ALUgwPD.mp3 Когда перезвонить: в ближайшее время, Дата звонка: 2026-02-24 17:07:06, Гео: Ульяновская обл., Сумма долга: 400000 руб
+    [name] => Евгения
+    [phone] => 79041942135
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/asZWOhGXC6TX4ALUgwPD.mp3 Когда перезвонить: в ближайшее время, Дата звонка: 2026-02-24 17:07:06, Гео: Ульяновская обл., Сумма долга: 400000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Евгения
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79041942135
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79041942135
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/asZWOhGXC6TX4ALUgwPD.mp3 Когда перезвонить: в ближайшее время, Дата звонка: 2026-02-24 17:07:06, Гео: Ульяновская обл., Сумма долга: 400000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":654465,"time":{"start":1771942112,"finish":1771942114.765908,"duration":2.7659080028533936,"processing":2,"date_start":"2026-02-24T17:08:32+03:00","date_finish":"2026-02-24T17:08:34+03:00","operating_reset_at":1771942712,"operating":6.944620370864868}}
+Статус: Успешно (Lead ID: 654465)
+--------------------------------------------------
+
+Время: 25.02.2026 11:17:42
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Клиент
+    [phone] => 79510906725
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FVHIpR4MeOghGLOUDRM7R.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%92+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-25+11%3A17%3A23%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+500000+%D1%80%D1%83%D0%B1&name=%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82&phone=79510906725
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/VHIpR4MeOghGLOUDRM7R.mp3 Когда перезвонить: В ближайшее время, Дата звонка: 2026-02-25 11:17:23, Гео: Ульяновская обл., Сумма долга: 500000 руб
+    [name] => Клиент
+    [phone] => 79510906725
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/VHIpR4MeOghGLOUDRM7R.mp3 Когда перезвонить: В ближайшее время, Дата звонка: 2026-02-25 11:17:23, Гео: Ульяновская обл., Сумма долга: 500000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Клиент
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79510906725
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79510906725
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/VHIpR4MeOghGLOUDRM7R.mp3 Когда перезвонить: В ближайшее время, Дата звонка: 2026-02-25 11:17:23, Гео: Ульяновская обл., Сумма долга: 500000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":654857,"time":{"start":1772007462,"finish":1772007465.171908,"duration":3.171907901763916,"processing":3,"date_start":"2026-02-25T11:17:42+03:00","date_finish":"2026-02-25T11:17:45+03:00","operating_reset_at":1772008062,"operating":9.198087453842163}}
+Статус: Успешно (Lead ID: 654857)
+--------------------------------------------------
+
+Время: 26.02.2026 11:21:28
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Андрей
+    [phone] => 79084877710
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FX7BDGsHs7hA30wLOTS6g.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B2+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-26+11%3A20%3A31%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+300000+%D1%80%D1%83%D0%B1&name=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9&phone=79084877710
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/X7BDGsHs7hA30wLOTS6g.mp3 Когда перезвонить: в ближайшее время , Дата звонка: 2026-02-26 11:20:31, Гео: Ульяновская обл., Сумма долга: 300000 руб
+    [name] => Андрей
+    [phone] => 79084877710
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/X7BDGsHs7hA30wLOTS6g.mp3 Когда перезвонить: в ближайшее время , Дата звонка: 2026-02-26 11:20:31, Гео: Ульяновская обл., Сумма долга: 300000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Андрей
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79084877710
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79084877710
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/X7BDGsHs7hA30wLOTS6g.mp3 Когда перезвонить: в ближайшее время , Дата звонка: 2026-02-26 11:20:31, Гео: Ульяновская обл., Сумма долга: 300000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655725,"time":{"start":1772094088,"finish":1772094090.923398,"duration":2.923398017883301,"processing":2,"date_start":"2026-02-26T11:21:28+03:00","date_finish":"2026-02-26T11:21:30+03:00","operating_reset_at":1772094688,"operating":12.250852823257446}}
+Статус: Успешно (Lead ID: 655725)
+--------------------------------------------------
+
+Время: 26.02.2026 11:26:00
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Николай
+    [phone] => 79539842281
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FvNIpcz1d8IIRKhfjTGrD.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B2+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-26+11%3A21%3A11%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+400000+%D1%80%D1%83%D0%B1&name=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9&phone=79539842281
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/vNIpcz1d8IIRKhfjTGrD.mp3 Когда перезвонить: в ближайшее время, Дата звонка: 2026-02-26 11:21:11, Гео: Ульяновская обл., Сумма долга: 400000 руб
+    [name] => Николай
+    [phone] => 79539842281
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/vNIpcz1d8IIRKhfjTGrD.mp3 Когда перезвонить: в ближайшее время, Дата звонка: 2026-02-26 11:21:11, Гео: Ульяновская обл., Сумма долга: 400000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Николай
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79539842281
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79539842281
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/vNIpcz1d8IIRKhfjTGrD.mp3 Когда перезвонить: в ближайшее время, Дата звонка: 2026-02-26 11:21:11, Гео: Ульяновская обл., Сумма долга: 400000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655731,"time":{"start":1772094360,"finish":1772094363.379739,"duration":3.3797390460968018,"processing":3,"date_start":"2026-02-26T11:26:00+03:00","date_finish":"2026-02-26T11:26:03+03:00","operating_reset_at":1772094960,"operating":12.273123025894165}}
+Статус: Успешно (Lead ID: 655731)
+--------------------------------------------------
+
+Время: 26.02.2026 13:44:49
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Александр
+    [phone] => 79603718658
+    [email] => 
+)
+
+Город: Ульяновск (ID: не найден)
+RAW Input: Gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA&Comments=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B0%3A+https%3A%2F%2F786231.selcdn.ru%2Fleads-m-records%2Frecords%2FruuBIh6ZJG6JmEoN2B7m.mp3+%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C%3A+%D0%B2+%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%2C+%D0%94%D0%B0%D1%82%D0%B0+%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B0%3A+2026-02-26+13%3A30%3A49%2C+%D0%93%D0%B5%D0%BE%3A+%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.%2C+%D0%A1%D1%83%D0%BC%D0%BC%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0%3A+250000+%D1%80%D1%83%D0%B1&name=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80&phone=79603718658
+POST: Array
+(
+    [Gorod] => Ульяновск
+    [Comments] => Запись разговора: https://786231.selcdn.ru/leads-m-records/records/ruuBIh6ZJG6JmEoN2B7m.mp3 Когда перезвонить: в ближайшее время , Дата звонка: 2026-02-26 13:30:49, Гео: Ульяновская обл., Сумма долга: 250000 руб
+    [name] => Александр
+    [phone] => 79603718658
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Comments: Запись разговора: https://786231.selcdn.ru/leads-m-records/records/ruuBIh6ZJG6JmEoN2B7m.mp3 Когда перезвонить: в ближайшее время , Дата звонка: 2026-02-26 13:30:49, Гео: Ульяновская обл., Сумма долга: 250000 руб
+Город: Ульяновск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Александр
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79603718658
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79603718658
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1086
+    [COMMENTS] => <b>Comments:</b> Запись разговора: https://786231.selcdn.ru/leads-m-records/records/ruuBIh6ZJG6JmEoN2B7m.mp3 Когда перезвонить: в ближайшее время , Дата звонка: 2026-02-26 13:30:49, Гео: Ульяновская обл., Сумма долга: 250000 руб<br><b>Город:</b> Ульяновск<br>
+)
+
+Bitrix Response: {"result":655901,"time":{"start":1772102689,"finish":1772102691.817431,"duration":2.8174309730529785,"processing":2,"date_start":"2026-02-26T13:44:49+03:00","date_finish":"2026-02-26T13:44:51+03:00","operating_reset_at":1772103289,"operating":4.352073907852173}}
+Статус: Успешно (Lead ID: 655901)
+--------------------------------------------------
+

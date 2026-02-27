@@ -1,0 +1,60 @@
+26.02.2026 14:33:57
+Интеграция: Тула.ЯД.TRAFFIX
+Hook: tula_yad_traffix
+Обнаружен метод: crm.status.list
+HTTP метод: POST
+IP: 217.18.61.95
+User-Agent: unknown
+Request URI: /webhook/srt/tula_yad_traffix.php/crm.status.list
+Query String: 
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+RAW: {"filter":{"ENTITY_ID":"SOURCE"},"order":null}
+==================================================
+
+26.02.2026 14:35:31
+Интеграция: Тула.ЯД.TRAFFIX
+Hook: tula_yad_traffix
+Обнаружен метод: crm.status.list
+HTTP метод: POST
+IP: 217.18.61.95
+User-Agent: unknown
+Request URI: /webhook/srt/tula_yad_traffix.php/crm.status.list
+Query String: 
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+RAW: {"filter":{"ENTITY_ID":"SOURCE"},"order":null}
+==================================================
+
+26.02.2026 14:44:45
+Интеграция: Тула.ЯД.TRAFFIX
+Hook: tula_yad_traffix
+Обнаружен метод: crm.status.list
+HTTP метод: POST
+IP: 217.18.61.95
+User-Agent: unknown
+Request URI: /webhook/srt/tula_yad_traffix.php/crm.status.list
+Query String: 
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+RAW: {"filter":{"ENTITY_ID":"SOURCE"},"order":null}
+==================================================
+

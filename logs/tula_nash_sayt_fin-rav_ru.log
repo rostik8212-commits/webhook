@@ -1,0 +1,52 @@
+Время: 26.02.2026 19:36:27
+Сервис: Wordpress
+From: Заявка из Wordpress
+Клиент: Array
+(
+    [name] => тест
+    [phone] => +79155551122
+    [email] => 
+    [birthdate] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"fields":{"TITLE":"Lead \"\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u044f\"","NAME":"\u0442\u0435\u0441\u0442","SOURCE_ID":"596","STATUS_ID":"NEW","PHONE":[{"VALUE":"+79155551122","VALUE_TYPE":"WORK"}]},"emulator_id":90472,"original_method":"crm.lead.add"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Fields: Lead &quot;Бесплатная консультация&quot;
+Emulator_id: 90472
+Original_method: crm.lead.add
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [TITLE] => Новая заявка - +79155551122
+    [NAME] => тест
+    [SOURCE_ID] => 1123
+    [STATUS_ID] => NEW
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79155551122
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [OPENED] => Y
+    [COMMENTS] => <b>Fields:</b> Lead &quot;Бесплатная консультация&quot;<br><b>Emulator_id:</b> 90472<br><b>Original_method:</b> crm.lead.add<br>
+)
+
+Bitrix Response: {"result":656263,"time":{"start":1772123787,"finish":1772123789.391514,"duration":2.3915140628814697,"processing":2,"date_start":"2026-02-26T19:36:27+03:00","date_finish":"2026-02-26T19:36:29+03:00","operating_reset_at":1772124387,"operating":1.9194309711456299}}
+Статус: Успешно (Lead ID: 656263)
+--------------------------------------------------
+

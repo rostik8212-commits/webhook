@@ -1,0 +1,56 @@
+{
+    "title": "Яндекс Бизнес. Михайлов",
+    "service": "Tilda",
+    "source_id": "701",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": {
+        "summa": "сумма долга",
+        "gorod": "Город"
+    },
+    "source_by_region_enabled": true,
+    "source_by_region": {
+        "Саранская область": "700",
+        "Пензенская область": "701",
+        "Ростовская область": "702",
+        "Республика Мордовия": "700",
+        "Ульяновская область": "1078",
+        "Ульяновск": "1078",
+        "Волгоград": "1079",
+        "Волгоградская область": "1079"
+    },
+    "routes": [
+        {
+            "field": "Name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "Phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "Email",
+            "bitrix": "EMAIL"
+        },
+        {
+            "field": "utm_source",
+            "bitrix": "UTM_SOURCE"
+        },
+        {
+            "field": "utm_medium",
+            "bitrix": "UTM_MEDIUM"
+        },
+        {
+            "field": "utm_campaign",
+            "bitrix": "UTM_CAMPAIGN"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+Время: 20.02.2026 10:37:19
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => 
+    [phone] => 79003645309
+    [email] => 
+)
+
+Город: Брянск (ID: не найден)
+RAW Input: {"phone":"79003645309","name":"","Comments":"","Gorod":"\u0411\u0440\u044f\u043d\u0441\u043a","utm_source":"ap-lead","utm_medium":"ivr","utm_campaign":null,"utm_content":null,"utm_term":null}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Брянск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79003645309
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79003645309
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1077
+    [COMMENTS] => <b>Город:</b> Брянск<br>
+)
+
+Bitrix Response: {"result":652605,"time":{"start":1771573039,"finish":1771573042.052827,"duration":3.0528268814086914,"processing":3,"date_start":"2026-02-20T10:37:19+03:00","date_finish":"2026-02-20T10:37:22+03:00","operating_reset_at":1771573639,"operating":7.0659918785095215}}
+Статус: Успешно (Lead ID: 652605)
+--------------------------------------------------
+
+Время: 24.02.2026 09:02:43
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => романова ольга юрьевна
+    [phone] => 79307312995
+    [email] => 
+)
+
+Город: Брянск (ID: не найден)
+RAW Input: {"phone":"79307312995","name":"\u0440\u043e\u043c\u0430\u043d\u043e\u0432\u0430 \u043e\u043b\u044c\u0433\u0430 \u044e\u0440\u044c\u0435\u0432\u043d\u0430","Comments":"","Gorod":"\u0411\u0440\u044f\u043d\u0441\u043a","utm_source":"ap-lead","utm_medium":"ivr","utm_campaign":null,"utm_content":null,"utm_term":null}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Брянск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => романова ольга юрьевна
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79307312995
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79307312995
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1077
+    [COMMENTS] => <b>Город:</b> Брянск<br>
+)
+
+Bitrix Response: {"result":653901,"time":{"start":1771912963,"finish":1771912965.388426,"duration":2.3884260654449463,"processing":2,"date_start":"2026-02-24T09:02:43+03:00","date_finish":"2026-02-24T09:02:45+03:00","operating_reset_at":1771913563,"operating":12.41976022720337}}
+Статус: Успешно (Lead ID: 653901)
+--------------------------------------------------
+
+Время: 24.02.2026 09:08:37
+Сервис: Робот
+From: Заявка из Робот
+Клиент: Array
+(
+    [name] => 
+    [phone] => 79038195066
+    [email] => 
+)
+
+Город: Брянск (ID: не найден)
+RAW Input: {"phone":"79038195066","name":"","Comments":"","Gorod":"\u0411\u0440\u044f\u043d\u0441\u043a","utm_source":"ap-lead","utm_medium":"ivr","utm_campaign":null,"utm_content":null,"utm_term":null}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Брянск
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79038195066
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79038195066
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 1077
+    [COMMENTS] => <b>Город:</b> Брянск<br>
+)
+
+Bitrix Response: {"result":653909,"time":{"start":1771913317,"finish":1771913319.898656,"duration":2.898655891418457,"processing":2,"date_start":"2026-02-24T09:08:37+03:00","date_finish":"2026-02-24T09:08:39+03:00","operating_reset_at":1771913917,"operating":13.203893899917603}}
+Статус: Успешно (Lead ID: 653909)
+--------------------------------------------------
+

@@ -1,0 +1,389 @@
+Время: 25.02.2026 11:54:28
+Сервис: Tilda
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: test=test
+POST: Array
+(
+    [test] => test
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 25.02.2026 12:34:04
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Тест Саранск
+    [phone] => +7 (978) 888-88-88
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=%D0%9D%D0%B5%D1%82+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B0&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Саранск
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => Нет официального дохода
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Бесплатная телефонная консультация
+    [Phone] => +7 (978) 888-88-88
+    [name] => Тест Саранск
+    [tranid] => 3897434:8196247022
+    [COOKIES] => _ym_uid=1710499569649596766; _ym_d=1759568800; tildauid=1770756146486.313904; _ym_isad=2; tildasid=1772012014369.107863; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk
+    [formid] => form1731506321
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Саранск
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: Нет официального дохода
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Бесплатная телефонная консультация
+Cookies: _ym_uid=1710499569649596766; _ym_d=1759568800; tildauid=1770756146486.313904; _ym_isad=2; tildasid=1772012014369.107863; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Тест Саранск
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79788888888
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 987
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Саранск<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> Нет официального дохода<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Бесплатная телефонная консультация<br><b>Cookies:</b> _ym_uid=1710499569649596766; _ym_d=1759568800; tildauid=1770756146486.313904; _ym_isad=2; tildasid=1772012014369.107863; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk<br>
+)
+
+Bitrix Response: {"result":654969,"time":{"start":1772012044,"finish":1772012046.872166,"duration":2.8721659183502197,"processing":2,"date_start":"2026-02-25T12:34:04+03:00","date_finish":"2026-02-25T12:34:06+03:00","operating_reset_at":1772012644,"operating":32.126873254776}}
+Статус: Успешно (Lead ID: 654969)
+--------------------------------------------------
+
+Время: 25.02.2026 14:33:26
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Мария
+    [phone] => +7 (927) 172-82-76
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=500+000+-+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%95%D1%81%D1%82%D1%8C&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Саранск
+    [01__Общая_сумма_задолженностей] => 500 000 - 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Есть
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (927) 172-82-76
+    [name] => Мария
+    [tranid] => 3897434:8196665973
+    [COOKIES] => _ym_d=1772019169; _ym_isad=2; _ym_uid=1772019169371712059; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; tildasid=1772019167995.545676; tildauid=1772019167995.588993; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C
+    [formid] => form1731506321
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705896830
+    [utm_content] => 1900052588902543407
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Саранск
+01__Общая_сумма_задолженностей: 500 000 - 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Есть
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: _ym_d=1772019169; _ym_isad=2; _ym_uid=1772019169371712059; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; tildasid=1772019167995.545676; tildauid=1772019167995.588993; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705896830
+    [UTM_CONTENT] => 1900052588902543407
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Мария
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79271728276
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 987
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Саранск<br><b>01__Общая_сумма_задолженностей:</b> 500 000 - 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Есть<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> _ym_d=1772019169; _ym_isad=2; _ym_uid=1772019169371712059; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; tildasid=1772019167995.545676; tildauid=1772019167995.588993; TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C<br>
+)
+
+Bitrix Response: {"result":655117,"time":{"start":1772019206,"finish":1772019208.957201,"duration":2.9572010040283203,"processing":2,"date_start":"2026-02-25T14:33:26+03:00","date_finish":"2026-02-25T14:33:28+03:00","operating_reset_at":1772019806,"operating":5.182119131088257}}
+Статус: Успешно (Lead ID: 655117)
+--------------------------------------------------
+
+Время: 26.02.2026 08:57:42
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Светлана
+    [phone] => +7 (927) 185-72-88
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Саранск
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (927) 185-72-88
+    [name] => Светлана
+    [tranid] => 3897434:8198554783
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1770117429619.522980; _ym_uid=1770117430876890675; _ym_d=1770117430; tildasid=1772085403041.740716; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; _ym_isad=2; _ym_visorc=w
+    [formid] => form1731506321
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705896830
+    [utm_content] => 1900052588902543407
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Саранск
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1770117429619.522980; _ym_uid=1770117430876890675; _ym_d=1770117430; tildasid=1772085403041.740716; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; _ym_isad=2; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705896830
+    [UTM_CONTENT] => 1900052588902543407
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Светлана
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79271857288
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 987
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Саранск<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1770117429619.522980; _ym_uid=1770117430876890675; _ym_d=1770117430; tildasid=1772085403041.740716; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; _ym_isad=2; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":655555,"time":{"start":1772085462,"finish":1772085465.278678,"duration":3.2786779403686523,"processing":3,"date_start":"2026-02-26T08:57:42+03:00","date_finish":"2026-02-26T08:57:45+03:00","operating_reset_at":1772086062,"operating":4.8231611251831055}}
+Статус: Успешно (Lead ID: 655555)
+--------------------------------------------------
+
+Время: 26.02.2026 15:50:55
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Евгений
+    [phone] => +7 (937) 517-23-33
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=300+000+-+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%9D%D0%B5%D1%82&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Саранск
+    [01__Общая_сумма_задолженностей] => 300 000 - 500 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Нет
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Да
+    [Как_вам_удобнее_получить_результат] => Упрощённый ответ в СМС
+    [Phone] => +7 (937) 517-23-33
+    [name] => Евгений
+    [tranid] => 3897434:8199789602
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=177211017093935813; _ym_d=1772110170; tildauid=1772110170042.727375; tildasid=1772110170042.419473; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk
+    [formid] => form1731506321
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705896830
+    [utm_content] => 1900052588902543407
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Саранск
+01__Общая_сумма_задолженностей: 300 000 - 500 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Нет
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Да
+Как_вам_удобнее_получить_результат: Упрощённый ответ в СМС
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=177211017093935813; _ym_d=1772110170; tildauid=1772110170042.727375; tildasid=1772110170042.419473; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705896830
+    [UTM_CONTENT] => 1900052588902543407
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Евгений
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79375172333
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 987
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Саранск<br><b>01__Общая_сумма_задолженностей:</b> 300 000 - 500 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Нет<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Да<br><b>Как_вам_удобнее_получить_результат:</b> Упрощённый ответ в СМС<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; _ym_uid=177211017093935813; _ym_d=1772110170; tildauid=1772110170042.727375; tildasid=1772110170042.419473; _ym_isad=2; _ym_visorc=w; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk<br>
+)
+
+Bitrix Response: {"result":656081,"time":{"start":1772110255,"finish":1772110257.627333,"duration":2.627332925796509,"processing":2,"date_start":"2026-02-26T15:50:55+03:00","date_finish":"2026-02-26T15:50:57+03:00","operating_reset_at":1772110855,"operating":15.953637838363647}}
+Статус: Успешно (Lead ID: 656081)
+--------------------------------------------------
+
+Время: 26.02.2026 19:14:00
+Сервис: Tilda
+From: Заявка из Tilda
+Клиент: Array
+(
+    [name] => Ирина
+    [phone] => +7 (987) 571-42-16
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: counter=G-Restrukturizaciya-%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA&01__%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0_%D0%B7%D0%B0%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+1+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&02__%D0%92%D0%B0%D1%88_%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D1%85%D0%BE%D0%B4_%D0%B2_%D0%BC%D0%B5%D1%81%D1%8F%D1%86=20+000+-+50+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&03__%D0%95%D1%81%D1%82%D1%8C_%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%B8%D0%BB%D0%B8_%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82=%D0%95%D1%81%D1%82%D1%8C&04__%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%B2%D0%B0%D1%81_%D0%B2%D0%BE%D0%B7%D0%B1%D1%83%D0%B6%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81
+POST: Array
+(
+    [counter] => G-Restrukturizaciya-Саранск
+    [01__Общая_сумма_задолженностей] => Более 1 000 000 рублей
+    [02__Ваш_официальный_доход_в_месяц] => 20 000 - 50 000 рублей
+    [03__Есть_ли_у_вас_ипотека_или_автокредит] => Есть
+    [04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП] => Нет
+    [Как_вам_удобнее_получить_результат] => Мессенджер MAX
+    [Phone] => +7 (987) 571-42-16
+    [name] => Ирина
+    [tranid] => 3897434:8200349663
+    [COOKIES] => TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772122414956.899115; tildasid=1772122414956.334411; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; _ym_uid=1772122416952932455; _ym_d=1772122416; _ym_isad=2; _ym_visorc=w
+    [formid] => form1731506321
+    [utm_source] => marketing_nayden
+    [utm_medium] => cpc
+    [utm_campaign] => 705896830
+    [utm_content] => 1900052588902543407
+    [utm_term] => ---autotargeting
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Counter: G-Restrukturizaciya-Саранск
+01__Общая_сумма_задолженностей: Более 1 000 000 рублей
+02__Ваш_официальный_доход_в_месяц: 20 000 - 50 000 рублей
+03__Есть_ли_у_вас_ипотека_или_автокредит: Есть
+04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП: Нет
+Как_вам_удобнее_получить_результат: Мессенджер MAX
+Cookies: TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772122414956.899115; tildasid=1772122414956.334411; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; _ym_uid=1772122416952932455; _ym_d=1772122416; _ym_isad=2; _ym_visorc=w
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => marketing_nayden
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 705896830
+    [UTM_CONTENT] => 1900052588902543407
+    [UTM_TERM] => ---autotargeting
+    [NAME] => Ирина
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79875714216
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Заявка из Tilda
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 987
+    [COMMENTS] => <b>Counter:</b> G-Restrukturizaciya-Саранск<br><b>01__Общая_сумма_задолженностей:</b> Более 1 000 000 рублей<br><b>02__Ваш_официальный_доход_в_месяц:</b> 20 000 - 50 000 рублей<br><b>03__Есть_ли_у_вас_ипотека_или_автокредит:</b> Есть<br><b>04__Против_вас_возбуждалось_исполнительное_производство_в_ФССП:</b> Нет<br><b>Как_вам_удобнее_получить_результат:</b> Мессенджер MAX<br><b>Cookies:</b> TILDAUTM=utm_source%3Dmarketing_nayden%7C%7C%7Cutm_medium%3Dcpc%7C%7C%7Cutm_campaign%3D705896830%7C%7C%7Cutm_content%3D1900052588902543407%7C%7C%7Cutm_term%3D---autotargeting%7C%7C%7C; tildauid=1772122414956.899115; tildasid=1772122414956.334411; previousUrl=bankrotstvo-rf.tilda.ws%2Fr-saransk; _ym_uid=1772122416952932455; _ym_d=1772122416; _ym_isad=2; _ym_visorc=w<br>
+)
+
+Bitrix Response: {"result":656255,"time":{"start":1772122440,"finish":1772122443.0675,"duration":3.067500114440918,"processing":3,"date_start":"2026-02-26T19:14:00+03:00","date_finish":"2026-02-26T19:14:03+03:00","operating_reset_at":1772123040,"operating":4.468505859375}}
+Статус: Успешно (Lead ID: 656255)
+--------------------------------------------------
+

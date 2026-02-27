@@ -1,0 +1,35 @@
+{
+    "title": "Пенза. Таргет.Вялкова",
+    "service": "Senler",
+    "source_id": "1032",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "source_by_region_enabled": false,
+    "source_by_region": [],
+    "auto_utm_enabled": false,
+    "custom_response_enabled": false,
+    "vk_settings": {
+        "confirmation_token": "7cf29047",
+        "secret": "yRpjsWniLxAgmtzhI",
+        "form_ids": "5"
+    },
+    "routes": [
+        {
+            "field": "first_name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "variables",
+            "bitrix": "COMMENTS"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        }
+    ]
+}

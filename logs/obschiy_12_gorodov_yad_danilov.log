@@ -1,0 +1,550 @@
+26.02.2026 14:50:47 Тестовый запрос Tilda (OK, игнорируем ошибку валидации)
+Время: 26.02.2026 14:51:35
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (918) 181-71-84
+    [email] => 
+)
+
+Город: Ульяновская обл. (ID: 1195433)
+RAW Input: gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+2+000+000+%D0%B4%D0%BE+5+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%9D%D0%B5+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E&phone=%2B7+%28918%29+181-71-84&tranid=4282502%3A8199606943&formid=form1262325231&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281602545&utm_term=---autotargeting&utm_region=Ulyanovsk
+POST: Array
+(
+    [gorod] => Ульяновская обл.
+    [qwert1] => От 2 000 000 до 5 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Не работаю
+    [phone] => +7 (918) 181-71-84
+    [tranid] => 4282502:8199606943
+    [formid] => form1262325231
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281602545
+    [utm_term] => ---autotargeting
+    [utm_region] => Ulyanovsk
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 2 000 000 до 5 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Не работаю
+Город: Ульяновская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281602545
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79181817184
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (918) 181-71-84
+    [UF_CRM_GOROD] => 1195433
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 910
+    [COMMENTS] => <b>Qwert1:</b> От 2 000 000 до 5 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Не работаю<br><b>Город:</b> Ульяновская обл.<br>
+)
+
+Bitrix Response: {"result":656001,"time":{"start":1772106695,"finish":1772106702.360677,"duration":7.360677003860474,"processing":7,"date_start":"2026-02-26T14:51:35+03:00","date_finish":"2026-02-26T14:51:42+03:00","operating_reset_at":1772107295,"operating":8.982956171035767}}
+Статус: Успешно (Lead ID: 656001)
+--------------------------------------------------
+
+Время: 26.02.2026 14:54:06
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (905) 348-76-20
+    [email] => 
+)
+
+Город: Ульяновская обл. (ID: 1195433)
+RAW Input: gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+1+000+000+%D0%B4%D0%BE+2+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%9F%D1%80%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BA%D0%B8+%D0%BD%D0%B5%D1%82&qwert3=%D0%9F%D0%B5%D0%BD%D1%81%D0%B8%D0%BE%D0%BD%D0%B5%D1%80&phone=%2B7+%28905%29+348-76-20&tranid=4282502%3A8199614513&formid=form1262325231&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281626065&utm_region=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA
+POST: Array
+(
+    [gorod] => Ульяновская обл.
+    [qwert1] => От 1 000 000 до 2 000 000 рублей
+    [qwert2] => Просрочки нет
+    [qwert3] => Пенсионер
+    [phone] => +7 (905) 348-76-20
+    [tranid] => 4282502:8199614513
+    [formid] => form1262325231
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281626065
+    [utm_region] => Ульяновск
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 1 000 000 до 2 000 000 рублей
+Qwert2: Просрочки нет
+Qwert3: Пенсионер
+Город: Ульяновская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281626065
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79053487620
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (905) 348-76-20
+    [UF_CRM_GOROD] => 1195433
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 910
+    [COMMENTS] => <b>Qwert1:</b> От 1 000 000 до 2 000 000 рублей<br><b>Qwert2:</b> Просрочки нет<br><b>Qwert3:</b> Пенсионер<br><b>Город:</b> Ульяновская обл.<br>
+)
+
+Bitrix Response: {"result":656009,"time":{"start":1772106846,"finish":1772106853.71864,"duration":7.718640089035034,"processing":7,"date_start":"2026-02-26T14:54:06+03:00","date_finish":"2026-02-26T14:54:13+03:00","operating_reset_at":1772107446,"operating":22.39122462272644}}
+Статус: Успешно (Lead ID: 656009)
+--------------------------------------------------
+
+Время: 26.02.2026 14:54:14
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (977) 615-11-12
+    [email] => 
+)
+
+Город: Репс. Мордовия (ID: не найден)
+RAW Input: gorod=%D0%A0%D0%B5%D0%BF%D1%81.+%D0%9C%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%8F&qwert1=%D0%9E%D1%82+2+000+000+%D0%B4%D0%BE+5+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E+%D0%BD%D0%B5+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE&phone=%2B7+%28977%29+615-11-12&tranid=4282502%3A8199614603&formid=form1262325231&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281602545&utm_term=---autotargeting&utm_region=Ulyanovsk
+POST: Array
+(
+    [gorod] => Репс. Мордовия
+    [qwert1] => От 2 000 000 до 5 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Работаю не официально
+    [phone] => +7 (977) 615-11-12
+    [tranid] => 4282502:8199614603
+    [formid] => form1262325231
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281602545
+    [utm_term] => ---autotargeting
+    [utm_region] => Ulyanovsk
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 2 000 000 до 5 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Работаю не официально
+Город: Репс. Мордовия
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281602545
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79776151112
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (977) 615-11-12
+    [UF_CRM_GOROD] => Репс. Мордовия
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 910
+    [COMMENTS] => <b>Qwert1:</b> От 2 000 000 до 5 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Работаю не официально<br><b>Город:</b> Репс. Мордовия<br>
+)
+
+Bitrix Response: {"result":656013,"time":{"start":1772106854,"finish":1772106859.887826,"duration":5.887825965881348,"processing":5,"date_start":"2026-02-26T14:54:14+03:00","date_finish":"2026-02-26T14:54:19+03:00","operating_reset_at":1772107454,"operating":30.135839462280273}}
+Статус: Успешно (Lead ID: 656013)
+--------------------------------------------------
+
+Время: 26.02.2026 15:12:54
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (976) 111-23-61
+    [email] => 
+)
+
+Город: Ростовская обл. (ID: 39209)
+RAW Input: gorod=%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+2+000+000+%D0%B4%D0%BE+5+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%9D%D0%B5+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E&phone=%2B7+%28976%29+111-23-61&tranid=4282502%3A8199673513&formid=form1262325231&utm_source=yandex
+POST: Array
+(
+    [gorod] => Ростовская обл.
+    [qwert1] => От 2 000 000 до 5 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Не работаю
+    [phone] => +7 (976) 111-23-61
+    [tranid] => 4282502:8199673513
+    [formid] => form1262325231
+    [utm_source] => yandex
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 2 000 000 до 5 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Не работаю
+Город: Ростовская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79761112361
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (976) 111-23-61
+    [UF_CRM_GOROD] => 39209
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 910
+    [COMMENTS] => <b>Qwert1:</b> От 2 000 000 до 5 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Не работаю<br><b>Город:</b> Ростовская обл.<br>
+)
+
+Bitrix Response: {"result":656031,"time":{"start":1772107974,"finish":1772107980.659183,"duration":6.659183025360107,"processing":6,"date_start":"2026-02-26T15:12:54+03:00","date_finish":"2026-02-26T15:13:00+03:00","operating_reset_at":1772108574,"operating":9.062235116958618}}
+Статус: Успешно (Lead ID: 656031)
+--------------------------------------------------
+
+Время: 26.02.2026 15:13:29
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (987) 153-61-12
+    [email] => 
+)
+
+Город: Репс. Мордовия (ID: 376495)
+RAW Input: gorod=%D0%A0%D0%B5%D0%BF%D1%81.+%D0%9C%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%8F&qwert1=%D0%9E%D1%82+2+000+000+%D0%B4%D0%BE+5+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E+%D0%BD%D0%B5+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE&phone=%2B7+%28987%29+153-61-12&tranid=4282502%3A8199675303&formid=form1262325231&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281602545&utm_term=---autotargeting&utm_region=Ulyanovsk
+POST: Array
+(
+    [gorod] => Репс. Мордовия
+    [qwert1] => От 2 000 000 до 5 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Работаю не официально
+    [phone] => +7 (987) 153-61-12
+    [tranid] => 4282502:8199675303
+    [formid] => form1262325231
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281602545
+    [utm_term] => ---autotargeting
+    [utm_region] => Ulyanovsk
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 2 000 000 до 5 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Работаю не официально
+Город: Репс. Мордовия
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281602545
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79871536112
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (987) 153-61-12
+    [UF_CRM_GOROD] => 376495
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 910
+    [COMMENTS] => <b>Qwert1:</b> От 2 000 000 до 5 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Работаю не официально<br><b>Город:</b> Репс. Мордовия<br>
+)
+
+Bitrix Response: {"result":656037,"time":{"start":1772108010,"finish":1772108016.836753,"duration":6.836752891540527,"processing":6,"date_start":"2026-02-26T15:13:30+03:00","date_finish":"2026-02-26T15:13:36+03:00","operating_reset_at":1772108610,"operating":15.854457139968872}}
+Статус: Успешно (Lead ID: 656037)
+--------------------------------------------------
+
+Время: 26.02.2026 15:14:11
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (971) 661-12-33
+    [email] => 
+)
+
+Город: Ульяновская обл. (ID: 1195433)
+RAW Input: gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+1+000+000+%D0%B4%D0%BE+2+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%9C%D0%B5%D0%BD%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E+%D0%BD%D0%B5+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE&phone=%2B7+%28971%29+661-12-33&tranid=4282502%3A8199677293&formid=form1262325231&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281602545&utm_term=---autotargeting&utm_region=Ulyanovsk
+POST: Array
+(
+    [gorod] => Ульяновская обл.
+    [qwert1] => От 1 000 000 до 2 000 000 рублей
+    [qwert2] => Менее 3 месяцев
+    [qwert3] => Работаю не официально
+    [phone] => +7 (971) 661-12-33
+    [tranid] => 4282502:8199677293
+    [formid] => form1262325231
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281602545
+    [utm_term] => ---autotargeting
+    [utm_region] => Ulyanovsk
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 1 000 000 до 2 000 000 рублей
+Qwert2: Менее 3 месяцев
+Qwert3: Работаю не официально
+Город: Ульяновская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281602545
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79716611233
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (971) 661-12-33
+    [UF_CRM_GOROD] => 1195433
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 910
+    [COMMENTS] => <b>Qwert1:</b> От 1 000 000 до 2 000 000 рублей<br><b>Qwert2:</b> Менее 3 месяцев<br><b>Qwert3:</b> Работаю не официально<br><b>Город:</b> Ульяновская обл.<br>
+)
+
+Bitrix Response: {"result":656041,"time":{"start":1772108051,"finish":1772108058.078753,"duration":7.0787529945373535,"processing":7,"date_start":"2026-02-26T15:14:11+03:00","date_finish":"2026-02-26T15:14:18+03:00","operating_reset_at":1772108651,"operating":22.477346181869507}}
+Статус: Успешно (Lead ID: 656041)
+--------------------------------------------------
+
+Время: 26.02.2026 20:56:39
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (902) 008-46-34
+    [email] => 
+)
+
+Город: Ульяновская обл. (ID: 1195433)
+RAW Input: gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+1+000+000+%D0%B4%D0%BE+2+000+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%91%D0%BE%D0%BB%D0%B5%D0%B5+3+%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2&qwert3=%D0%9D%D0%B5+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E&phone=%2B7+%28902%29+008-46-34&tranid=4282502%3A8200585852&formid=form1262325231&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281584250&utm_term=---autotargeting&utm_region=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA
+POST: Array
+(
+    [gorod] => Ульяновская обл.
+    [qwert1] => От 1 000 000 до 2 000 000 рублей
+    [qwert2] => Более 3 месяцев
+    [qwert3] => Не работаю
+    [phone] => +7 (902) 008-46-34
+    [tranid] => 4282502:8200585852
+    [formid] => form1262325231
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281584250
+    [utm_term] => ---autotargeting
+    [utm_region] => Ульяновск
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 1 000 000 до 2 000 000 рублей
+Qwert2: Более 3 месяцев
+Qwert3: Не работаю
+Город: Ульяновская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281584250
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79020084634
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (902) 008-46-34
+    [UF_CRM_GOROD] => 1195433
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 910
+    [COMMENTS] => <b>Qwert1:</b> От 1 000 000 до 2 000 000 рублей<br><b>Qwert2:</b> Более 3 месяцев<br><b>Qwert3:</b> Не работаю<br><b>Город:</b> Ульяновская обл.<br>
+)
+
+Bitrix Response: {"result":656279,"time":{"start":1772128599,"finish":1772128605.035282,"duration":6.0352818965911865,"processing":6,"date_start":"2026-02-26T20:56:39+03:00","date_finish":"2026-02-26T20:56:45+03:00","operating_reset_at":1772129199,"operating":5.690937042236328}}
+Статус: Успешно (Lead ID: 656279)
+--------------------------------------------------
+
+Время: 26.02.2026 21:45:08
+Сервис: Директ
+From: Заявка из Директ
+Клиент: Array
+(
+    [name] => 
+    [phone] => +7 (904) 198-98-93
+    [email] => 
+)
+
+Город: Ульяновская обл. (ID: 1195433)
+RAW Input: gorod=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB.&qwert1=%D0%9E%D1%82+300+000+%D0%B4%D0%BE+500+000+%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%B9&qwert2=%D0%9F%D1%80%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BA%D0%B8+%D0%BD%D0%B5%D1%82&qwert3=%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E+%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE&phone=%2B7+%28904%29+198-98-93&tranid=4282502%3A8200723903&formid=form1262325231&utm_source=yandex&utm_medium=cpc&utm_campaign=703198552&utm_content=17281597664&utm_term=---autotargeting&utm_region=%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA
+POST: Array
+(
+    [gorod] => Ульяновская обл.
+    [qwert1] => От 300 000 до 500 000 рублей
+    [qwert2] => Просрочки нет
+    [qwert3] => Работаю официально
+    [phone] => +7 (904) 198-98-93
+    [tranid] => 4282502:8200723903
+    [formid] => form1262325231
+    [utm_source] => yandex
+    [utm_medium] => cpc
+    [utm_campaign] => 703198552
+    [utm_content] => 17281597664
+    [utm_term] => ---autotargeting
+    [utm_region] => Ульяновск
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Qwert1: От 300 000 до 500 000 рублей
+Qwert2: Просрочки нет
+Qwert3: Работаю официально
+Город: Ульяновская обл.
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [UTM_SOURCE] => yandex
+    [UTM_MEDIUM] => cpc
+    [UTM_CAMPAIGN] => 703198552
+    [UTM_CONTENT] => 17281597664
+    [UTM_TERM] => ---autotargeting
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79041989893
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +7 (904) 198-98-93
+    [UF_CRM_GOROD] => 1195433
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 910
+    [COMMENTS] => <b>Qwert1:</b> От 300 000 до 500 000 рублей<br><b>Qwert2:</b> Просрочки нет<br><b>Qwert3:</b> Работаю официально<br><b>Город:</b> Ульяновская обл.<br>
+)
+
+Bitrix Response: {"result":656285,"time":{"start":1772131508,"finish":1772131513.919633,"duration":5.919632911682129,"processing":5,"date_start":"2026-02-26T21:45:08+03:00","date_finish":"2026-02-26T21:45:13+03:00","operating_reset_at":1772132108,"operating":10.352911949157715}}
+Статус: Успешно (Lead ID: 656285)
+--------------------------------------------------
+

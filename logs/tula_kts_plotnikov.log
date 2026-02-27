@@ -1,0 +1,49 @@
+Время: 25.02.2026 17:29:12
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => Тест Тест Тест
+    [phone] => 79513515351
+    [email] => 
+)
+
+Город: Тула (ID: не найден)
+RAW Input: {"phone":"79513515351","name":"\u0422\u0435\u0441\u0442 \u0422\u0435\u0441\u0442 \u0422\u0435\u0441\u0442","Comments":"","Gorod":"\u0422\u0443\u043b\u0430","utm_source":"ap-lead","utm_medium":"cc","utm_campaign":null,"utm_content":null,"utm_term":null}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Город: Тула
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => Тест Тест Тест
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79513515351
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79513515351
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 539
+    [COMMENTS] => <b>Город:</b> Тула<br>
+)
+
+Bitrix Response: {"result":655365,"time":{"start":1772029752,"finish":1772029754.700945,"duration":2.7009449005126953,"processing":2,"date_start":"2026-02-25T17:29:12+03:00","date_finish":"2026-02-25T17:29:14+03:00","operating_reset_at":1772030352,"operating":19.03341507911682}}
+Статус: Успешно (Lead ID: 655365)
+--------------------------------------------------
+

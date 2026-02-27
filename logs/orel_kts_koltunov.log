@@ -1,0 +1,870 @@
+Время: 24.02.2026 12:32:06
+Сервис: КЦ
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: {"fields": {"TITLE": "Neuro_Agency", "COMMENTS": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439", "PHONE": [{"VALUE_TYPE": "WORK", "VALUE": "79991111111"}], "NAME": "1507190", "SOURCE_ID": "876"}}
+POST: Array
+(
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 24.02.2026 12:45:20
+Сервис: КЦ
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: {"fields": {"TITLE": "Neuro_Agency", "COMMENTS": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439", "PHONE": [{"VALUE_TYPE": "WORK", "VALUE": "79991234567"}], "NAME": "1507190", "SOURCE_ID": "876"}}
+POST: Array
+(
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 24.02.2026 12:45:29
+Сервис: КЦ
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: {"fields": {"TITLE": "Neuro_Agency", "COMMENTS": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439", "PHONE": [{"VALUE_TYPE": "WORK", "VALUE": "+79991234567"}], "NAME": "1507190", "SOURCE_ID": "876"}}
+POST: Array
+(
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 24.02.2026 12:46:03
+Сервис: КЦ
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: {"fields": {"TITLE": "Neuro_Agency", "COMMENTS": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439", "PHONE": [{"VALUE_TYPE": "WORK", "VALUE": "79091736538"}], "NAME": "1507190", "SOURCE_ID": "876"}}
+POST: Array
+(
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 24.02.2026 14:10:03
+Сервис: КЦ
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: {"fields": {"TITLE": "Neuro_Agency", "NAME": "\u041d\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430", "COMMENTS": "\u0414\u043e\u043b\u0433 - \u0431\u043e\u043b\u0435\u0435 300 \u0442\u0440; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0435\u043b, \u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \
+POST: Array
+(
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 24.02.2026 16:09:54
+Сервис: КЦ
+ОШИБКА ВАЛИДАЦИИ: Телефон не указан
+Клиент: Array
+(
+    [name] => 
+    [phone] => 
+    [email] => 
+)
+
+RAW Input: {"fields": {"TITLE": "Neuro_Agency", "COMMENTS": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439", "PHONE": [{"VALUE_TYPE": "WORK", "VALUE": "79991111111"}], "NAME": "1507190", "SOURCE_ID": "876"}}
+POST: Array
+(
+)
+
+Статус: Ошибка валидации телефона
+--------------------------------------------------
+
+Время: 24.02.2026 16:33:46
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => 79991111111
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "Comments": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439", "phone": "79991111111", "NAME": "1507190"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Тестовый комментарий
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79991111111
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79991111111
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Тестовый комментарий<br>
+)
+
+Bitrix Response: {"result":654431,"time":{"start":1771940026,"finish":1771940028.794463,"duration":2.7944629192352295,"processing":2,"date_start":"2026-02-24T16:33:46+03:00","date_finish":"2026-02-24T16:33:48+03:00","operating_reset_at":1771940626,"operating":4.291277885437012}}
+Статус: Успешно (Lead ID: 654431)
+--------------------------------------------------
+
+Время: 24.02.2026 17:25:42
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => 79991111111
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "Comments": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439", "phone": "79991111111", "NAME": "1507190"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Тестовый комментарий
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => 79991111111
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - 79991111111
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Тестовый комментарий<br>
+)
+
+Bitrix Response: {"result":654483,"time":{"start":1771943142,"finish":1771943145.006118,"duration":3.006118059158325,"processing":2,"date_start":"2026-02-24T17:25:42+03:00","date_finish":"2026-02-24T17:25:45+03:00","operating_reset_at":1771943743,"operating":4.1358630657196045}}
+Статус: Успешно (Lead ID: 654483)
+--------------------------------------------------
+
+Время: 24.02.2026 17:25:45
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79534160002
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79534160002", "Comments": "\u0418\u043c\u044f - \u041d\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430; \u0414\u043e\u043b\u0433 - \u0431\u043e\u043b\u0435\u0435 300 \u0442\u0440; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0435\u043b, \u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430", "utm_content": "https://
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Нина Николаевна; Долг - более 300 тр; Город - Орел, Орловская область; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да
+Utm_content: https://drive.google.com/file/d/1jK_WrbV_zjOmsTOyPTpPk5twWSQRKEsF/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79534160002
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79534160002
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Нина Николаевна; Долг - более 300 тр; Город - Орел, Орловская область; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да<br><b>Utm_content:</b> https://drive.google.com/file/d/1jK_WrbV_zjOmsTOyPTpPk5twWSQRKEsF/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":654485,"time":{"start":1771943145,"finish":1771943147.767172,"duration":2.76717209815979,"processing":2,"date_start":"2026-02-24T17:25:45+03:00","date_finish":"2026-02-24T17:25:47+03:00","operating_reset_at":1771943745,"operating":6.020325183868408}}
+Статус: Успешно (Lead ID: 654485)
+--------------------------------------------------
+
+Время: 25.02.2026 11:11:14
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79822166369
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79822166369", "Comments": "\u0418\u043c\u044f - \u0412\u0438\u0442\u0430\u043b\u0438\u0439; \u0414\u043e\u043b\u0433 - 250 \u0442\u0440; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0435\u043b, \u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Виталий; Долг - 250 тр; Город - Орел, Орловская область; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79822166369
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79822166369
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Виталий; Долг - 250 тр; Город - Орел, Орловская область; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да<br>
+)
+
+Bitrix Response: {"result":654851,"time":{"start":1772007074,"finish":1772007076.483684,"duration":2.4836840629577637,"processing":2,"date_start":"2026-02-25T11:11:14+03:00","date_finish":"2026-02-25T11:11:16+03:00","operating_reset_at":1772007674,"operating":2.186021089553833}}
+Статус: Успешно (Lead ID: 654851)
+--------------------------------------------------
+
+Время: 25.02.2026 11:43:59
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79038810897
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79038810897", "Comments": "\u0418\u043c\u044f - \u041e\u043b\u044c\u0433\u0430; \u0414\u043e\u043b\u0433 - \u0431\u043e\u043b\u0435\u0435 250 \u0442\u044b\u0441. \u0440\u0443\u0431; \u0413\u043e\u0440\u043e\u0434 - \u0410\u043b\u043c\u0430\u0437\u043e\u0432\u043e \u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 -  \u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430, \u0432\u0435\u0447\u0435\u0440\u043e\u043c", "utm_cont
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Ольга; Долг - более 250 тыс. руб; Город - Алмазово Орловская обл; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог -  нет Готов принять звонок - да, вечером
+Utm_content: https://drive.google.com/file/d/1Z6JjZzLuI7IHEAvegrlu7iPtirVq0pK2/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79038810897
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79038810897
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Ольга; Долг - более 250 тыс. руб; Город - Алмазово Орловская обл; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог -  нет Готов принять звонок - да, вечером<br><b>Utm_content:</b> https://drive.google.com/file/d/1Z6JjZzLuI7IHEAvegrlu7iPtirVq0pK2/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":654897,"time":{"start":1772009039,"finish":1772009041.768981,"duration":2.7689809799194336,"processing":2,"date_start":"2026-02-25T11:43:59+03:00","date_finish":"2026-02-25T11:44:01+03:00","operating_reset_at":1772009639,"operating":9.0431067943573}}
+Статус: Успешно (Lead ID: 654897)
+--------------------------------------------------
+
+Время: 25.02.2026 12:18:28
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79103037382
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79103037382", "Comments": "\u0418\u043c\u044f - \u0415\u0432\u0433\u0435\u043d\u0438\u0439; \u0414\u043e\u043b\u0433 - \u0431\u043e\u043b\u0435\u0435 300 \u0442; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0451\u043b; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430", "utm_content": "https://drive.google.com/file/d/1OYng3HxeDi45jzRYuCVq5zWJW8uWrcJd/view?usp=drivesdk", "UTM_CONTENT": "https://drive.google.com/file/d/1OYng3HxeDi45jzRYuCVq5
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Евгений; Долг - более 300 т; Город - Орёл; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да
+Utm_content: https://drive.google.com/file/d/1OYng3HxeDi45jzRYuCVq5zWJW8uWrcJd/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79103037382
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79103037382
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Евгений; Долг - более 300 т; Город - Орёл; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да<br><b>Utm_content:</b> https://drive.google.com/file/d/1OYng3HxeDi45jzRYuCVq5zWJW8uWrcJd/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":654929,"time":{"start":1772011108,"finish":1772011110.290937,"duration":2.2909369468688965,"processing":2,"date_start":"2026-02-25T12:18:28+03:00","date_finish":"2026-02-25T12:18:30+03:00","operating_reset_at":1772011708,"operating":17.09016227722168}}
+Статус: Успешно (Lead ID: 654929)
+--------------------------------------------------
+
+Время: 25.02.2026 16:43:28
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79536275944
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79536275944", "Comments": "\u0418\u043c\u044f - \u0410\u043b\u0435\u043a\u0441\u0435\u0439 ; \u0414\u043e\u043b\u0433 - \u0431\u043e\u043b\u0435\u0435 300\u0442\u0440 ; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0435\u043b ;  \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430", "utm_content": "https://drive.google.com/file/d/1mrYrM64SRMyBJv50gqBquSJkSn4EHIAZ/view?usp=drivesdk", "UTM_CONTENT": "https://drive.google.com/file/d/1mrYrM64SRMyB
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Алексей ; Долг - более 300тр ; Город - Орел ;  Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да
+Utm_content: https://drive.google.com/file/d/1mrYrM64SRMyBJv50gqBquSJkSn4EHIAZ/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79536275944
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79536275944
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Алексей ; Долг - более 300тр ; Город - Орел ;  Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да<br><b>Utm_content:</b> https://drive.google.com/file/d/1mrYrM64SRMyBJv50gqBquSJkSn4EHIAZ/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":655295,"time":{"start":1772027008,"finish":1772027011.263397,"duration":3.263396978378296,"processing":3,"date_start":"2026-02-25T16:43:28+03:00","date_finish":"2026-02-25T16:43:31+03:00","operating_reset_at":1772027608,"operating":15.223501920700073}}
+Статус: Успешно (Lead ID: 655295)
+--------------------------------------------------
+
+Время: 25.02.2026 17:16:32
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79004865477
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79004865477", "Comments": "\u0418\u043c\u044f - \u041c\u0430\u0440\u0438\u044f; \u0414\u043e\u043b\u0433 - \u0431\u043e\u043b\u0435\u0435 300 \u0442; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0451\u043b; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430", "utm_content": "https://drive.google.com/file/d/1-SlmT1orXe5ioHvwv-LJ4qu6E7l3Gfdv/view?usp=drivesdk", "UTM_CONTENT": "https://drive.google.com/file/d/1-SlmT1orXe5ioHvwv-LJ4qu6E7l3Gfdv/
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Мария; Долг - более 300 т; Город - Орёл; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да
+Utm_content: https://drive.google.com/file/d/1-SlmT1orXe5ioHvwv-LJ4qu6E7l3Gfdv/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79004865477
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79004865477
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Мария; Долг - более 300 т; Город - Орёл; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да<br><b>Utm_content:</b> https://drive.google.com/file/d/1-SlmT1orXe5ioHvwv-LJ4qu6E7l3Gfdv/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":655345,"time":{"start":1772028992,"finish":1772028995.177178,"duration":3.177177906036377,"processing":3,"date_start":"2026-02-25T17:16:32+03:00","date_finish":"2026-02-25T17:16:35+03:00","operating_reset_at":1772029592,"operating":2.2058231830596924}}
+Статус: Успешно (Lead ID: 655345)
+--------------------------------------------------
+
+Время: 25.02.2026 18:09:51
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79963490207
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79963490207", "Comments": "\u0418\u043c\u044f - \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 ; \u0414\u043e\u043b\u0433 - 500 \u0442.\u0440.; \u0413\u043e\u0440\u043e\u0434 - \u0434 \u0413\u043b\u0430\u0437\u0443\u043d\u043e\u0432\u043a\u0430 , \u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b ; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a -\u043d\u0435\u0442; \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442; \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442; \u0418\u043f\u043e\u0442\u0435\u043a\u0430 -\u043d\u0435\u0442; \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442; \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a -\u0434\u0430", "utm_content": "https://drive.google.com/file/d/1TKZVjqAFZeX
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Александр ; Долг - 500 т.р.; Город - д Глазуновка , Орловская обл ; Поручитель/созаемщик -нет; Банкротство - нет; Автокредит - нет; Ипотека -нет; Залог - нет; Готов принять звонок -да
+Utm_content: https://drive.google.com/file/d/1TKZVjqAFZeXV3eeEaIGi0ZErHxY0UThG/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79963490207
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79963490207
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Александр ; Долг - 500 т.р.; Город - д Глазуновка , Орловская обл ; Поручитель/созаемщик -нет; Банкротство - нет; Автокредит - нет; Ипотека -нет; Залог - нет; Готов принять звонок -да<br><b>Utm_content:</b> https://drive.google.com/file/d/1TKZVjqAFZeXV3eeEaIGi0ZErHxY0UThG/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":655423,"time":{"start":1772032191,"finish":1772032194.038819,"duration":3.0388190746307373,"processing":2,"date_start":"2026-02-25T18:09:51+03:00","date_finish":"2026-02-25T18:09:54+03:00","operating_reset_at":1772032792,"operating":4.256222724914551}}
+Статус: Успешно (Lead ID: 655423)
+--------------------------------------------------
+
+Время: 25.02.2026 18:09:56
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79624803103
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79624803103", "Comments": "\u0418\u043c\u044f - \u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f; \u0414\u043e\u043b\u0433 - \u0431\u043e\u043b\u0435\u0435 250 \u0442\u044b\u0441; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041e\u0440\u0451\u043b; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442; \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442; \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442; \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442; \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442; \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430;", "utm_content": "https://drive.google.com/file/d/1
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Виктория; Долг - более 250 тыс; Город - Орловская область, Орёл; Поручитель/созаемщик - нет; Банкротство - нет; Автокредит - нет; Ипотека - нет; Залог - нет; Готов принять звонок - да;
+Utm_content: https://drive.google.com/file/d/1PIRmuRR4LtKSSfRlXp1tqEYvl5-ZfReL/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79624803103
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79624803103
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Виктория; Долг - более 250 тыс; Город - Орловская область, Орёл; Поручитель/созаемщик - нет; Банкротство - нет; Автокредит - нет; Ипотека - нет; Залог - нет; Готов принять звонок - да;<br><b>Utm_content:</b> https://drive.google.com/file/d/1PIRmuRR4LtKSSfRlXp1tqEYvl5-ZfReL/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":655425,"time":{"start":1772032196,"finish":1772032198.455031,"duration":2.455030918121338,"processing":2,"date_start":"2026-02-25T18:09:56+03:00","date_finish":"2026-02-25T18:09:58+03:00","operating_reset_at":1772032796,"operating":6.239364862442017}}
+Статус: Успешно (Lead ID: 655425)
+--------------------------------------------------
+
+Время: 26.02.2026 11:11:11
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79933722150
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79933722150", "Comments": "\u0418\u043c\u044f - \u041d\u0430\u0434\u0435\u0436\u0434\u0430 ; \u0414\u043e\u043b\u0433 - \u0431\u043e\u043b\u044c\u0448\u0435 300 000 ; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0451\u043b ; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 \u2013 \u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a \u2013 \u0434\u0430", "utm_content": "https://drive.google.com/file/d/1KxN9rfClv2E8d4CU3j_Tb1QO0HkrWX0E/view?usp=drivesdk", "UTM_CONTENT": "https://drive.google.com/file/d/1KxN9r
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Надежда ; Долг - больше 300 000 ; Город - Орёл ; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог – нет Готов принять звонок – да
+Utm_content: https://drive.google.com/file/d/1KxN9rfClv2E8d4CU3j_Tb1QO0HkrWX0E/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79933722150
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79933722150
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Надежда ; Долг - больше 300 000 ; Город - Орёл ; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог – нет Готов принять звонок – да<br><b>Utm_content:</b> https://drive.google.com/file/d/1KxN9rfClv2E8d4CU3j_Tb1QO0HkrWX0E/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":655705,"time":{"start":1772093471,"finish":1772093473.229415,"duration":2.229414939880371,"processing":2,"date_start":"2026-02-26T11:11:11+03:00","date_finish":"2026-02-26T11:11:13+03:00","operating_reset_at":1772094071,"operating":2.094789981842041}}
+Статус: Успешно (Lead ID: 655705)
+--------------------------------------------------
+
+Время: 26.02.2026 11:43:57
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79996022420
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79996022420", "Comments": "\u0418\u043c\u044f \u041b\u044e\u0434\u043c\u0438\u043b\u0430 ; \u0414\u043e\u043b\u0433 \u0431\u043e\u043b\u0435\u0435 250 \u0442 ; \u0413\u043e\u0440\u043e\u0434 \u041e\u0440\u0435\u043b ; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a -\u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e-\u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 -\u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430-\u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433-\u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a -\u0434\u0430 ", "utm_content": "https://drive.google.com/file/d/1Xqruh-xnAv86uUFlfiV_gkSonXW6XaE8/view?usp=drivesdk", "UTM_CONTENT": "https://drive.google.com/file/d/1Xqruh-xnAv86uUFlfiV_gkSonXW6XaE8
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя Людмила ; Долг более 250 т ; Город Орел ; Поручитель/созаемщик -нет Банкротство-нет Автокредит -нет Ипотека-нет Залог-нет Готов принять звонок -да
+Utm_content: https://drive.google.com/file/d/1Xqruh-xnAv86uUFlfiV_gkSonXW6XaE8/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79996022420
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79996022420
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя Людмила ; Долг более 250 т ; Город Орел ; Поручитель/созаемщик -нет Банкротство-нет Автокредит -нет Ипотека-нет Залог-нет Готов принять звонок -да<br><b>Utm_content:</b> https://drive.google.com/file/d/1Xqruh-xnAv86uUFlfiV_gkSonXW6XaE8/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":655761,"time":{"start":1772095437,"finish":1772095439.368825,"duration":2.3688249588012695,"processing":2,"date_start":"2026-02-26T11:43:57+03:00","date_finish":"2026-02-26T11:43:59+03:00","operating_reset_at":1772096037,"operating":14.77342700958252}}
+Статус: Успешно (Lead ID: 655761)
+--------------------------------------------------
+
+Время: 26.02.2026 16:22:14
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79092294465
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79092294465", "Comments": "\u0418\u043c\u044f - \u042d\u043a\u0430; \u0414\u043e\u043b\u0433 - 700 \u0442; \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0451\u043b; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442 \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430", "utm_content": "https://drive.google.com/file/d/13lKRAQVeUjymoLZtlcAB6P1W2y4XwQ_0/view?usp=drivesdk", "UTM_CONTENT": "https://drive.google.com/file/d/13lKRAQVeUjymoLZtlcAB6P1W2y4XwQ_0/view?usp=drivesdk"}
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Эка; Долг - 700 т; Город - Орёл; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да
+Utm_content: https://drive.google.com/file/d/13lKRAQVeUjymoLZtlcAB6P1W2y4XwQ_0/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79092294465
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79092294465
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Эка; Долг - 700 т; Город - Орёл; Поручитель/созаемщик - нет Банкротство - нет Автокредит - нет Ипотека - нет Залог - нет Готов принять звонок - да<br><b>Utm_content:</b> https://drive.google.com/file/d/13lKRAQVeUjymoLZtlcAB6P1W2y4XwQ_0/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":656129,"time":{"start":1772112134,"finish":1772112136.395977,"duration":2.395977020263672,"processing":2,"date_start":"2026-02-26T16:22:14+03:00","date_finish":"2026-02-26T16:22:16+03:00","operating_reset_at":1772112734,"operating":8.578888893127441}}
+Статус: Успешно (Lead ID: 656129)
+--------------------------------------------------
+
+Время: 26.02.2026 16:54:37
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79102674973
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79102674973", "Comments": "\u0418\u043c\u044f - \u041d\u0430\u0442\u0430\u043b\u044c\u044f (\u0437\u0430 \u043c\u0443\u0436\u0430, \u0431\u043e\u043b\u0435\u043d) ; \u0414\u043e\u043b\u0433  - \u043e\u043a\u043e\u043b\u043e 1 \u043c\u043b\u043d \u0440\u0443\u0431  \u0413\u043e\u0440\u043e\u0434 - \u041e\u0440\u0435\u043b ;  \u200d \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u200d\u043d\u0435\u0442 \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u200d\u043d\u0435\u0442 \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u200d\u0434\u0430 (\u0433\u043e\u0442\u043e\u0432\u0430) \u0418\u043f\u043e\u0442\u0435\u043a\u0430 -\u200d \u043d\u0435\u0442 \u0417\u0430\u043b\u043e\u0433 - \u200d\u043d\u0435\u0442 \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Наталья (за мужа, болен) ; Долг  - около 1 млн руб  Город - Орел ;  ‍ Поручитель/созаемщик - ‍нет Банкротство - ‍нет Автокредит - ‍да (готова) Ипотека -‍ нет Залог - ‍нет Готов принять звонок - да
+Utm_content: https://drive.google.com/file/d/1FaEI1YKgaQFqsFBudxQNx2dH4m9zOvrw/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79102674973
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79102674973
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Наталья (за мужа, болен) ; Долг  - около 1 млн руб  Город - Орел ;  ‍ Поручитель/созаемщик - ‍нет Банкротство - ‍нет Автокредит - ‍да (готова) Ипотека -‍ нет Залог - ‍нет Готов принять звонок - да<br><b>Utm_content:</b> https://drive.google.com/file/d/1FaEI1YKgaQFqsFBudxQNx2dH4m9zOvrw/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":656173,"time":{"start":1772114077,"finish":1772114079.46443,"duration":2.464430093765259,"processing":2,"date_start":"2026-02-26T16:54:37+03:00","date_finish":"2026-02-26T16:54:39+03:00","operating_reset_at":1772114677,"operating":10.8422212600708}}
+Статус: Успешно (Lead ID: 656173)
+--------------------------------------------------
+
+Время: 27.02.2026 09:47:58
+Сервис: КЦ
+From: Заявка из КЦ
+Клиент: Array
+(
+    [name] => 1507190
+    [phone] => +79102017848
+    [email] => 
+)
+
+Город: не определён (ID: не найден)
+RAW Input: {"TITLE": "Neuro_Agency", "name": "1507190", "phone": "+79102017848", "Comments": "\u0418\u043c\u044f - \u0412\u0430\u0434\u0438\u043c; \u0414\u043e\u043b\u0433 - 300 \u0442; \u0413\u043e\u0440\u043e\u0434 - \u041c\u0446\u0435\u043d\u0441\u043a, \u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b; \u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c/\u0441\u043e\u0437\u0430\u0435\u043c\u0449\u0438\u043a - \u043d\u0435\u0442; \u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e - \u043d\u0435\u0442; \u0410\u0432\u0442\u043e\u043a\u0440\u0435\u0434\u0438\u0442 - \u043d\u0435\u0442; \u0418\u043f\u043e\u0442\u0435\u043a\u0430 - \u043d\u0435\u0442; \u0417\u0430\u043b\u043e\u0433 - \u043d\u0435\u0442; \u0413\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u0437\u0432\u043e\u043d\u043e\u043a - \u0434\u0430, 02.03;", "utm_content": "https://drive.google.com/file/d/1OsoDPRS1gcchUtstm-Lb-L6RkmkUMOid/view?usp=drivesdk", "UTM_CONTENT"
+POST: Array
+(
+)
+
+Quiz/Комментарии: Array
+(
+)
+
+Собранные комментарии (для лога): 
+Title: Neuro_Agency
+Comments: Имя - Вадим; Долг - 300 т; Город - Мценск, Орловская обл; Поручитель/созаемщик - нет; Банкротство - нет; Автокредит - нет; Ипотека - нет; Залог - нет; Готов принять звонок - да, 02.03;
+Utm_content: https://drive.google.com/file/d/1OsoDPRS1gcchUtstm-Lb-L6RkmkUMOid/view?usp=drivesdk
+
+Отправка комментариев в Bitrix: ДА
+Поля для Bitrix: Array
+(
+    [NAME] => 1507190
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [VALUE] => +79102017848
+                    [VALUE_TYPE] => MOBILE
+                )
+
+        )
+
+    [ASSIGNED_BY_ID] => 1
+    [TITLE] => Новая заявка - +79102017848
+    [OPENED] => Y
+    [STATUS_ID] => NEW
+    [SOURCE_ID] => 876
+    [COMMENTS] => <b>Title:</b> Neuro_Agency<br><b>Comments:</b> Имя - Вадим; Долг - 300 т; Город - Мценск, Орловская обл; Поручитель/созаемщик - нет; Банкротство - нет; Автокредит - нет; Ипотека - нет; Залог - нет; Готов принять звонок - да, 02.03;<br><b>Utm_content:</b> https://drive.google.com/file/d/1OsoDPRS1gcchUtstm-Lb-L6RkmkUMOid/view?usp=drivesdk<br>
+)
+
+Bitrix Response: {"result":656407,"time":{"start":1772174878,"finish":1772174880.257912,"duration":2.2579119205474854,"processing":2,"date_start":"2026-02-27T09:47:58+03:00","date_finish":"2026-02-27T09:48:00+03:00","operating_reset_at":1772175478,"operating":6.5269691944122314}}
+Статус: Успешно (Lead ID: 656407)
+--------------------------------------------------
+
