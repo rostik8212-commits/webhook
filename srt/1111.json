@@ -1,0 +1,51 @@
+{
+    "title": "1111",
+    "service": "Tilda",
+    "source_id": "",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "source_by_region_enabled": false,
+    "source_by_region": [],
+    "auto_utm_enabled": false,
+    "custom_response_enabled": false,
+    "vk_settings": {
+        "confirmation_token": "",
+        "secret": "",
+        "form_ids": ""
+    },
+    "routes": [
+        {
+            "field": "Name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "Phone",
+            "bitrix": "PHONE"
+        },
+        {
+            "field": "Email",
+            "bitrix": "EMAIL"
+        },
+        {
+            "field": "utm_source",
+            "bitrix": "UTM_SOURCE"
+        },
+        {
+            "field": "utm_medium",
+            "bitrix": "UTM_MEDIUM"
+        },
+        {
+            "field": "utm_campaign",
+            "bitrix": "UTM_CAMPAIGN"
+        },
+        {
+            "field": "1",
+            "bitrix": "ASSIGNED_BY_ID"
+        },
+        {
+            "field": "comments",
+            "bitrix": "COMMENTS"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "тест",
+    "service": "Flexbe",
+    "source_id": "",
+    "city_field": "",
+    "city_mapping": [],
+    "field_labels": [],
+    "source_by_region_enabled": false,
+    "source_by_region": [],
+    "auto_utm_enabled": false,
+    "custom_response_enabled": false,
+    "vk_settings": {
+        "confirmation_token": "",
+        "secret": "",
+        "form_ids": ""
+    },
+    "routes": [
+        {
+            "field": "name",
+            "bitrix": "NAME"
+        },
+        {
+            "field": "phone",
+            "bitrix": "PHONE"
+        }
+    ]
+}

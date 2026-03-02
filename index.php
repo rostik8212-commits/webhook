@@ -223,10 +223,105 @@ function getSecurityAlerts() {
     return array_reverse($alerts);
 }
 
+// ============================================================================
+// ФУНКЦИЯ: Отображение логов с переключателем хуков (1 или 2)
+// ============================================================================
+function renderLogs($hookName) {
+    $hookNum = $_GET['hook_num'] ?? '1'; // 1 или 2, по умолчанию 1
+    $logFile = "logs/{$hookName}_hook{$hookNum}.log";
+    
+    echo '<div class="logs-section mt-4">';
+    echo '<div class="logs-header d-flex justify-content-between align-items-center">';
+    echo '<h5 class="mb-0">📜 Логи интеграции: <strong>' . htmlspecialchars($hookName) . '</strong></h5>';
+    
+    // 🔀 Переключатель хуков
+    echo '<div class="btn-group btn-group-sm me-3">';
+    echo '<a href="?name=' . urlencode($hookName) . '&hook_num=1" class="btn btn-outline-light ' . ($hookNum == '1' ? 'active' : '') . '">Хук #1</a>';
+    echo '<a href="?name=' . urlencode($hookName) . '&hook_num=2" class="btn btn-outline-light ' . ($hookNum == '2' ? 'active' : '') . '">Хук #2</a>';
+    echo '</div>';
+    
+    echo '<div>';
+    echo '<a href="?download_log=' . urlencode($hookName) . '&hook_num=' . $hookNum . '" class="btn btn-sm btn-outline-light">⬇️ Скачать</a>';
+    echo '<button class="btn btn-sm btn-outline-light ms-2" onclick="toggleLogs(\'' . $hookName . '\')">▼ Свернуть</button>';
+    echo '</div></div>';
+    
+    echo '<div class="logs-content" id="logs-' . $hookName . '">';
+    
+    if (!file_exists($logFile)) {
+        echo '<div class="text-center text-muted py-4">📭 Логов пока нет для хука #' . $hookNum . '</div>';
+    } else {
+        $content = file_get_contents($logFile);
+        $blocks = preg_split('/={50,}/', $content);
+        $blocks = array_filter(array_map('trim', $blocks));
+        
+        if (empty($blocks)) {
+            echo '<div class="text-center text-muted py-4">Лог пуст</div>';
+        } else {
+            // Показываем последние 50 записей
+            foreach (array_slice(array_reverse($blocks), 0, 50) as $block) {
+                if (trim($block) === '') continue;
+                
+                $isError = preg_match('/Ошибка|Error|Failed|CURL error/i', $block);
+                $isSuccess = preg_match('/Успешно|Lead ID[:\s]+\d+/i', $block);
+                
+                echo '<div class="log-entry">';
+                
+                // Время
+                if (preg_match('/Время:\s*(.+)/', $block, $m)) {
+                    echo '<div class="log-time">🕐 ' . htmlspecialchars(trim($m[1])) . '</div>';
+                }
+                
+                // URL хука
+                if (preg_match('/URL:\s*(.+)/', $block, $m)) {
+                    $url = htmlspecialchars(trim($m[1]));
+                    echo '<div class="small text-muted">🔗 ' . (strlen($url) > 70 ? substr($url, 0, 67) . '...' : $url) . '</div>';
+                }
+                
+                // Статус
+                if ($isSuccess) {
+                    echo '<div class="log-success">✅ ' . htmlspecialchars(extractLogStatus($block)) . '</div>';
+                    // Ссылка на лид в Битрикс
+                    if (preg_match('/Lead ID[:\s]+(\d+)/', $block, $m)) {
+                        echo '<div><a href="https://bankrot40.bitrix24.ru/crm/lead/details/' . $m[1] . '/" target="_blank" class="text-info">🔗 Открыть лид #' . $m[1] . '</a></div>';
+                    }
+                } elseif ($isError) {
+                    echo '<div class="log-error">❌ ' . htmlspecialchars(extractLogError($block)) . '</div>';
+                }
+                
+                echo '</div>';
+            }
+        }
+    }
+    echo '</div></div>';
+}
+
+// Вспомогательная: извлечение статуса из лога
+function extractLogStatus($log) {
+    if (preg_match('/Статус:\s*Успешно \(Lead ID:\s*(\d+)\)/i', $log, $m)) {
+        return 'Успешно, Lead ID: ' . $m[1];
+    }
+    return 'Успешно';
+}
+
+// Вспомогательная: извлечение ошибки из лога
+function extractLogError($log) {
+    if (preg_match('/Статус:\s*(Ошибка[^\\n]+)/i', $log, $m)) {
+        return trim($m[1]);
+    }
+    if (preg_match('/Ошибка CURL:\s*([^\\n]+)/i', $log, $m)) {
+        return 'CURL: ' . trim($m[1]);
+    }
+    if (preg_match('/Ошибка Bitrix:\s*([^\\n]+)/i', $log, $m)) {
+        return 'Bitrix: ' . trim($m[1]);
+    }
+    return 'Неизвестная ошибка';
+}
+
 // AJAX: Скачивание полного лога
 if (isset($_GET['download_log'])) {
     $hookName = preg_replace('/[^a-z0-9_-]/i', '', $_GET['download_log']);
-    $logFile = "logs/{$hookName}.log";
+$hookNum = $_GET['hook_num'] ?? '1'; // 1 или 2
+$logFile = "logs/{$hookName}_hook{$hookNum}.log";
     if (file_exists($logFile)) {
         header('Content-Type: text/plain; charset=utf-8');
         header('Content-Disposition: attachment; filename="' . $hookName . '_log_' . date('Y-m-d') . '.txt"');
@@ -240,9 +335,13 @@ if (isset($_GET['download_log'])) {
 // AJAX: Скачивание всех логов
 if (isset($_GET['download_all_logs'])) {
     $allContent = "=== ВСЕ ЛОГИ === Дата выгрузки: " . date('d.m.Y H:i:s') . "\n\n";
-    $logFiles = glob('logs/*.log');
-    foreach ($logFiles as $logFile) {
-        $hookName = pathinfo($logFile, PATHINFO_FILENAME);
+$logFiles = glob('logs/*.log');
+foreach ($logFiles as $logFile) {
+    $hookName = pathinfo($logFile, PATHINFO_FILENAME);
+    // Пропускаем файлы логов по хукам (_hook1, _hook2) в общем списке
+    if (preg_match('/_hook[12]$/', $hookName)) continue;
+    // Пропускаем security_alerts.log
+    if ($hookName === 'security_alerts') continue;
         $allContent .= "\n\n" . str_repeat('=', 60) . "\n";
         $allContent .= "ИНТЕГРАЦИЯ: {$hookName}\n";
         $allContent .= str_repeat('=', 60) . "\n\n";
@@ -321,7 +420,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['retry_failed_lead']))
     // Отправляем в Bitrix
     $ch = curl_init();
     curl_setopt_array($ch, [
-        CURLOPT_URL => BITRIX_WEBHOOK . 'crm.lead.add',
+        CURLOPT_URL => (defined('BITRIX_WEBHOOK_1') ? BITRIX_WEBHOOK_1 : '') . 'crm.lead.add',
         CURLOPT_POST => true,
         CURLOPT_RETURNTRANSFER => true,
         CURLOPT_POSTFIELDS => http_build_query(['fields' => $leadData['fields'], 'params' => ['REGISTER_SONET_EVENT' => 'Y']]),
@@ -550,7 +649,7 @@ foreach ($hooks as $file) {
     <div class="container-fluid px-4">
         <div class="text-center mb-4 mt-4">
             <h1 class="display-5 text-white fw-bold">Мои интеграции</h1>
-            <p class="text-white-50">Bitrix24: <?= htmlspecialchars(BITRIX_WEBHOOK) ?></p>
+            <p class="text-white-50">Bitrix24: <?= htmlspecialchars(defined('BITRIX_WEBHOOK_1') ? BITRIX_WEBHOOK_1 : 'Не задан') ?></p>
         </div>
         <div class="text-center mb-4">
             <div class="d-inline-flex align-items-center gap-4 p-3 rounded-4 shadow bg-white bg-opacity-10 backdrop-blur">
@@ -816,19 +915,40 @@ foreach ($hooks as $file) {
         </form>
     </div></div></div>
 
-    <div class="modal fade" id="changeWebhookModal"><div class="modal-dialog"><div class="modal-content">
-        <div class="modal-header"><h5>Сменить вебхук</h5><button type="button" class="btn-close" data-bs-dismiss="modal"></button></div>
-        <div class="modal-body">
-            <p>Вебхук привязан: <strong><?= WEBHOOK_SET_DATE ?></strong></p>
-            <p class="text-muted small">Текущий: <?= htmlspecialchars(BITRIX_WEBHOOK) ?></p>
-            <hr>
-            <form id="formWebhook">
-                <input type="url" name="newhook" class="form-control" placeholder="https://ваш-портал.bitrix24.ru/rest/1/xxxxx/" required>
-                <small class="text-muted">Формат: https://портал.bitrix24.ru/rest/USER_ID/TOKEN/</small>
-                <button type="submit" class="btn btn-info mt-3 w-100">Обновить вебхук</button>
-            </form>
+    <div class="modal fade" id="changeWebhookModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5>Сменить вебхуки</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <p>Вебхук #1 привязан: <strong><?= defined('WEBHOOK_SET_DATE_1') ? WEBHOOK_SET_DATE_1 : 'не задан' ?></strong></p>
+                <p class="text-muted small">Текущий #1: <?= htmlspecialchars(defined('BITRIX_WEBHOOK_1') ? BITRIX_WEBHOOK_1 : '') ?></p>
+                <hr>
+                <p>Вебхук #2 привязан: <strong><?= defined('WEBHOOK_SET_DATE_2') ? WEBHOOK_SET_DATE_2 : 'не задан' ?></strong></p>
+                <p class="text-muted small">Текущий #2: <?= htmlspecialchars(defined('BITRIX_WEBHOOK_2') ? BITRIX_WEBHOOK_2 : '(пусто)') ?></p>
+                <hr>
+                <form id="formWebhook">
+                    <div class="mb-3">
+                        <label class="form-label">Вебхук Битрикс #1 (основной)</label>
+                        <input type="url" name="webhook1" class="form-control" 
+                               value="<?= defined('BITRIX_WEBHOOK_1') ? BITRIX_WEBHOOK_1 : '' ?>" 
+                               placeholder="https://portal.bitrix24.ru/rest/USER_ID/TOKEN/" required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Вебхук Битрикс #2 (дополнительный, опционально)</label>
+                        <input type="url" name="webhook2" class="form-control" 
+                               value="<?= defined('BITRIX_WEBHOOK_2') ? BITRIX_WEBHOOK_2 : '' ?>" 
+                               placeholder="https://second-portal.bitrix24.ru/rest/.../">
+                        <small class="text-muted">Оставьте пустым, если не нужен второй хук</small>
+                    </div>
+                    <button type="submit" class="btn btn-info w-100">Обновить вебхуки</button>
+                </form>
+            </div>
         </div>
-    </div></div></div>
+    </div>
+</div>
 
     <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script>

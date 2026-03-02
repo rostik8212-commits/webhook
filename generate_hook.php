@@ -45,10 +45,22 @@ $code .= "// Отправка комментариев в Bitrix: " . ($sendComm
 $code .= "// Авто-UTM: " . ($autoUtmEnabled ? "ДА" : "НЕТ") . "\n";
 $code .= "\n";
 
-$code .= "require __DIR__.'/../config.php';\n";
-$code .= "if (!defined('BITRIX_WEBHOOK')) die('Ошибка: вебхук не настроен');\n";
-$code .= "\$webhook = BITRIX_WEBHOOK;\n";
-$code .= "\$hookName = '" . addslashes($newName) . "';\n\n";
+$code .= "require __DIR__.'/../config.php';
+";
+$code .= "if (!defined('BITRIX_WEBHOOK_1')) die('Ошибка: вебхук не настроен');
+";
+$code .= "// Массив активных вебхуков
+";
+$code .= "\$webhooks = array_filter([
+";
+$code .= "    defined('BITRIX_WEBHOOK_1') ? BITRIX_WEBHOOK_1 : '',
+";
+$code .= "    defined('BITRIX_WEBHOOK_2') ? BITRIX_WEBHOOK_2 : ''
+";
+$code .= "]);
+";
+$code .= "\$hookName = '" . addslashes($newName) . "';
+";
 
 // Флаг отправки комментариев
 $code .= "// Флаг отправки комментариев в Bitrix (зависит от маппинга)\n";
@@ -861,71 +873,109 @@ $code .= "if (\$sendCommentsToBitrix && \$comments !== '') {\n";
 $code .= "    \$fields['COMMENTS'] = \$comments;\n";
 $code .= "}\n\n";
 
-// === ЛОГИ + ОТПРАВКА ===
+// === ЛОГИ + ОТПРАВКА НА НЕСКОЛЬКО ВЕБХУКОВ ===
 $code .= "// ========================================\n";
-$code .= "// ЛОГИРОВАНИЕ И ОТПРАВКА В BITRIX24\n";
+$code .= "// ЛОГИРОВАНИЕ И ОТПРАВКА В BITRIX24 (НЕСКОЛЬКО ХУКОВ)\n";
 $code .= "// ========================================\n";
 $code .= "\$logTime = date('d.m.Y H:i:s');\n";
-$code .= "\$logEntry = \"Время: {\$logTime}\\n\";\n";
-$code .= "\$logEntry .= \"Сервис: " . addslashes($serviceName) . "\\n\";\n";
-$code .= "\$logEntry .= \"From: {\$from}\\n\";\n";
-$code .= "\$logEntry .= \"Клиент: \" . print_r(\$input['client'], true) . \"\\n\";\n";
-$code .= "\$logEntry .= \"Город: \" . (\$input['city'] ?: 'не определён') . \" (ID: \" . (\$cityId ?: 'не найден') . \")\\n\";\n";
-$code .= "\$logEntry .= \"RAW Input: \" . substr(\$rawInput, 0, 1000) . \"\\n\";\n";
-$code .= "\$logEntry .= \"POST: \" . print_r(\$rawPost, true) . \"\\n\";\n";
-$code .= "\$logEntry .= \"Quiz/Комментарии: \" . print_r(\$input['quiz'], true) . \"\\n\";\n";
-$code .= "\$logEntry .= \"Собранные комментарии (для лога): \\n\" . strip_tags(str_replace('<br>', \"\\n\", \$comments)) . \"\\n\";\n";
-$code .= "\$logEntry .= \"Отправка комментариев в Bitrix: \" . (\$sendCommentsToBitrix ? 'ДА' : 'НЕТ') . \"\\n\";\n";
-$code .= "\$logEntry .= \"Поля для Bitrix: \" . print_r(\$fields, true) . \"\\n\";\n\n";
+$code .= "\$baseLogEntry = \"Время: {\$logTime}\\n\";\n";
+$code .= "\$baseLogEntry .= \"Сервис: " . addslashes($serviceName) . "\\n\";\n";
+$code .= "\$baseLogEntry .= \"From: {\$from}\\n\";\n";
+$code .= "\$baseLogEntry .= \"Клиент: \" . print_r(\$input['client'], true) . \"\\n\";\n";
+$code .= "\$baseLogEntry .= \"Город: \" . (\$input['city'] ?: 'не определён') . \" (ID: \" . (\$cityId ?: 'не найден') . \")\\n\";\n";
+$code .= "\$baseLogEntry .= \"RAW Input: \" . substr(\$rawInput, 0, 1000) . \"\\n\";\n";
+$code .= "\$baseLogEntry .= \"POST: \" . print_r(\$rawPost, true) . \"\\n\";\n";
+$code .= "\$baseLogEntry .= \"Quiz/Комментарии: \" . print_r(\$input['quiz'], true) . \"\\n\";\n";
+$code .= "\$baseLogEntry .= \"Собранные комментарии (для лога): \\n\" . strip_tags(str_replace('<br>', \"\\n\", \$comments)) . \"\\n\";\n";
+$code .= "\$baseLogEntry .= \"Отправка комментариев в Bitrix: \" . (\$sendCommentsToBitrix ? 'ДА' : 'НЕТ') . \"\\n\";\n";
+$code .= "\$baseLogEntry .= \"Поля для Bitrix: \" . print_r(\$fields, true) . \"\\n\";\n\n";
 
-$code .= "\$ch = curl_init();\n";
-$code .= "curl_setopt_array(\$ch, [\n";
-$code .= "    CURLOPT_URL            => \$webhook . 'crm.lead.add',\n";
-$code .= "    CURLOPT_POST           => true,\n";
-$code .= "    CURLOPT_RETURNTRANSFER => true,\n";
-$code .= "    CURLOPT_POSTFIELDS     => http_build_query(['fields' => \$fields, 'params' => ['REGISTER_SONET_EVENT' => 'Y']]),\n";
-$code .= "    CURLOPT_SSL_VERIFYPEER => false,\n";
-$code .= "    CURLOPT_TIMEOUT        => 15\n";
-$code .= "]);\n";
-$code .= "\$response = curl_exec(\$ch);\n";
-$code .= "\$httpCode = curl_getinfo(\$ch, CURLINFO_HTTP_CODE);\n";
-$code .= "\$curlError = curl_error(\$ch);\n";
-$code .= "// curl_close() убран — не нужен в PHP 8+\n\n";
+// === Формируем массив вебхуков ===
+$code .= "// Массив активных вебхуков\n";
+$code .= "\$webhooks = array_filter([\n";
+$code .= "    defined('BITRIX_WEBHOOK_1') ? BITRIX_WEBHOOK_1 : '',\n";
+$code .= "    defined('BITRIX_WEBHOOK_2') ? BITRIX_WEBHOOK_2 : ''\n";
+$code .= "]);\n\n";
 
-$code .= "\$status = 'Неизвестно';\n";
-$code .= "\$leadId = null;\n";
-$code .= "\$deliveryFailed = false;\n";
-$code .= "if (\$curlError) {\n";
-$code .= "    \$status = 'Ошибка CURL: ' . \$curlError;\n";
-$code .= "    \$deliveryFailed = true;\n";
-$code .= "} elseif (\$httpCode >= 500 || \$httpCode === 0) {\n";
-$code .= "    \$status = 'Ошибка сети/сервера HTTP ' . \$httpCode;\n";
-$code .= "    \$deliveryFailed = true;\n";
-$code .= "} else {\n";
-$code .= "    \$json = json_decode(\$response, true);\n";
-$code .= "    if (!empty(\$json['result'])) {\n";
-$code .= "        \$leadId = \$json['result'];\n";
-$code .= "        \$status = 'Успешно (Lead ID: ' . \$leadId . ')';\n";
-$code .= "    } elseif (!empty(\$json['error'])) {\n";
-$code .= "        \$status = 'Ошибка Bitrix: ' . (\$json['error_description'] ?? \$json['error']);\n";
-$code .= "        \$deliveryFailed = true; // Ошибка API — сохраняем для переотправки\n";
-$code .= "    } elseif (\$httpCode >= 400) {\n";
-$code .= "        \$status = 'Ошибка HTTP ' . \$httpCode;\n";
-$code .= "        \$deliveryFailed = true; // HTTP 4xx ошибка — сохраняем для переотправки\n";
+$code .= "// Отправка на каждый активный хук\n";
+$code .= "\$sendResults = [];\n";
+$code .= "foreach (\$webhooks as \$hookIndex => \$webhookUrl) {\n";
+$code .= "    \$ch = curl_init(\$webhookUrl . 'crm.lead.add');\n";
+$code .= "    curl_setopt_array(\$ch, [\n";
+$code .= "        CURLOPT_POST => true,\n";
+$code .= "        CURLOPT_POSTFIELDS => http_build_query(['fields' => \$fields, 'params' => ['REGISTER_SONET_EVENT' => 'Y']]),\n";
+$code .= "        CURLOPT_RETURNTRANSFER => true,\n";
+$code .= "        CURLOPT_SSL_VERIFYPEER => false,\n";
+$code .= "        CURLOPT_TIMEOUT => 15\n";
+$code .= "    ]);\n";
+$code .= "    \$response = curl_exec(\$ch);\n";
+$code .= "    \$httpCode = curl_getinfo(\$ch, CURLINFO_HTTP_CODE);\n";
+$code .= "    \$curlError = curl_error(\$ch);\n";
+$code .= "    curl_close(\$ch);\n\n";
+
+$code .= "    \$status = 'Неизвестно';\n";
+$code .= "    \$leadId = null;\n";
+$code .= "    \$deliveryFailed = false;\n";
+$code .= "    if (\$curlError) {\n";
+$code .= "        \$status = 'Ошибка CURL: ' . \$curlError;\n";
+$code .= "        \$deliveryFailed = true;\n";
+$code .= "    } elseif (\$httpCode >= 500 || \$httpCode === 0) {\n";
+$code .= "        \$status = 'Ошибка сети/сервера HTTP ' . \$httpCode;\n";
+$code .= "        \$deliveryFailed = true;\n";
 $code .= "    } else {\n";
-$code .= "        \$status = 'Успешно';\n";
-$code .= "    }\n";
+$code .= "        \$json = json_decode(\$response, true);\n";
+$code .= "        if (!empty(\$json['result'])) {\n";
+$code .= "            \$leadId = \$json['result'];\n";
+$code .= "            \$status = 'Успешно (Lead ID: ' . \$leadId . ')';\n";
+$code .= "        } elseif (!empty(\$json['error'])) {\n";
+$code .= "            \$status = 'Ошибка Bitrix: ' . (\$json['error_description'] ?? \$json['error']);\n";
+$code .= "            \$deliveryFailed = true;\n";
+$code .= "        } elseif (\$httpCode >= 400) {\n";
+$code .= "            \$status = 'Ошибка HTTP ' . \$httpCode;\n";
+$code .= "            \$deliveryFailed = true;\n";
+$code .= "        } else {\n";
+$code .= "            \$status = 'Успешно';\n";
+$code .= "        }\n";
+$code .= "    }\n\n";
+
+$code .= "    \$sendResults[] = [\n";
+$code .= "        'hook_index' => \$hookIndex + 1,\n";
+$code .= "        'url' => \$webhookUrl,\n";
+$code .= "        'http_code' => \$httpCode,\n";
+$code .= "        'success' => (\$leadId !== null),\n";
+$code .= "        'lead_id' => \$leadId,\n";
+$code .= "        'error' => \$status,\n";
+$code .= "        'response' => \$response,\n";
+$code .= "        'deliveryFailed' => \$deliveryFailed,\n";
+$code .= "        'fields' => \$fields\n";
+$code .= "    ];\n";
 $code .= "}\n\n";
 
-$code .= "// Сохранение недоставленного лида\n";
-$code .= "// Сохраняем недоставленный лид для повторной отправки\n";
-$code .= "if (\$deliveryFailed) {\n";
+// === Логирование по каждому хуку ===
+$code .= "// Разделение логов по хукам\n";
+$code .= "foreach (\$sendResults as \$res) {\n";
+$code .= "    \$logEntry = \$baseLogEntry;\n";
+$code .= "    \$logEntry .= \"=== Хук #\" . \$res['hook_index'] . \" ===\\n\";\n";
+$code .= "    \$logEntry .= \"URL: \" . \$res['url'] . \"\\n\";\n";
+$code .= "    \$logEntry .= \"Статус: \" . \$res['error'] . \"\\n\";\n";
+$code .= "    \$logEntry .= \"Bitrix Response: \" . substr(\$res['response'] ?? '', 0, 500) . \"\\n\";\n";
+$code .= "    \$logEntry .= str_repeat('=', 50) . \"\\n\\n\";\n";
+$code .= "    \n";
+$code .= "    \$logFile = __DIR__ . '/../logs/" . addslashes($newName) . "_hook\" . \$res['hook_index'] . \".log';\n";
+$code .= "    file_put_contents(\$logFile, \$logEntry, FILE_APPEND);\n";
+$code .= "}\n\n";
+
+// === Сохранение недоставленных лидов (если все хуки упали) ===
+$code .= "// Сохраняем недоставленный лид, если ВСЕ хуки не сработали\n";
+$code .= "\$allFailed = array_filter(\$sendResults, fn(\$r) => \$r['deliveryFailed']);\n";
+$code .= "if (count(\$allFailed) === count(\$sendResults) && !empty(\$sendResults)) {\n";
+$code .= "    \$first = \$sendResults[0];\n";
 $code .= "    \$failedLead = [\n";
 $code .= "        'id' => uniqid('lead_'),\n";
 $code .= "        'time' => \$logTime,\n";
-$code .= "        'fields' => \$fields,\n";
+$code .= "        'fields' => \$first['fields'],\n";
 $code .= "        'input' => \$input,\n";
-$code .= "        'error' => \$status,\n";
+$code .= "        'error' => \$first['error'],\n";
 $code .= "        'attempts' => 0,\n";
 $code .= "        'last_attempt' => null\n";
 $code .= "    ];\n";
@@ -936,30 +986,34 @@ $code .= "    \$failedLeads[] = \$failedLead;\n";
 $code .= "    file_put_contents(\$failedFile, json_encode(\$failedLeads, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));\n";
 $code .= "}\n\n";
 
-$code .= "\$logEntry .= \"Bitrix Response: \" . substr(\$response ?? '', 0, 500) . \"\\n\";\n";
-$code .= "\$logEntry .= \"Статус: {\$status}\\n\";\n";
-$code .= "\$logEntry .= str_repeat('-', 50) . \"\\n\\n\";\n\n";
-
-$newNameEscaped = addslashes($newName);
-$code .= "file_put_contents(__DIR__ . '/../logs/{$newNameEscaped}.log', \$logEntry, FILE_APPEND);\n\n";
-
-// Ответ сервису
+// === Ответ клиенту ===
+$code .= "// Ответ сервису (успех, если хотя бы один хук сработал)\n";
 $code .= "if (!isset(\$suppressResponse) || !\$suppressResponse) {\n";
-$code .= "    // Ответ сервису\n";
 $code .= "    header('Content-Type: application/json; charset=utf-8');\n";
-$code .= "    if (\$customResponseEnabled) {\n";
-$code .= "        if (\$leadId) {\n";
-$code .= "            echo json_encode(['id' => (string)\$leadId], JSON_UNESCAPED_UNICODE);\n";
+$code .= "    \$anySuccess = array_filter(\$sendResults, fn(\$r) => \$r['success']);\n";
+$code .= "    \n";
+$code .= "    if (!empty(\$anySuccess) || empty(\$webhooks)) {\n";
+$code .= "        \$leadId = \$sendResults[0]['lead_id'] ?? null;\n";
+$code .= "        if (\$customResponseEnabled) {\n";
+$code .= "            if (\$leadId) {\n";
+$code .= "                echo json_encode(['id' => (string)\$leadId], JSON_UNESCAPED_UNICODE);\n";
+$code .= "            } else {\n";
+$code .= "                echo json_encode(['status' => 'ok'], JSON_UNESCAPED_UNICODE);\n";
+$code .= "            }\n";
 $code .= "        } else {\n";
-$code .= "            \$errCode = (\$httpCode >= 400 && \$httpCode < 600) ? \$httpCode : 500;\n";
-$code .= "            http_response_code(\$errCode);\n";
-$code .= "            echo json_encode(['error' => \$status], JSON_UNESCAPED_UNICODE);\n";
+$code .= "            echo json_encode([\n";
+$code .= "                'status' => \$leadId ? 'ok' : 'warning',\n";
+$code .= "                'lead_id' => \$leadId,\n";
+$code .= "                'message' => 'Отправлено в ' . count(\$webhooks) . ' вебхук(ов)',\n";
+$code .= "                'hooks_sent' => count(\$webhooks)\n";
+$code .= "            ], JSON_UNESCAPED_UNICODE);\n";
 $code .= "        }\n";
 $code .= "    } else {\n";
+$code .= "        http_response_code(502);\n";
 $code .= "        echo json_encode([\n";
-$code .= "            'status' => \$leadId ? 'ok' : 'error',\n";
-$code .= "            'lead_id' => \$leadId,\n";
-$code .= "            'message' => \$status\n";
+$code .= "            'status' => 'error',\n";
+$code .= "            'message' => 'Не удалось отправить ни в один вебхук',\n";
+$code .= "            'details' => array_map(fn(\$r) => ['hook' => \$r['hook_index'], 'error' => \$r['error']], \$sendResults)\n";
 $code .= "        ], JSON_UNESCAPED_UNICODE);\n";
 $code .= "    }\n";
 $code .= "}\n";

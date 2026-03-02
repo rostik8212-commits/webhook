@@ -267,10 +267,11 @@ if ($_POST['action'] ?? '' === 'save') {
         'routes'       => $routes
     ], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
-    $webhook = BITRIX_WEBHOOK;
-    $source  = $sourceId;
+$webhook = defined('BITRIX_WEBHOOK_1') ? BITRIX_WEBHOOK_1 : '';
+$source  = $sourceId;
+require 'generate_hook.php';
 
-    require 'generate_hook.php';
+    
     header('Location: index.php');
     exit;
 }
@@ -1648,79 +1649,93 @@ if ($isEdit) {
 
 <?php
 function renderLogs($hookName, $detailed = false) {
-    $logFile = "logs/{$hookName}.log";
-    if (!file_exists($logFile) || filesize($logFile) === 0) {
-        return '<div class="text-center text-muted py-5">Логов нет</div>';
-    }
-
-    $content = file_get_contents($logFile);
-    $blocks = preg_split('/-{50,}/', $content);
-    $blocks = array_filter($blocks);
-    $blocks = array_reverse($blocks);
-    $output = '';
-
-    foreach ($blocks as $block) {
-        if (trim($block) === '') continue;
-        $output .= formatLogBlock(trim($block), $detailed);
-    }
-
-    return $output ?: '<div class="text-center text-muted py-5">Логов нет</div>';
-}
-
-function formatLogBlock($blockText, $detailed) {
-    $lines = array_filter(explode("\n", $blockText));
-    if (empty($lines)) return '';
-
-    $timeLine = array_shift($lines);
-    preg_match('/Время:\s*(.+)/', $timeLine, $m);
-    $time = $m[1] ?? 'Неизвестно';
-
-    $content = implode("\n", $lines);
-
-    $status = 'Неизвестно';
-    $statusClass = 'text-muted';
-    if (strpos($content, 'Статус: Успешно') !== false) {
-        $status = 'Успешно';
-        $statusClass = 'log-status-success';
-    } elseif (preg_match('/Статус: Ошибка|Ошибка|CURL|HTTP \d{3}/i', $content)) {
-        $status = 'Ошибка';
-        $statusClass = 'log-status-error';
-    }
-
-    $result = "<div class='log-entry'>";
-
-    $result .= "<div class='d-flex justify-content-between align-items-center mb-3'>";
-    $result .= "<span class='log-time'>{$time}</span>";
-    $result .= "<span class='{$statusClass}'>{$status}</span>";
-    $result .= "</div>";
-
-    if (!$detailed) {
-        $short = [];
-        foreach ($lines as $line) {
-            if (strpos($line, 'NAME] =>') !== false && preg_match('/NAME\]\s*=>\s*(.+)/', $line, $m)) {
-                $short[] = "Имя: " . trim($m[1]);
-            }
-            if (strpos($line, '[VALUE] =>') !== false && preg_match('/\[VALUE\]\s*=>\s*\+?(\d+)/', $line, $m)) {
-                $short[] = "Телефон: +" . $m[1];
-            }
-            if (strpos($line, '<b>') !== false) {
-                $short[] = strip_tags($line);
+    $hookNum = $_GET['hook_num'] ?? '1'; // 1 или 2, по умолчанию 1
+    $logFile = "logs/{$hookName}_hook{$hookNum}.log";
+    
+    echo '<div class="logs-section mt-4">';
+    echo '<div class="logs-header d-flex justify-content-between align-items-center">';
+    echo '<h5 class="mb-0">📜 Логи интеграции: <strong>' . htmlspecialchars($hookName) . '</strong></h5>';
+    
+    // 🔀 Переключатель хуков
+    echo '<div class="btn-group btn-group-sm me-3">';
+    echo '<a href="?name=' . urlencode($hookName) . '&hook_num=1" class="btn btn-outline-light ' . ($hookNum == '1' ? 'active' : '') . '">Хук #1</a>';
+    echo '<a href="?name=' . urlencode($hookName) . '&hook_num=2" class="btn btn-outline-light ' . ($hookNum == '2' ? 'active' : '') . '">Хук #2</a>';
+    echo '</div>';
+    
+    echo '<div>';
+    echo '<a href="?download_log=' . urlencode($hookName) . '&hook_num=' . $hookNum . '" class="btn btn-sm btn-outline-light">⬇️ Скачать</a>';
+    echo '<button class="btn btn-sm btn-outline-light ms-2" onclick="toggleLogs(\'' . $hookName . '\')">▼ Свернуть</button>';
+    echo '</div></div>';
+    
+    echo '<div class="logs-content" id="logs-' . $hookName . '">';
+    
+    if (!file_exists($logFile)) {
+        echo '<div class="text-center text-muted py-4">📭 Логов пока нет для хука #' . $hookNum . '</div>';
+    } else {
+        $content = file_get_contents($logFile);
+        $blocks = preg_split('/={50,}/', $content);
+        $blocks = array_filter(array_map('trim', $blocks));
+        
+        if (empty($blocks)) {
+            echo '<div class="text-center text-muted py-4">Лог пуст</div>';
+        } else {
+            // Показываем последние 50 записей
+            foreach (array_slice(array_reverse($blocks), 0, 50) as $block) {
+                if (trim($block) === '') continue;
+                
+                $isError = preg_match('/Ошибка|Error|Failed|CURL error/i', $block);
+                $isSuccess = preg_match('/Успешно|Lead ID[:\s]+\d+/i', $block);
+                
+                echo '<div class="log-entry">';
+                
+                // Время
+                if (preg_match('/Время:\s*(.+)/', $block, $m)) {
+                    echo '<div class="log-time">🕐 ' . htmlspecialchars(trim($m[1])) . '</div>';
+                }
+                
+                // URL хука
+                if (preg_match('/URL:\s*(.+)/', $block, $m)) {
+                    $url = htmlspecialchars(trim($m[1]));
+                    echo '<div class="small text-muted">🔗 ' . (strlen($url) > 70 ? substr($url, 0, 67) . '...' : $url) . '</div>';
+                }
+                
+                // Статус
+                if ($isSuccess) {
+                    echo '<div class="log-success">✅ ' . htmlspecialchars(extractLogStatus($block)) . '</div>';
+                    // Ссылка на лид в Битрикс
+                    if (preg_match('/Lead ID[:\s]+(\d+)/', $block, $m)) {
+                        echo '<div><a href="https://bankrot40.bitrix24.ru/crm/lead/details/' . $m[1] . '/" target="_blank" class="text-info">🔗 Открыть лид #' . $m[1] . '</a></div>';
+                    }
+                } elseif ($isError) {
+                    echo '<div class="log-error">❌ ' . htmlspecialchars(extractLogError($block)) . '</div>';
+                }
+                
+                echo '</div>';
             }
         }
-        if (empty($short)) $short[] = "Данные не переданы";
-
-        $result .= "<div class='log-short-data'>";
-        foreach ($short as $item) $result .= "<div>{$item}</div>";
-        $result .= "</div>";
     }
+    echo '</div></div>';
+}
 
-    if ($detailed) {
-        $result .= "<div class='log-detail'><pre>";
-        $result .= htmlspecialchars($content);
-        $result .= "</pre></div>";
+// Вспомогательная: извлечение статуса из лога
+function extractLogStatus($log) {
+    if (preg_match('/Статус:\s*Успешно \(Lead ID:\s*(\d+)\)/i', $log, $m)) {
+        return 'Успешно, Lead ID: ' . $m[1];
     }
+    return 'Успешно';
+}
 
-    $result .= "</div>";
-    return $result;
+// Вспомогательная: извлечение ошибки из лога
+function extractLogError($log) {
+    if (preg_match('/Статус:\s*(Ошибка[^\n]+)/i', $log, $m)) {
+        return trim($m[1]);
+    }
+    if (preg_match('/Ошибка CURL:\s*([^\n]+)/i', $log, $m)) {
+        return 'CURL: ' . trim($m[1]);
+    }
+    if (preg_match('/Ошибка Bitrix:\s*([^\n]+)/i', $log, $m)) {
+        return 'Bitrix: ' . trim($m[1]);
+    }
+    return 'Неизвестная ошибка';
 }
 ?>

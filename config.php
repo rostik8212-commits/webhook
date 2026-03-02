@@ -2,8 +2,11 @@
 session_start();
 
 // === КОНСТАНТЫ ДОЛЖНЫ БЫТЬ В САМОМ НАЧАЛЕ — ДО ЛЮБОЙ ПРОВЕРКИ СЕССИИ! ===
-define('BITRIX_WEBHOOK', 'https://bankrot40.bitrix24.ru/rest/18903/n2i6t24dkq1mith8/');
-define('WEBHOOK_SET_DATE', '2026-02-04 13:56:18');
+// Поддержка ДВУХ вебхуков Битрикс
+define('BITRIX_WEBHOOK_1', 'https://bankrot40.bitrix24.ru/');
+define('BITRIX_WEBHOOK_2', 'https://bankrot40.bitrix24.ru/'); // Пусто по умолчанию — второй хук опционален
+define('WEBHOOK_SET_DATE_1', '2026-02-27 10:24:14');
+define('WEBHOOK_SET_DATE_2', '2026-02-27 10:24:14');
 
 // === ИСКЛЮЧЕНИЕ ДЛЯ ХУКОВ (папка srt/) ===
 $isWebhook = false;
@@ -17,7 +20,6 @@ if (isset($_SERVER['SCRIPT_FILENAME'])) {
 
 // Если это хук — пропускаем всю авторизацию
 if ($isWebhook) {
-    // Хуки могут работать без сессии
     goto webhook_end;
 }
 
@@ -76,5 +78,5 @@ $bitrixFields = [
 ];
 
 webhook_end:
-// Теперь константа доступна и для хуков, и для админки
+
 ?>
